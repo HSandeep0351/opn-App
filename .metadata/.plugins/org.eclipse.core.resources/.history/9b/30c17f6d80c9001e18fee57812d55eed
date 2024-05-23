@@ -1,0 +1,18 @@
+package com.practapp.dao;
+
+import java.util.List;
+
+import com.practapp.Entity.Customer;
+
+
+
+public interface CustomerDao {
+	public Customer addCustomer(Customer customer);
+
+	public Customer updateCustomer(Customer customer); 
+	public Customer deleteCustomer(Long customerId);
+	public Customer getCustomerByEmail(String email);
+	public Customer viewCustomer(Long customerId);
+	public List<Customer> viewAllCustomers();
+
+}

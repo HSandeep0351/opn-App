@@ -1,0 +1,39 @@
+package com.practapp.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.practapp.Entity.Customer;
+import com.practapp.service.CustomerService;
+
+@RestController
+@RequestMapping("/customers")
+public class CustomerController {
+	
+	@Autowired
+	private CustomerService customerService;
+	
+	
+	@PostMapping("/addCustomer")
+	public ResponseEntity<Customer> addCustomer(@RequestBody Customer customer) {
+		Customer addedCustomer=customerService.addCustomer(customer);
+		return ResponseEntity.ok(addedCustomer);
+	}
+	
+	@PutMapping("/update")
+	public ResponseEntity<Customer> updateCustomer(@RequestBody Customer customer){
+		Customer updateCustomer=customerService.updateCustomer(customer);
+		return ResponseEntity.ok(updateCustomer);
+	}
+	
+	
+	
+	
+	
+
+}

@@ -1,0 +1,5 @@
+package com.practapp.repositories;
+
+public class CustomerRepository {
+
+}

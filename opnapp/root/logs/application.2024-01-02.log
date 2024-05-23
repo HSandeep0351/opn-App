@@ -1,0 +1,868 @@
+2024-01-02 12:09:28.177 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 8944 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by GPRITHAM in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-02 12:09:28.181 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-02 12:09:28.220 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-02 12:09:28.220 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-02 12:09:28.907 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-02 12:09:29.001 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 87 ms. Found 7 JPA repository interfaces.
+2024-01-02 12:09:29.553 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-02 12:09:29.562 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-02 12:09:29.564 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-02 12:09:29.565 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-02 12:09:29.626 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-02 12:09:29.626 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1406 ms
+2024-01-02 12:09:29.764 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-02 12:09:29.854 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+2024-01-02 12:09:29.855 [restartedMain] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2024-01-02 12:09:30.143 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-02 12:09:30.167 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-02 12:09:30.430 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5167c4e5
+2024-01-02 12:09:30.432 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-02 12:09:31.481 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-02 12:09:31.559 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-02 12:09:31.763 [restartedMain] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-01-02 12:09:32.375 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-02 12:09:32.695 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-02 12:09:32.712 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-02 12:09:32.734 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-02 12:09:32.743 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 4.983 seconds (process running for 5.844)
+2024-01-02 12:09:55.474 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-02 12:09:55.474 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-02 12:09:55.475 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-02 12:10:06.592 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5bc92552
+2024-01-02 12:10:06.600 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 12:19:55.165 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@19c6e607
+2024-01-02 12:19:55.166 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 12:19:57.089 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@4ef60435
+2024-01-02 12:19:57.090 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 12:24:04.646 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 12:24:14.422 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 12:24:14.423 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 12:24:14.449 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 36
+2024-01-02 12:24:19.877 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 12:24:23.395 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 163
+2024-01-02 12:24:23.395 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 163
+2024-01-02 12:24:23.403 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@38cbb750
+2024-01-02 12:24:31.421 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@4424e4bf
+2024-01-02 12:24:31.423 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 12:24:42.010 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 12:24:47.627 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 163
+2024-01-02 12:24:47.627 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 163
+2024-01-02 12:24:47.631 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@cd4af08
+2024-01-02 12:24:51.786 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@1705cf89
+2024-01-02 12:24:51.787 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 12:25:14.585 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 12:25:18.281 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 163
+2024-01-02 12:25:18.281 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 163
+2024-01-02 12:25:18.284 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@73d67cc1
+2024-01-02 12:25:20.335 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@39dcff60
+2024-01-02 12:25:20.337 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 12:25:47.580 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 12:25:47.580 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 12:25:47.590 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 36
+2024-01-02 12:25:53.715 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 12:25:57.529 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 163
+2024-01-02 12:25:57.529 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 163
+2024-01-02 12:25:57.532 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@1513aea7
+2024-01-02 12:26:05.720 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@ba10ded
+2024-01-02 12:26:05.721 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 12:47:13.149 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 17668 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-02 12:47:13.153 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-02 12:47:13.223 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-02 12:47:13.223 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-02 12:47:14.576 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-02 12:47:14.749 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 158 ms. Found 7 JPA repository interfaces.
+2024-01-02 12:47:15.940 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-02 12:47:15.980 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-02 12:47:15.986 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-02 12:47:15.986 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-02 12:47:16.229 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-02 12:47:16.230 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3006 ms
+2024-01-02 12:47:16.752 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-02 12:47:16.966 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+2024-01-02 12:47:16.970 [restartedMain] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2024-01-02 12:47:17.812 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-02 12:47:17.868 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-02 12:47:18.579 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6384758b
+2024-01-02 12:47:18.582 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-02 12:47:20.347 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-02 12:47:20.550 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-02 12:47:21.132 [restartedMain] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-01-02 12:47:22.958 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-02 12:47:23.904 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-02 12:47:23.929 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-02 12:47:23.965 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-02 12:47:23.978 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 11.782 seconds (process running for 13.373)
+2024-01-02 12:51:53.752 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-02 12:51:53.752 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-02 12:51:53.753 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-02 12:51:57.417 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 12:52:02.311 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 156
+2024-01-02 12:52:02.312 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 156
+2024-01-02 12:52:02.320 [http-nio-8050-exec-4] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 156 not found
+2024-01-02 12:52:02.322 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID156not found]
+2024-01-02 12:52:02.831 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 156
+2024-01-02 12:52:02.831 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 156
+2024-01-02 12:52:02.834 [http-nio-8050-exec-5] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 156 not found
+2024-01-02 12:52:02.836 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID156not found]
+2024-01-02 12:52:03.551 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 156
+2024-01-02 12:52:03.551 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 156
+2024-01-02 12:52:03.554 [http-nio-8050-exec-6] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 156 not found
+2024-01-02 12:52:03.555 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID156not found]
+2024-01-02 12:52:06.779 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 167
+2024-01-02 12:52:06.780 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 167
+2024-01-02 12:52:06.789 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@68038f1b
+2024-01-02 12:53:01.302 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 12:53:04.850 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 165
+2024-01-02 12:53:04.850 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 165
+2024-01-02 12:53:04.853 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@34731163
+2024-01-02 12:53:07.857 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@764a81f6
+2024-01-02 12:53:07.858 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 12:53:23.812 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 12:53:26.287 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 165
+2024-01-02 12:53:26.288 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 165
+2024-01-02 12:53:26.291 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@1240e593
+2024-01-02 12:53:28.217 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 165
+2024-01-02 12:53:28.240 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 165
+2024-01-02 12:53:28.262 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 165
+2024-01-02 12:53:36.008 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 12:53:39.301 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 165
+2024-01-02 12:53:39.301 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 165
+2024-01-02 12:53:39.305 [http-nio-8050-exec-9] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 165 not found
+2024-01-02 12:53:39.306 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID165not found]
+2024-01-02 12:53:42.385 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 168
+2024-01-02 12:53:42.386 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 168
+2024-01-02 12:53:42.388 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@3cde4e96
+2024-01-02 12:53:44.445 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@1ccc04e1
+2024-01-02 12:53:44.447 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 12:58:21.099 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 12:58:25.510 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 168
+2024-01-02 12:58:25.510 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 168
+2024-01-02 12:58:25.512 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@1ed13de6
+2024-01-02 13:02:45.874 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@73d09c85
+2024-01-02 13:02:45.875 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 14:33:23.002 [RMI TCP Connection(115)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2024-01-02 14:33:23.047 [RMI TCP Connection(115)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-02 14:33:23.047 [RMI TCP Connection(115)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-02 14:33:23.051 [RMI TCP Connection(115)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-02 14:33:23.060 [RMI TCP Connection(115)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-02 14:33:23.071 [RMI TCP Connection(115)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-02 14:33:23.089 [RMI TCP Connection(115)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-02 14:33:23.093 [RMI TCP Connection(115)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-02 14:53:29.517 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 12892 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-02 14:53:29.519 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-02 14:53:29.554 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-02 14:53:29.555 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-02 14:53:30.020 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-02 14:53:30.084 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 57 ms. Found 7 JPA repository interfaces.
+2024-01-02 14:53:30.470 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-02 14:53:30.475 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-02 14:53:30.476 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-02 14:53:30.476 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-02 14:53:30.520 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-02 14:53:30.520 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 965 ms
+2024-01-02 14:53:30.612 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-02 14:53:30.644 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+2024-01-02 14:53:30.645 [restartedMain] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2024-01-02 14:53:30.821 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-02 14:53:30.840 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-02 14:53:31.074 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4a0def1f
+2024-01-02 14:53:31.076 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-02 14:53:31.934 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-02 14:53:32.012 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-02 14:53:32.177 [restartedMain] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-01-02 14:53:32.612 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-02 14:53:32.850 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-02 14:53:32.869 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-02 14:53:32.889 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-02 14:53:32.898 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 3.708 seconds (process running for 4.459)
+2024-01-02 14:53:57.031 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-02 14:53:57.031 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-02 14:53:57.032 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-02 14:54:35.726 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3a94ac6
+2024-01-02 14:54:35.732 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 14:54:57.688 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-02 14:54:57.691 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Plant height should be a positive integer]
+2024-01-02 14:59:04.046 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-02 14:59:04.049 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Plant height should be a positive integer]
+2024-01-02 15:10:40.162 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-02 15:10:40.167 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Plant height should be a positive integer]
+2024-01-02 15:11:32.130 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:15:20.330 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@6f65c647
+2024-01-02 15:15:20.333 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 15:15:34.969 [http-nio-8050-exec-3] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-02 15:15:35.011 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 0
+2024-01-02 15:15:38.756 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@28a4254a
+2024-01-02 15:15:38.757 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 15:15:45.222 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3d095b49
+2024-01-02 15:15:45.224 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 15:15:54.093 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:27:15.629 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:27:20.065 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 168
+2024-01-02 15:27:20.066 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 168
+2024-01-02 15:27:20.103 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@609bdbb3
+2024-01-02 15:27:23.386 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 168
+2024-01-02 15:27:23.417 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 168
+2024-01-02 15:27:23.449 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 168
+2024-01-02 15:27:36.397 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:27:41.487 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 168
+2024-01-02 15:27:41.487 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 168
+2024-01-02 15:27:41.491 [http-nio-8050-exec-4] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 168 not found
+2024-01-02 15:27:41.493 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID168not found]
+2024-01-02 15:27:43.535 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 169
+2024-01-02 15:27:43.535 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 169
+2024-01-02 15:27:43.538 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@2786d48f
+2024-01-02 15:28:49.329 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:28:53.996 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 169
+2024-01-02 15:28:53.996 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 169
+2024-01-02 15:28:53.999 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@1dfa03ce
+2024-01-02 15:29:08.228 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 169
+2024-01-02 15:29:08.232 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 169
+2024-01-02 15:29:08.238 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 169
+2024-01-02 15:29:17.227 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 170
+2024-01-02 15:29:17.227 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 170
+2024-01-02 15:29:17.230 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@10e911f7
+2024-01-02 15:29:26.535 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 170
+2024-01-02 15:29:26.539 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 170
+2024-01-02 15:29:26.545 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 170
+2024-01-02 15:29:37.161 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 170
+2024-01-02 15:29:37.161 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 170
+2024-01-02 15:29:37.164 [http-nio-8050-exec-5] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 170 not found
+2024-01-02 15:29:37.166 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID170not found]
+2024-01-02 15:29:37.296 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 170
+2024-01-02 15:29:37.296 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 170
+2024-01-02 15:29:37.298 [http-nio-8050-exec-6] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 170 not found
+2024-01-02 15:29:37.299 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID170not found]
+2024-01-02 15:29:37.513 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 170
+2024-01-02 15:29:37.513 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 170
+2024-01-02 15:29:37.515 [http-nio-8050-exec-7] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 170 not found
+2024-01-02 15:29:37.517 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID170not found]
+2024-01-02 15:30:56.971 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:31:00.824 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 171
+2024-01-02 15:31:00.824 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 171
+2024-01-02 15:31:00.831 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@203997b5
+2024-01-02 15:31:02.723 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 171
+2024-01-02 15:31:02.728 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 171
+2024-01-02 15:31:02.735 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 171
+2024-01-02 15:31:11.239 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-02 15:31:11.239 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-02 15:31:11.242 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@40343ce1
+2024-01-02 15:38:39.064 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:38:43.692 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 178
+2024-01-02 15:38:43.692 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 178
+2024-01-02 15:38:43.696 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@2e85569e
+2024-01-02 15:38:47.779 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 178
+2024-01-02 15:38:47.787 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 178
+2024-01-02 15:38:47.793 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 178
+2024-01-02 15:39:01.501 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:39:24.854 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:39:54.431 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 180
+2024-01-02 15:39:54.432 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 180
+2024-01-02 15:39:54.436 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@2fca7953
+2024-01-02 15:39:55.612 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 180
+2024-01-02 15:39:55.612 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 180
+2024-01-02 15:39:55.615 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@16aa7604
+2024-01-02 15:40:18.563 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 180
+2024-01-02 15:40:18.571 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 180
+2024-01-02 15:40:18.586 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 180
+2024-01-02 15:40:42.681 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:40:50.242 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:40:55.046 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 181
+2024-01-02 15:40:55.047 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 181
+2024-01-02 15:40:55.053 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@1556354
+2024-01-02 15:41:01.413 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 181
+2024-01-02 15:41:01.419 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 181
+2024-01-02 15:41:01.429 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 181
+2024-01-02 15:41:13.311 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:42:46.828 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:42:54.247 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 188
+2024-01-02 15:42:54.247 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 188
+2024-01-02 15:42:54.249 [http-nio-8050-exec-4] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 188 not found
+2024-01-02 15:42:54.250 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID188not found]
+2024-01-02 15:42:58.118 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 182
+2024-01-02 15:42:58.118 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 182
+2024-01-02 15:42:58.122 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@1a231dec
+2024-01-02 15:43:00.476 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 182
+2024-01-02 15:43:00.477 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 182
+2024-01-02 15:43:00.478 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 182
+2024-01-02 15:43:00.483 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@38cbb750
+2024-01-02 15:43:00.484 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 182
+2024-01-02 15:43:00.490 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 182
+2024-01-02 15:46:34.675 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:46:40.593 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 181
+2024-01-02 15:46:40.593 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 181
+2024-01-02 15:46:40.597 [http-nio-8050-exec-3] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 181 not found
+2024-01-02 15:46:40.599 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID181not found]
+2024-01-02 15:46:42.362 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 182
+2024-01-02 15:46:42.362 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 182
+2024-01-02 15:46:42.365 [http-nio-8050-exec-4] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 182 not found
+2024-01-02 15:46:42.366 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID182not found]
+2024-01-02 15:46:43.576 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 183
+2024-01-02 15:46:43.576 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 183
+2024-01-02 15:46:43.580 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@2463479f
+2024-01-02 15:46:45.433 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 183
+2024-01-02 15:46:45.439 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 183
+2024-01-02 15:46:45.445 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 183
+2024-01-02 15:46:58.089 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 179
+2024-01-02 15:46:58.090 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 179
+2024-01-02 15:46:58.094 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@5ce055f9
+2024-01-02 15:48:34.347 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:48:42.778 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 177
+2024-01-02 15:48:42.778 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 177
+2024-01-02 15:48:42.783 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@f687870
+2024-01-02 15:48:47.924 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 177
+2024-01-02 15:48:47.928 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 177
+2024-01-02 15:48:47.945 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 177
+2024-01-02 15:49:09.175 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 178
+2024-01-02 15:49:09.175 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 178
+2024-01-02 15:49:09.179 [http-nio-8050-exec-5] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 178 not found
+2024-01-02 15:49:09.180 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID178not found]
+2024-01-02 15:49:15.953 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 176
+2024-01-02 15:49:15.954 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 176
+2024-01-02 15:49:15.957 [http-nio-8050-exec-6] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 176 not found
+2024-01-02 15:49:15.959 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID176not found]
+2024-01-02 15:49:16.517 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 176
+2024-01-02 15:49:16.517 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 176
+2024-01-02 15:49:16.521 [http-nio-8050-exec-7] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 176 not found
+2024-01-02 15:49:16.522 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID176not found]
+2024-01-02 15:49:21.906 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 200
+2024-01-02 15:49:21.906 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 200
+2024-01-02 15:49:21.909 [http-nio-8050-exec-8] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 200 not found
+2024-01-02 15:49:21.910 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID200not found]
+2024-01-02 15:49:22.797 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 200
+2024-01-02 15:49:22.798 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 200
+2024-01-02 15:49:22.800 [http-nio-8050-exec-10] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 200 not found
+2024-01-02 15:49:22.800 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID200not found]
+2024-01-02 15:50:01.718 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@183f6d5a
+2024-01-02 15:50:01.720 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter shape should not be empty and should contain only letters]
+2024-01-02 15:50:02.730 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@7af64454
+2024-01-02 15:50:02.731 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter shape should not be empty and should contain only letters]
+2024-01-02 15:50:07.504 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@50817792
+2024-01-02 15:50:07.504 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@50817792
+2024-01-02 15:50:07.566 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@50817792
+2024-01-02 15:50:08.410 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@be6e15a
+2024-01-02 15:50:08.410 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@be6e15a
+2024-01-02 15:50:08.416 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@be6e15a
+2024-01-02 15:50:08.984 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@28c2cfe7
+2024-01-02 15:50:08.984 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@28c2cfe7
+2024-01-02 15:50:08.988 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@28c2cfe7
+2024-01-02 15:50:09.370 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5b1b729f
+2024-01-02 15:50:09.370 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@5b1b729f
+2024-01-02 15:50:09.378 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@5b1b729f
+2024-01-02 15:50:11.388 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@217e78c2
+2024-01-02 15:50:11.388 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@217e78c2
+2024-01-02 15:50:11.392 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@217e78c2
+2024-01-02 15:50:12.573 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@67476091
+2024-01-02 15:50:12.573 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@67476091
+2024-01-02 15:50:12.577 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@67476091
+2024-01-02 15:50:12.903 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@30cf3a00
+2024-01-02 15:50:12.904 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@30cf3a00
+2024-01-02 15:50:12.907 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@30cf3a00
+2024-01-02 15:50:13.706 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@357cf24
+2024-01-02 15:50:13.706 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@357cf24
+2024-01-02 15:50:13.712 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@357cf24
+2024-01-02 15:50:14.291 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@6a63cffa
+2024-01-02 15:50:14.291 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@6a63cffa
+2024-01-02 15:50:14.297 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@6a63cffa
+2024-01-02 15:50:14.942 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@38e32545
+2024-01-02 15:50:14.942 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@38e32545
+2024-01-02 15:50:14.948 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@38e32545
+2024-01-02 15:50:15.516 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@2bfa9c9b
+2024-01-02 15:50:15.516 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@2bfa9c9b
+2024-01-02 15:50:15.520 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@2bfa9c9b
+2024-01-02 15:50:16.121 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@58786f17
+2024-01-02 15:50:16.121 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@58786f17
+2024-01-02 15:50:16.125 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@58786f17
+2024-01-02 15:50:16.710 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@73f6fea
+2024-01-02 15:50:16.710 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@73f6fea
+2024-01-02 15:50:16.716 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@73f6fea
+2024-01-02 15:50:17.275 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5cee9041
+2024-01-02 15:50:17.275 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@5cee9041
+2024-01-02 15:50:17.281 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@5cee9041
+2024-01-02 15:50:17.917 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@52715e2c
+2024-01-02 15:50:17.917 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@52715e2c
+2024-01-02 15:50:17.920 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@52715e2c
+2024-01-02 15:50:18.492 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@7b5267fb
+2024-01-02 15:50:18.493 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@7b5267fb
+2024-01-02 15:50:18.499 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@7b5267fb
+2024-01-02 15:50:19.069 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@75d5aae7
+2024-01-02 15:50:19.069 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@75d5aae7
+2024-01-02 15:50:19.073 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@75d5aae7
+2024-01-02 15:50:19.642 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@8936a13
+2024-01-02 15:50:19.642 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@8936a13
+2024-01-02 15:50:19.648 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@8936a13
+2024-01-02 15:50:20.204 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@1d355c29
+2024-01-02 15:50:20.204 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@1d355c29
+2024-01-02 15:50:20.207 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@1d355c29
+2024-01-02 15:50:20.834 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@7acb86ba
+2024-01-02 15:50:20.835 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@7acb86ba
+2024-01-02 15:50:20.839 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@7acb86ba
+2024-01-02 15:50:21.451 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@33d1fb5e
+2024-01-02 15:50:21.452 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@33d1fb5e
+2024-01-02 15:50:21.456 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@33d1fb5e
+2024-01-02 15:50:22.032 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3fb80771
+2024-01-02 15:50:22.032 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3fb80771
+2024-01-02 15:50:22.036 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3fb80771
+2024-01-02 15:50:22.670 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@7ff44ed5
+2024-01-02 15:50:22.670 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@7ff44ed5
+2024-01-02 15:50:22.675 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@7ff44ed5
+2024-01-02 15:50:23.224 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@4ac6710d
+2024-01-02 15:50:23.224 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@4ac6710d
+2024-01-02 15:50:23.228 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@4ac6710d
+2024-01-02 15:50:23.831 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3aabdce8
+2024-01-02 15:50:23.831 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3aabdce8
+2024-01-02 15:50:23.835 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3aabdce8
+2024-01-02 15:50:24.418 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@4f233093
+2024-01-02 15:50:24.418 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@4f233093
+2024-01-02 15:50:24.421 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@4f233093
+2024-01-02 15:50:25.083 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5b965de4
+2024-01-02 15:50:25.083 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@5b965de4
+2024-01-02 15:50:25.088 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@5b965de4
+2024-01-02 15:50:25.707 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@33be1b7d
+2024-01-02 15:50:25.707 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@33be1b7d
+2024-01-02 15:50:25.712 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@33be1b7d
+2024-01-02 15:50:26.303 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@8e77ac2
+2024-01-02 15:50:26.303 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@8e77ac2
+2024-01-02 15:50:26.306 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@8e77ac2
+2024-01-02 15:50:26.965 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@7a6febe
+2024-01-02 15:50:26.965 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@7a6febe
+2024-01-02 15:50:26.970 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@7a6febe
+2024-01-02 15:50:27.606 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@2844f6ca
+2024-01-02 15:50:27.606 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@2844f6ca
+2024-01-02 15:50:27.609 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@2844f6ca
+2024-01-02 15:50:28.197 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@46e4ec3b
+2024-01-02 15:50:28.197 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@46e4ec3b
+2024-01-02 15:50:28.201 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@46e4ec3b
+2024-01-02 15:50:28.831 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3626521a
+2024-01-02 15:50:28.831 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3626521a
+2024-01-02 15:50:28.835 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3626521a
+2024-01-02 15:50:29.497 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@75a8d5bb
+2024-01-02 15:50:29.497 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@75a8d5bb
+2024-01-02 15:50:29.501 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@75a8d5bb
+2024-01-02 15:50:30.118 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@728d383c
+2024-01-02 15:50:30.119 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@728d383c
+2024-01-02 15:50:30.122 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@728d383c
+2024-01-02 15:50:30.815 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3beaa8a1
+2024-01-02 15:50:30.815 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3beaa8a1
+2024-01-02 15:50:30.818 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3beaa8a1
+2024-01-02 15:50:31.434 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@827a175
+2024-01-02 15:50:31.434 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@827a175
+2024-01-02 15:50:31.439 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@827a175
+2024-01-02 15:50:32.119 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@424486f8
+2024-01-02 15:50:32.119 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@424486f8
+2024-01-02 15:50:32.122 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@424486f8
+2024-01-02 15:50:32.673 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@25f41b90
+2024-01-02 15:50:32.673 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@25f41b90
+2024-01-02 15:50:32.677 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@25f41b90
+2024-01-02 15:50:33.350 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@6b1d142
+2024-01-02 15:50:33.350 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@6b1d142
+2024-01-02 15:50:33.354 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@6b1d142
+2024-01-02 15:50:34.023 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@986f8ae
+2024-01-02 15:50:34.023 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@986f8ae
+2024-01-02 15:50:34.026 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@986f8ae
+2024-01-02 15:50:34.600 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@a5f7d7d
+2024-01-02 15:50:34.600 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@a5f7d7d
+2024-01-02 15:50:34.603 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@a5f7d7d
+2024-01-02 15:50:35.318 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@51c2388a
+2024-01-02 15:50:35.319 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@51c2388a
+2024-01-02 15:50:35.323 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@51c2388a
+2024-01-02 15:50:35.897 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@7e94d4d
+2024-01-02 15:50:35.897 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@7e94d4d
+2024-01-02 15:50:35.901 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@7e94d4d
+2024-01-02 15:50:36.549 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@4139578a
+2024-01-02 15:50:36.550 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@4139578a
+2024-01-02 15:50:36.554 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@4139578a
+2024-01-02 15:50:37.215 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3241f6d0
+2024-01-02 15:50:37.215 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3241f6d0
+2024-01-02 15:50:37.217 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3241f6d0
+2024-01-02 15:50:37.802 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@4f704e5
+2024-01-02 15:50:37.802 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@4f704e5
+2024-01-02 15:50:37.806 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@4f704e5
+2024-01-02 15:50:38.547 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@9e34bf1
+2024-01-02 15:50:38.548 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@9e34bf1
+2024-01-02 15:50:38.551 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@9e34bf1
+2024-01-02 15:50:39.127 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@7889535d
+2024-01-02 15:50:39.127 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@7889535d
+2024-01-02 15:50:39.134 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@7889535d
+2024-01-02 15:50:47.184 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 606
+2024-01-02 15:50:47.185 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 606
+2024-01-02 15:50:47.189 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@301493e7
+2024-01-02 15:54:32.124 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 15:54:36.048 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 607
+2024-01-02 15:54:36.048 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 607
+2024-01-02 15:54:36.051 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@7bc39032
+2024-01-02 15:54:38.846 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 607
+2024-01-02 15:54:38.850 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 607
+2024-01-02 15:54:38.866 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 607
+2024-01-02 15:54:44.437 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 608
+2024-01-02 15:54:44.438 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 608
+2024-01-02 15:54:44.441 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@399746b6
+2024-01-02 21:07:24.290 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 21416 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-02 21:07:24.293 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-02 21:07:24.344 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-02 21:07:24.344 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-02 21:07:25.117 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-02 21:07:25.209 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 86 ms. Found 7 JPA repository interfaces.
+2024-01-02 21:07:25.822 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-02 21:07:25.830 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-02 21:07:25.832 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-02 21:07:25.832 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-02 21:07:25.899 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-02 21:07:25.899 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1554 ms
+2024-01-02 21:07:26.068 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-02 21:07:26.170 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+2024-01-02 21:07:26.175 [restartedMain] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2024-01-02 21:07:26.513 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-02 21:07:26.536 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-02 21:07:26.807 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@20dae9b4
+2024-01-02 21:07:26.809 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-02 21:07:28.032 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-02 21:07:28.133 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-02 21:07:28.413 [restartedMain] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-01-02 21:07:29.154 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-02 21:07:29.479 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-02 21:07:29.496 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-02 21:07:29.526 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-02 21:07:29.533 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 5.713 seconds (process running for 6.472)
+2024-01-02 21:08:50.663 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-02 21:08:50.663 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-02 21:08:50.664 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-02 21:09:33.481 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:09:49.274 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 610
+2024-01-02 21:09:49.275 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 610
+2024-01-02 21:09:49.307 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@5012453
+2024-01-02 21:10:01.100 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 610
+2024-01-02 21:10:01.173 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 610
+2024-01-02 21:10:01.206 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 610
+2024-01-02 21:10:16.403 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 610
+2024-01-02 21:10:16.404 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 610
+2024-01-02 21:10:16.407 [http-nio-8050-exec-8] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 610 not found
+2024-01-02 21:10:16.410 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID610not found]
+2024-01-02 21:10:17.875 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 610
+2024-01-02 21:10:17.875 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 610
+2024-01-02 21:10:17.878 [http-nio-8050-exec-9] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 610 not found
+2024-01-02 21:10:17.880 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID610not found]
+2024-01-02 21:10:27.190 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 611
+2024-01-02 21:10:27.190 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 611
+2024-01-02 21:10:27.196 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@6fe761aa
+2024-01-02 21:16:11.089 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:16:15.498 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 612
+2024-01-02 21:16:15.498 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 612
+2024-01-02 21:16:15.503 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@61c181cc
+2024-01-02 21:16:17.723 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 612
+2024-01-02 21:16:17.728 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 612
+2024-01-02 21:16:17.773 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 612
+2024-01-02 21:16:24.919 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 613
+2024-01-02 21:16:24.919 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 613
+2024-01-02 21:16:24.923 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@5ce555b8
+2024-01-02 21:16:27.259 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 613
+2024-01-02 21:16:27.259 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 613
+2024-01-02 21:16:27.264 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@e438b37
+2024-01-02 21:19:31.636 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:19:37.392 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 614
+2024-01-02 21:19:37.392 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 614
+2024-01-02 21:19:37.395 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@5f7db7ae
+2024-01-02 21:19:46.220 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 614
+2024-01-02 21:19:46.225 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 614
+2024-01-02 21:19:46.270 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 614
+2024-01-02 21:19:48.802 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 614
+2024-01-02 21:19:48.803 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 614
+2024-01-02 21:19:48.807 [http-nio-8050-exec-5] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 614 not found
+2024-01-02 21:19:48.809 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID614not found]
+2024-01-02 21:20:02.042 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 615
+2024-01-02 21:20:02.042 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 615
+2024-01-02 21:20:02.049 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@235894b0
+2024-01-02 21:20:23.745 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@16d2593f
+2024-01-02 21:20:23.745 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@16d2593f
+2024-01-02 21:20:23.804 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@10800f6c
+2024-01-02 21:20:44.480 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:20:49.474 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 614
+2024-01-02 21:20:49.474 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 614
+2024-01-02 21:20:49.477 [http-nio-8050-exec-10] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 614 not found
+2024-01-02 21:20:49.479 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID614not found]
+2024-01-02 21:20:51.870 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 615
+2024-01-02 21:20:51.870 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 615
+2024-01-02 21:20:51.875 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@71d64e4d
+2024-01-02 21:29:32.286 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@7027fb87
+2024-01-02 21:29:32.288 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-02 21:29:39.149 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:29:48.060 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 620
+2024-01-02 21:29:48.061 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 620
+2024-01-02 21:29:48.066 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@7dd4748c
+2024-01-02 21:29:53.106 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 620
+2024-01-02 21:29:53.115 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 620
+2024-01-02 21:29:53.161 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 620
+2024-01-02 21:30:00.676 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 621
+2024-01-02 21:30:00.676 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 621
+2024-01-02 21:30:00.681 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@10749ecc
+2024-01-02 21:30:02.531 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 622
+2024-01-02 21:30:02.532 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 622
+2024-01-02 21:30:02.536 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@4bd85ad0
+2024-01-02 21:30:08.746 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 623
+2024-01-02 21:30:08.747 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 623
+2024-01-02 21:30:08.749 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@4d1d9e70
+2024-01-02 21:30:12.000 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 623
+2024-01-02 21:30:12.005 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 623
+2024-01-02 21:30:12.011 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 623
+2024-01-02 21:35:56.243 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:36:02.835 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 622
+2024-01-02 21:36:02.835 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 622
+2024-01-02 21:36:02.838 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@11394afb
+2024-01-02 21:36:10.184 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 623
+2024-01-02 21:36:10.184 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 623
+2024-01-02 21:36:10.188 [http-nio-8050-exec-9] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 623 not found
+2024-01-02 21:36:10.191 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID623not found]
+2024-01-02 21:36:14.254 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 624
+2024-01-02 21:36:14.255 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 624
+2024-01-02 21:36:14.259 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@72b8d50a
+2024-01-02 21:36:17.036 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 625
+2024-01-02 21:36:17.036 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 625
+2024-01-02 21:36:17.039 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@41ee06a0
+2024-01-02 21:36:21.974 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 625
+2024-01-02 21:36:21.982 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 625
+2024-01-02 21:36:22.027 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 625
+2024-01-02 21:36:40.865 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@53715421
+2024-01-02 21:36:40.865 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@53715421
+2024-01-02 21:36:40.869 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@48a24530
+2024-01-02 21:37:56.103 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 21:37:56.103 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 21:37:56.116 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 67
+2024-01-02 21:38:06.046 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:38:10.881 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:38:14.506 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:38:17.153 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:38:27.909 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:39:07.431 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@bcdeeb4
+2024-01-02 21:39:07.432 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@bcdeeb4
+2024-01-02 21:39:07.444 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@16f82b6c
+2024-01-02 21:39:21.294 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 21:39:21.295 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 21:39:21.304 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 67
+2024-01-02 21:39:29.175 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:40:02.230 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:44:13.116 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2024-01-02 21:44:13.126 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-02 21:44:13.126 [Thread-5] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-02 21:44:13.126 [Thread-5] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-02 21:44:13.169 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-02 21:44:13.173 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-02 21:44:13.178 [Thread-5] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-02 21:44:13.184 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-02 21:44:13.194 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-02 21:44:13.279 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 21416 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-02 21:44:13.279 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-02 21:44:13.433 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-02 21:44:13.461 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 27 ms. Found 7 JPA repository interfaces.
+2024-01-02 21:44:13.559 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-02 21:44:13.559 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-02 21:44:13.560 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-02 21:44:13.560 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-02 21:44:13.577 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-02 21:44:13.578 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 297 ms
+2024-01-02 21:44:13.613 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-02 21:44:13.620 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-02 21:44:13.622 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2024-01-02 21:44:13.639 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@475c95e1
+2024-01-02 21:44:13.639 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2024-01-02 21:44:13.835 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-02 21:44:13.875 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-02 21:44:14.263 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-02 21:44:14.373 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-02 21:44:14.383 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-02 21:44:14.392 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-02 21:44:14.395 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 1.14 seconds (process running for 2211.133)
+2024-01-02 21:44:14.398 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-02 21:44:50.270 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-02 21:44:50.270 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-02 21:44:50.272 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-01-02 21:44:56.908 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 21:44:56.908 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 21:44:56.962 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 67
+2024-01-02 21:45:00.922 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:45:47.729 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:47:01.249 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:47:02.752 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:47:35.199 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@5b1c23cd
+2024-01-02 21:47:35.199 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@5b1c23cd
+2024-01-02 21:47:35.207 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@74c933aa
+2024-01-02 21:49:24.576 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 21:49:24.576 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 21:49:24.584 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 67
+2024-01-02 21:49:27.618 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:50:19.887 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:50:20.075 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:50:20.264 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:50:20.484 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 21:51:42.503 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 21:51:42.503 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 21:51:42.514 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 67
+2024-01-02 21:51:48.210 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 22:08:57.586 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=16m13s743ms214µs399ns).
+2024-01-02 22:14:26.925 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 22:14:32.854 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 625
+2024-01-02 22:14:32.854 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 625
+2024-01-02 22:14:32.859 [http-nio-8050-exec-10] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 625 not found
+2024-01-02 22:14:32.861 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID625not found]
+2024-01-02 22:14:37.545 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 626
+2024-01-02 22:14:37.545 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 626
+2024-01-02 22:14:37.548 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@761ea38
+2024-01-02 22:14:40.610 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 626
+2024-01-02 22:14:40.619 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 626
+2024-01-02 22:14:40.665 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 626
+2024-01-02 22:16:51.211 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 22:16:56.004 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 22:16:56.004 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 22:16:56.055 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 66
+2024-01-02 22:16:59.797 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 22:19:55.832 [RMI TCP Connection(67)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2024-01-02 22:19:55.840 [RMI TCP Connection(67)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-02 22:19:55.841 [RMI TCP Connection(67)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-02 22:19:55.841 [RMI TCP Connection(67)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-02 22:19:55.842 [RMI TCP Connection(67)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-02 22:19:55.843 [RMI TCP Connection(67)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-02 22:19:55.846 [RMI TCP Connection(67)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-02 22:19:55.846 [RMI TCP Connection(67)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2024-01-02 22:19:55.849 [RMI TCP Connection(67)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2024-01-02 22:20:08.362 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 23360 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-02 22:20:08.364 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-02 22:20:08.402 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-02 22:20:08.402 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-02 22:20:08.925 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-02 22:20:08.999 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 69 ms. Found 7 JPA repository interfaces.
+2024-01-02 22:20:09.466 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-02 22:20:09.472 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-02 22:20:09.474 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-02 22:20:09.474 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-02 22:20:09.525 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-02 22:20:09.525 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1122 ms
+2024-01-02 22:20:09.631 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-02 22:20:09.678 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+2024-01-02 22:20:09.679 [restartedMain] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2024-01-02 22:20:09.855 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-02 22:20:09.872 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-02 22:20:10.145 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1d23cedd
+2024-01-02 22:20:10.147 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-02 22:20:10.995 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-02 22:20:11.119 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-02 22:20:11.341 [restartedMain] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-01-02 22:20:11.887 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-02 22:20:12.189 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-02 22:20:12.204 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-02 22:20:12.232 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-02 22:20:12.241 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 4.318 seconds (process running for 5.035)
+2024-01-02 22:20:37.539 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-02 22:20:37.540 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-02 22:20:37.540 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-01-02 22:20:37.567 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 22:20:37.569 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 22:20:37.649 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 66
+2024-01-02 22:20:40.068 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [java.lang.NumberFormatException: For input string: "undefined"]
+2024-01-02 22:21:02.194 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 22:21:07.442 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 630
+2024-01-02 22:21:07.444 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 630
+2024-01-02 22:21:07.454 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@3ca9335e
+2024-01-02 22:21:10.710 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 630
+2024-01-02 22:21:10.732 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 630
+2024-01-02 22:21:10.792 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 630
+2024-01-02 22:26:31.745 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-01-02 22:26:31.758 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-02 22:26:31.759 [Thread-5] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-02 22:26:31.760 [Thread-5] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-02 22:26:31.763 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-02 22:26:31.765 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-02 22:26:31.769 [Thread-5] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-02 22:26:31.772 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-02 22:26:31.782 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-02 22:26:31.858 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 23360 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-02 22:26:31.858 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-02 22:26:31.996 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-02 22:26:32.022 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25 ms. Found 7 JPA repository interfaces.
+2024-01-02 22:26:32.094 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-02 22:26:32.094 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-02 22:26:32.094 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-02 22:26:32.094 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-02 22:26:32.108 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-02 22:26:32.109 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 249 ms
+2024-01-02 22:26:32.144 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-02 22:26:32.149 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-02 22:26:32.150 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2024-01-02 22:26:32.169 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@b285e0d
+2024-01-02 22:26:32.169 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2024-01-02 22:26:32.275 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-02 22:26:32.386 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-02 22:26:32.668 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-02 22:26:32.807 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-02 22:26:32.814 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-02 22:26:32.820 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-02 22:26:32.824 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.996 seconds (process running for 385.618)
+2024-01-02 22:26:32.826 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-02 22:27:12.838 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-02 22:27:12.838 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-02 22:27:12.840 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-01-02 22:27:16.647 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 22:27:20.676 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 626
+2024-01-02 22:27:20.677 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 626
+2024-01-02 22:27:20.683 [http-nio-8050-exec-3] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 626 not found
+2024-01-02 22:27:20.686 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID626not found]
+2024-01-02 22:27:24.717 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 636
+2024-01-02 22:27:24.717 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 636
+2024-01-02 22:27:24.720 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@56355526
+2024-01-02 22:27:27.787 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 636
+2024-01-02 22:27:27.795 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 636
+2024-01-02 22:27:27.842 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 636
+2024-01-02 22:27:32.352 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 636
+2024-01-02 22:27:32.353 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 636
+2024-01-02 22:27:32.357 [http-nio-8050-exec-7] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 636 not found
+2024-01-02 22:27:32.359 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID636not found]
+2024-01-02 22:27:39.432 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 22:27:39.433 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 22:27:39.448 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 64
+2024-01-02 22:27:42.908 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 163
+2024-01-02 22:27:42.916 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 163
+2024-01-02 22:27:42.925 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 163
+2024-01-02 22:35:03.913 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 22:35:03.913 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 22:35:03.926 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 63
+2024-01-02 22:40:17.257 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 22:40:17.258 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 22:40:17.265 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 63
+2024-01-02 22:40:36.886 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 22:40:54.910 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 666
+2024-01-02 22:40:54.910 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 666
+2024-01-02 22:40:54.915 [http-nio-8050-exec-8] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 666 not found
+2024-01-02 22:40:54.916 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID666not found]
+2024-01-02 22:40:56.379 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 666
+2024-01-02 22:40:56.379 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 666
+2024-01-02 22:40:56.383 [http-nio-8050-exec-9] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 666 not found
+2024-01-02 22:40:56.386 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID666not found]
+2024-01-02 22:41:01.163 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 646
+2024-01-02 22:41:01.163 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 646
+2024-01-02 22:41:01.168 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@2417cf98
+2024-01-02 22:41:42.718 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@4f0ce303
+2024-01-02 22:41:42.719 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@4f0ce303
+2024-01-02 22:41:42.778 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@4ded5775
+2024-01-02 22:41:49.957 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 22:42:12.929 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 646
+2024-01-02 22:42:12.929 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 646
+2024-01-02 22:42:12.932 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@25ea0a68
+2024-01-02 22:42:20.496 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@76912777
+2024-01-02 22:42:20.496 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@76912777
+2024-01-02 22:42:20.508 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@7c12ee9
+2024-01-02 22:42:28.884 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 22:42:28.884 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 22:42:28.929 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 63
+2024-01-02 22:52:06.586 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 22:52:06.586 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 22:52:06.593 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 63
+2024-01-02 22:53:08.167 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-02 22:53:08.167 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-02 22:53:08.179 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 63
+2024-01-02 22:53:53.906 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 164
+2024-01-02 22:53:53.915 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 164
+2024-01-02 22:53:53.924 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 164
+2024-01-02 23:02:01.798 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 23:04:14.300 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 23:12:16.609 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 23:13:28.194 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 23:15:13.571 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-02 23:41:32.847 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5872e26a
+2024-01-02 23:41:32.849 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]

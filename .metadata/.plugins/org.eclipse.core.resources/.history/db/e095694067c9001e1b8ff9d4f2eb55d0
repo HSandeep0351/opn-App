@@ -1,0 +1,57 @@
+package com.practapp.dao;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.practapp.Entity.Customer;
+import com.practapp.repositories.CustomerRepository;
+@Repository
+public class CustomerDaoImpl implements CustomerDao {
+	
+	private final CustomerRepository customerRepository;
+	
+	@Autowired
+	public CustomerDaoImpl(CustomerRepository customerRepository) {
+        this.customerRepository = customerRepository;
+    }
+	
+
+	@Override
+	public Customer addCustomer(Customer customer) {
+		
+		return customerRepository.save(customer);
+	}
+
+	@Override
+	public Customer updateCustomer(Customer customer) {
+		
+		return null;
+	}
+
+	@Override
+	public Customer deleteCustomer(Long customerId) {
+		
+		return null;
+	}
+
+	@Override
+	public Customer getCustomerByEmail(String email) {
+		
+		return null;
+	}
+
+	@Override
+	public Customer viewCustomer(Long customerId) {
+		
+		return null;
+	}
+
+	@Override
+	public List<Customer> viewAllCustomers() {
+		
+		return null;
+	}
+
+}

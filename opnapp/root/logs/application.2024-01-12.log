@@ -1,0 +1,267 @@
+2024-01-12 11:42:41.877 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 8108 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-12 11:42:41.881 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-12 11:42:41.918 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-12 11:42:41.918 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-12 11:42:42.476 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-12 11:42:42.550 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 69 ms. Found 7 JPA repository interfaces.
+2024-01-12 11:42:43.006 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-12 11:42:43.013 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-12 11:42:43.014 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-12 11:42:43.014 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-12 11:42:43.074 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-12 11:42:43.074 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1156 ms
+2024-01-12 11:42:43.208 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-12 11:42:43.260 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+2024-01-12 11:42:43.262 [restartedMain] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2024-01-12 11:42:43.535 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-12 11:42:43.559 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-12 11:42:43.822 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@464c9bb1
+2024-01-12 11:42:43.824 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-12 11:42:44.702 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-12 11:42:44.784 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-12 11:42:44.998 [restartedMain] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-01-12 11:42:45.592 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-12 11:42:45.871 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-12 11:42:45.888 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-12 11:42:45.911 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-12 11:42:45.918 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 4.451 seconds (process running for 5.271)
+2024-01-12 13:10:28.536 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54m14s66ms163µs300ns).
+2024-01-12 14:17:44.843 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m13s983ms388µs800ns).
+2024-01-12 14:53:27.554 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m46s197ms746µs200ns).
+2024-01-12 16:13:41.124 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-12 16:13:41.125 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-12 16:13:41.134 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2024-01-12 17:14:30.480 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56m32s29ms669µs300ns).
+2024-01-12 19:54:00.070 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-12 19:54:00.074 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-12 19:54:00.140 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@617671c2, com.opnapp.models.Seed@4ada35cd, com.opnapp.models.Seed@23c0508c, com.opnapp.models.Seed@7ea7d391, com.opnapp.models.Seed@63ee4dc3, com.opnapp.models.Seed@7c4b0da, com.opnapp.models.Seed@3ab81e2, com.opnapp.models.Seed@50922b45, com.opnapp.models.Seed@62a9225d, com.opnapp.models.Seed@653717e6]
+2024-01-12 19:54:00.140 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@617671c2, com.opnapp.models.Seed@4ada35cd, com.opnapp.models.Seed@23c0508c, com.opnapp.models.Seed@7ea7d391, com.opnapp.models.Seed@63ee4dc3, com.opnapp.models.Seed@7c4b0da, com.opnapp.models.Seed@3ab81e2, com.opnapp.models.Seed@50922b45, com.opnapp.models.Seed@62a9225d, com.opnapp.models.Seed@653717e6]
+2024-01-12 19:54:36.916 [http-nio-8050-exec-7] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-12 19:54:36.916 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-12 19:54:36.953 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@4c55bad9, com.opnapp.models.Seed@3b544fab, com.opnapp.models.Seed@57ee7707, com.opnapp.models.Seed@63e6594c, com.opnapp.models.Seed@139c4cc, com.opnapp.models.Seed@5737763, com.opnapp.models.Seed@1b6a5b0b, com.opnapp.models.Seed@83cc0a4, com.opnapp.models.Seed@22097eb4, com.opnapp.models.Seed@3a4089eb]
+2024-01-12 19:54:36.954 [http-nio-8050-exec-7] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@4c55bad9, com.opnapp.models.Seed@3b544fab, com.opnapp.models.Seed@57ee7707, com.opnapp.models.Seed@63e6594c, com.opnapp.models.Seed@139c4cc, com.opnapp.models.Seed@5737763, com.opnapp.models.Seed@1b6a5b0b, com.opnapp.models.Seed@83cc0a4, com.opnapp.models.Seed@22097eb4, com.opnapp.models.Seed@3a4089eb]
+2024-01-12 21:19:50.568 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h9m47s517ms854µs600ns).
+2024-01-12 21:28:53.424 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-12 21:28:53.424 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-12 21:28:53.461 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@6382a2b3, com.opnapp.models.Seed@63d20ced, com.opnapp.models.Seed@3de40a65, com.opnapp.models.Seed@5d75dfaa, com.opnapp.models.Seed@149bef4e, com.opnapp.models.Seed@42182b31, com.opnapp.models.Seed@4416417f, com.opnapp.models.Seed@65f0d381, com.opnapp.models.Seed@4e8dde67, com.opnapp.models.Seed@33512b5c]
+2024-01-12 21:28:53.461 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@6382a2b3, com.opnapp.models.Seed@63d20ced, com.opnapp.models.Seed@3de40a65, com.opnapp.models.Seed@5d75dfaa, com.opnapp.models.Seed@149bef4e, com.opnapp.models.Seed@42182b31, com.opnapp.models.Seed@4416417f, com.opnapp.models.Seed@65f0d381, com.opnapp.models.Seed@4e8dde67, com.opnapp.models.Seed@33512b5c]
+2024-01-12 21:39:07.108 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-12 21:39:07.108 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-12 21:39:07.139 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@64b632d1, com.opnapp.models.Seed@3de68fc8, com.opnapp.models.Seed@468d559d, com.opnapp.models.Seed@4e8f15b7, com.opnapp.models.Seed@619c7ec1, com.opnapp.models.Seed@607676df, com.opnapp.models.Seed@4223e44d, com.opnapp.models.Seed@3c2eccb, com.opnapp.models.Seed@4bf89b9a, com.opnapp.models.Seed@6830e939]
+2024-01-12 21:39:07.139 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@64b632d1, com.opnapp.models.Seed@3de68fc8, com.opnapp.models.Seed@468d559d, com.opnapp.models.Seed@4e8f15b7, com.opnapp.models.Seed@619c7ec1, com.opnapp.models.Seed@607676df, com.opnapp.models.Seed@4223e44d, com.opnapp.models.Seed@3c2eccb, com.opnapp.models.Seed@4bf89b9a, com.opnapp.models.Seed@6830e939]
+2024-01-12 21:39:25.370 [http-nio-8050-exec-5] INFO  com.opnapp.services.SeedServiceImpl - Viewing seed by ID: 1
+2024-01-12 21:39:25.370 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing seed by ID: 1
+2024-01-12 21:39:25.397 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.SeedDaoImpl - Seed found: com.opnapp.models.Seed@6875d110
+2024-01-12 21:39:25.397 [http-nio-8050-exec-5] INFO  com.opnapp.services.SeedServiceImpl - Seed found: com.opnapp.models.Seed@6875d110
+2024-01-12 21:39:53.352 [http-nio-8050-exec-7] INFO  com.opnapp.services.SeedServiceImpl - Updating seed: com.opnapp.models.Seed@3f428e3f
+2024-01-12 21:39:53.365 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.SeedDaoImpl - Updating seed: com.opnapp.models.Seed@3f428e3f
+2024-01-12 21:39:53.390 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.SeedDaoImpl - Seed 1 updated successfully
+2024-01-12 21:39:53.407 [http-nio-8050-exec-7] INFO  com.opnapp.services.SeedServiceImpl - Seed updated successfully: com.opnapp.models.Seed@6fe1246d
+2024-01-12 21:42:23.426 [http-nio-8050-exec-10] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-12 21:42:23.426 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-12 21:42:23.457 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@2184ab0c, com.opnapp.models.Seed@4f8bbfc8, com.opnapp.models.Seed@446acb3b, com.opnapp.models.Seed@44ef36, com.opnapp.models.Seed@1e9fd37d, com.opnapp.models.Seed@858373c, com.opnapp.models.Seed@20f7bbc1, com.opnapp.models.Seed@195818c6, com.opnapp.models.Seed@4cbc0204, com.opnapp.models.Seed@1f643f56]
+2024-01-12 21:42:23.457 [http-nio-8050-exec-10] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@2184ab0c, com.opnapp.models.Seed@4f8bbfc8, com.opnapp.models.Seed@446acb3b, com.opnapp.models.Seed@44ef36, com.opnapp.models.Seed@1e9fd37d, com.opnapp.models.Seed@858373c, com.opnapp.models.Seed@20f7bbc1, com.opnapp.models.Seed@195818c6, com.opnapp.models.Seed@4cbc0204, com.opnapp.models.Seed@1f643f56]
+2024-01-12 21:42:30.365 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 21:42:30.365 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 21:42:30.370 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 21:42:32.845 [http-nio-8050-exec-2] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-12 21:42:32.853 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 2
+2024-01-12 21:42:35.058 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 21:42:35.058 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 21:42:35.063 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 21:42:54.356 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 179
+2024-01-12 21:42:54.357 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 179
+2024-01-12 21:42:54.360 [http-nio-8050-exec-4] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 179 not found
+2024-01-12 21:42:54.367 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID 179 not found]
+2024-01-12 21:43:00.700 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 180
+2024-01-12 21:43:00.700 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 180
+2024-01-12 21:43:00.703 [http-nio-8050-exec-5] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 180 not found
+2024-01-12 21:43:00.704 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID 180 not found]
+2024-01-12 21:43:01.728 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 180
+2024-01-12 21:43:01.728 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 180
+2024-01-12 21:43:01.730 [http-nio-8050-exec-6] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 180 not found
+2024-01-12 21:43:01.731 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID 180 not found]
+2024-01-12 21:43:04.419 [http-nio-8050-exec-7] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-12 21:43:04.424 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 2
+2024-01-12 21:43:05.130 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 21:43:05.130 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 21:43:05.135 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 21:43:14.122 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 1
+2024-01-12 21:43:14.122 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 1
+2024-01-12 21:43:14.125 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@22c155f2
+2024-01-12 21:43:27.123 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@46590ae9
+2024-01-12 21:43:27.123 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@46590ae9
+2024-01-12 21:43:27.131 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@2caac29f
+2024-01-12 21:44:24.422 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 21:44:24.422 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 21:44:24.428 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 21:52:51.446 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 21:52:51.446 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 21:52:51.453 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 21:54:36.973 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 21:54:36.973 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 21:54:36.981 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 21:58:26.924 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-12 21:58:26.924 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-12 21:58:26.961 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@30990eca, com.opnapp.models.Seed@2578a41, com.opnapp.models.Seed@7787dc04, com.opnapp.models.Seed@510dfeb0, com.opnapp.models.Seed@2211ed6a, com.opnapp.models.Seed@7e832d5f, com.opnapp.models.Seed@630993a1, com.opnapp.models.Seed@4aca5f08, com.opnapp.models.Seed@1b356d7, com.opnapp.models.Seed@115e4777]
+2024-01-12 21:58:26.963 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@30990eca, com.opnapp.models.Seed@2578a41, com.opnapp.models.Seed@7787dc04, com.opnapp.models.Seed@510dfeb0, com.opnapp.models.Seed@2211ed6a, com.opnapp.models.Seed@7e832d5f, com.opnapp.models.Seed@630993a1, com.opnapp.models.Seed@4aca5f08, com.opnapp.models.Seed@1b356d7, com.opnapp.models.Seed@115e4777]
+2024-01-12 21:58:29.826 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 21:58:29.826 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 21:58:29.830 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 21:59:08.731 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 21:59:08.731 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 21:59:08.738 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 21:59:35.804 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 21:59:35.804 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 21:59:35.809 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 21:59:43.821 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 21:59:43.821 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 21:59:43.825 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 22:02:56.377 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 22:02:56.377 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 22:02:56.384 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 22:28:07.346 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 22:28:07.347 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 22:28:07.351 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 22:41:37.896 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 22:41:37.896 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 22:41:37.902 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 22:42:19.027 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 22:42:19.027 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 22:42:19.033 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 22:42:27.641 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 22:42:27.641 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 22:42:27.646 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 22:45:19.947 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 22:45:19.948 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 22:45:19.953 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 22:54:44.778 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 22:54:44.778 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 22:54:44.785 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 22:55:38.546 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 22:55:38.546 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 22:55:38.551 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 22:56:14.109 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 22:56:14.110 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 22:56:14.115 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 22:56:50.971 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 22:56:50.971 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 22:56:50.976 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:00:36.763 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:00:36.764 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:00:36.768 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:01:23.134 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:01:23.134 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:01:23.140 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:02:23.062 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:02:23.062 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:02:23.067 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:07:30.570 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:07:30.571 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:07:30.577 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:23:10.844 [http-nio-8050-exec-8] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-12 23:23:10.844 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-12 23:23:10.868 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@452236f1, com.opnapp.models.Seed@2dc9c3be, com.opnapp.models.Seed@1f674ae8, com.opnapp.models.Seed@2ac001fe, com.opnapp.models.Seed@30fdf64d, com.opnapp.models.Seed@46d9a97d, com.opnapp.models.Seed@cfd429f, com.opnapp.models.Seed@4d85c261, com.opnapp.models.Seed@49efcc3a, com.opnapp.models.Seed@e239f7a]
+2024-01-12 23:23:10.869 [http-nio-8050-exec-8] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@452236f1, com.opnapp.models.Seed@2dc9c3be, com.opnapp.models.Seed@1f674ae8, com.opnapp.models.Seed@2ac001fe, com.opnapp.models.Seed@30fdf64d, com.opnapp.models.Seed@46d9a97d, com.opnapp.models.Seed@cfd429f, com.opnapp.models.Seed@4d85c261, com.opnapp.models.Seed@49efcc3a, com.opnapp.models.Seed@e239f7a]
+2024-01-12 23:23:12.325 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:23:12.325 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:23:12.329 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:23:16.057 [http-nio-8050-exec-10] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-12 23:23:16.057 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-12 23:23:16.080 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@6cb74199, com.opnapp.models.Seed@2bd02e01, com.opnapp.models.Seed@1af454a5, com.opnapp.models.Seed@55599dbc, com.opnapp.models.Seed@65fe3061, com.opnapp.models.Seed@79cf1a8e, com.opnapp.models.Seed@13e3faf2, com.opnapp.models.Seed@6eaf209d, com.opnapp.models.Seed@3b4ad408, com.opnapp.models.Seed@5d3ab141]
+2024-01-12 23:23:16.080 [http-nio-8050-exec-10] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@6cb74199, com.opnapp.models.Seed@2bd02e01, com.opnapp.models.Seed@1af454a5, com.opnapp.models.Seed@55599dbc, com.opnapp.models.Seed@65fe3061, com.opnapp.models.Seed@79cf1a8e, com.opnapp.models.Seed@13e3faf2, com.opnapp.models.Seed@6eaf209d, com.opnapp.models.Seed@3b4ad408, com.opnapp.models.Seed@5d3ab141]
+2024-01-12 23:23:17.177 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:23:17.177 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:23:17.181 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:23:22.039 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-12 23:23:22.039 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-12 23:23:22.061 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@5db1b52f, com.opnapp.models.Seed@5248b43c, com.opnapp.models.Seed@15a69d97, com.opnapp.models.Seed@382cc018, com.opnapp.models.Seed@2c1fafc4, com.opnapp.models.Seed@59902fd8, com.opnapp.models.Seed@6a50c653, com.opnapp.models.Seed@79abfd8e, com.opnapp.models.Seed@52abb421, com.opnapp.models.Seed@4cce14ff]
+2024-01-12 23:23:22.061 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@5db1b52f, com.opnapp.models.Seed@5248b43c, com.opnapp.models.Seed@15a69d97, com.opnapp.models.Seed@382cc018, com.opnapp.models.Seed@2c1fafc4, com.opnapp.models.Seed@59902fd8, com.opnapp.models.Seed@6a50c653, com.opnapp.models.Seed@79abfd8e, com.opnapp.models.Seed@52abb421, com.opnapp.models.Seed@4cce14ff]
+2024-01-12 23:24:22.260 [http-nio-8050-exec-3] INFO  com.opnapp.services.SeedServiceImpl - Viewing seed by ID: 1
+2024-01-12 23:24:22.260 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing seed by ID: 1
+2024-01-12 23:24:22.264 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.SeedDaoImpl - Seed found: com.opnapp.models.Seed@4b0e32e8
+2024-01-12 23:24:22.264 [http-nio-8050-exec-3] INFO  com.opnapp.services.SeedServiceImpl - Seed found: com.opnapp.models.Seed@4b0e32e8
+2024-01-12 23:24:48.630 [http-nio-8050-exec-5] INFO  com.opnapp.services.SeedServiceImpl - Updating seed: com.opnapp.models.Seed@60aeaa5e
+2024-01-12 23:24:48.631 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.SeedDaoImpl - Updating seed: com.opnapp.models.Seed@60aeaa5e
+2024-01-12 23:24:48.634 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.SeedDaoImpl - Seed 1 updated successfully
+2024-01-12 23:24:48.636 [http-nio-8050-exec-5] INFO  com.opnapp.services.SeedServiceImpl - Seed updated successfully: com.opnapp.models.Seed@994b440
+2024-01-12 23:25:06.875 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:25:06.876 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:25:06.880 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:25:21.569 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 1
+2024-01-12 23:25:21.569 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 1
+2024-01-12 23:25:21.571 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@1befc8d0
+2024-01-12 23:26:13.806 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@37e57a81
+2024-01-12 23:26:13.806 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@37e57a81
+2024-01-12 23:26:13.809 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@47513a52
+2024-01-12 23:42:01.609 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:42:01.609 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:42:01.615 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:42:11.895 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 1
+2024-01-12 23:42:11.896 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 1
+2024-01-12 23:42:11.897 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@2cb2f2cc
+2024-01-12 23:42:42.921 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@7c430450
+2024-01-12 23:42:42.922 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@7c430450
+2024-01-12 23:42:42.928 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@333e26e8
+2024-01-12 23:43:36.815 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:43:36.816 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:43:36.823 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:43:44.058 [http-nio-8050-exec-8] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-12 23:43:44.058 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-12 23:43:44.080 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@6d42abaa, com.opnapp.models.Seed@4309570b, com.opnapp.models.Seed@50248e4e, com.opnapp.models.Seed@6a849047, com.opnapp.models.Seed@7c0a0bfc, com.opnapp.models.Seed@3e115ef0, com.opnapp.models.Seed@1208bed8, com.opnapp.models.Seed@692adf97, com.opnapp.models.Seed@118ce419, com.opnapp.models.Seed@402f504b]
+2024-01-12 23:43:44.081 [http-nio-8050-exec-8] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@6d42abaa, com.opnapp.models.Seed@4309570b, com.opnapp.models.Seed@50248e4e, com.opnapp.models.Seed@6a849047, com.opnapp.models.Seed@7c0a0bfc, com.opnapp.models.Seed@3e115ef0, com.opnapp.models.Seed@1208bed8, com.opnapp.models.Seed@692adf97, com.opnapp.models.Seed@118ce419, com.opnapp.models.Seed@402f504b]
+2024-01-12 23:43:47.249 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:43:47.249 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:43:47.253 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:43:50.860 [http-nio-8050-exec-10] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-12 23:43:50.860 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-12 23:43:50.880 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@6215f260, com.opnapp.models.Seed@2958a48b, com.opnapp.models.Seed@7c79a9e2, com.opnapp.models.Seed@22b4eab, com.opnapp.models.Seed@18312298, com.opnapp.models.Seed@75e3bc95, com.opnapp.models.Seed@70094973, com.opnapp.models.Seed@72809a2a, com.opnapp.models.Seed@59092cb, com.opnapp.models.Seed@71210423]
+2024-01-12 23:43:50.880 [http-nio-8050-exec-10] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@6215f260, com.opnapp.models.Seed@2958a48b, com.opnapp.models.Seed@7c79a9e2, com.opnapp.models.Seed@22b4eab, com.opnapp.models.Seed@18312298, com.opnapp.models.Seed@75e3bc95, com.opnapp.models.Seed@70094973, com.opnapp.models.Seed@72809a2a, com.opnapp.models.Seed@59092cb, com.opnapp.models.Seed@71210423]
+2024-01-12 23:43:53.232 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:43:53.232 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:43:53.236 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:46:04.721 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:46:04.721 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:46:04.727 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:46:14.804 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 1
+2024-01-12 23:46:14.804 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 1
+2024-01-12 23:46:14.806 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@32239ea5
+2024-01-12 23:46:19.408 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@41eb447f
+2024-01-12 23:46:19.408 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@41eb447f
+2024-01-12 23:46:19.414 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@4e972522
+2024-01-12 23:48:25.037 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:48:25.037 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:48:25.042 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:48:34.456 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@dc3f087
+2024-01-12 23:48:34.456 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@dc3f087
+2024-01-12 23:48:34.461 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@a2cc27a
+2024-01-12 23:48:45.892 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 1
+2024-01-12 23:48:45.892 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 1
+2024-01-12 23:48:45.895 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@39dfe926
+2024-01-12 23:48:50.965 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@3f0cff80
+2024-01-12 23:48:50.965 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@3f0cff80
+2024-01-12 23:48:50.969 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@2e3e02d6
+2024-01-12 23:50:02.760 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:50:02.760 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:50:02.764 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:52:46.343 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:52:46.344 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:52:46.358 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:53:02.858 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 1
+2024-01-12 23:53:02.858 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 1
+2024-01-12 23:53:02.861 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@666f97d5
+2024-01-12 23:54:01.079 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Round
+2024-01-12 23:54:01.080 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Round
+2024-01-12 23:54:01.083 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 10
+2024-01-12 23:55:52.797 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:55:52.798 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:55:52.803 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:56:29.465 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 1
+2024-01-12 23:56:29.465 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 1
+2024-01-12 23:56:29.467 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@7a0b363
+2024-01-12 23:58:18.047 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-12 23:58:18.047 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-12 23:58:18.052 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-12 23:58:51.640 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 1
+2024-01-12 23:58:51.640 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 1
+2024-01-12 23:58:51.642 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@3eaeab95

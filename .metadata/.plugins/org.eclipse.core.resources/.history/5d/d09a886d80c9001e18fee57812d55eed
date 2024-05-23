@@ -1,0 +1,18 @@
+package com.practapp.service;
+
+import java.util.List;
+
+import com.practapp.Entity.Customer;
+
+
+
+
+public interface CustomerService {
+	
+	public Customer addCustomer(Customer customer);
+	public Customer updateCustomer(Customer customer);
+	public Customer deleteCustomer(Long customerId);
+	public Customer viewCustomer(Long customerId);
+	public List<Customer> viewAllCustomers();
+
+}

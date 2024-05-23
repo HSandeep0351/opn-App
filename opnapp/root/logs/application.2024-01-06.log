@@ -1,0 +1,499 @@
+2024-01-06 00:00:34.549 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 00:00:34.561 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 00:00:34.568 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 00:07:09.561 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 00:07:09.562 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 00:07:09.566 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 00:09:21.381 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 00:09:21.384 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 00:09:21.388 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 00:11:15.008 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 00:11:15.009 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 00:11:15.014 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 00:11:55.072 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planters by cost range: 20.0 - 1.0
+2024-01-06 00:11:55.081 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter minCost and minCost should not be empty and should contain only numbers minCost must less than maxCost]
+2024-01-06 00:12:18.327 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planters by cost range: 2.0 - 10.0
+2024-01-06 00:12:18.327 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by cost range: 2.0 - 10.0
+2024-01-06 00:12:18.338 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by cost range: 3
+2024-01-06 00:18:41.848 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 00:18:41.849 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 00:18:41.855 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 00:22:23.779 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planters by cost range: 53.0 - 32.0
+2024-01-06 00:22:23.782 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter minCost and minCost should not be empty and should contain only numbers minCost must less than maxCost]
+2024-01-06 00:27:53.553 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 00:27:53.553 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 00:27:53.557 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 00:34:31.342 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 00:34:31.342 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 00:34:31.346 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 00:39:39.597 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 00:39:39.597 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 00:39:39.602 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 00:42:51.390 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 00:42:51.391 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 00:42:51.394 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 00:45:24.358 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 00:45:24.358 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 00:45:24.362 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 00:49:04.082 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 00:49:04.082 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 00:49:04.087 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 00:50:54.439 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 00:50:54.439 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 00:50:54.445 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 00:53:06.477 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 00:53:06.477 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 00:53:06.482 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:02:06.143 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:02:06.143 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:02:06.147 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:10:53.687 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:10:53.687 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:10:53.692 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:14:17.833 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:14:17.834 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:14:17.838 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:16:12.879 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-06 01:16:12.879 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-06 01:16:12.881 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 6
+2024-01-06 01:16:18.414 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:16:18.414 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:16:18.418 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@5b076a8c
+2024-01-06 01:19:22.775 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:19:22.775 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:19:22.781 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:20:25.170 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:20:25.170 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:20:25.178 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:22:33.746 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:22:33.747 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:22:33.753 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:22:39.590 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:22:39.590 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:22:39.592 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@3963f9b1
+2024-01-06 01:22:40.463 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:22:40.463 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:22:40.467 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@3899ab5d
+2024-01-06 01:22:41.255 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:22:41.255 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:22:41.258 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@a1618bc
+2024-01-06 01:22:42.927 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:22:42.927 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:22:42.930 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@49c6d4ea
+2024-01-06 01:22:43.410 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:22:43.410 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:22:43.413 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@298ac80b
+2024-01-06 01:22:43.635 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:22:43.635 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:22:43.637 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@3bf96f52
+2024-01-06 01:22:44.766 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:22:44.766 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:22:44.769 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@241ab09d
+2024-01-06 01:22:44.920 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:22:44.920 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:22:44.923 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@45adc339
+2024-01-06 01:22:45.141 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:22:45.141 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:22:45.144 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@4372bfa2
+2024-01-06 01:22:45.713 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:22:45.714 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:22:45.717 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@2dcdbb98
+2024-01-06 01:22:46.155 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:22:46.155 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:22:46.158 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@7fc68fa0
+2024-01-06 01:22:46.377 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:22:46.377 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:22:46.381 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@51517c97
+2024-01-06 01:22:47.524 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:22:47.524 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:22:47.527 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@5c7b8a7b
+2024-01-06 01:23:03.629 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:23:03.629 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:23:03.631 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@1a0f539b
+2024-01-06 01:23:12.494 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-06 01:23:12.494 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-06 01:23:12.496 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 6
+2024-01-06 01:23:16.110 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-06 01:23:16.112 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-06 01:23:16.114 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 6
+2024-01-06 01:23:25.012 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planters by cost range: 1.0 - 2.0
+2024-01-06 01:23:25.014 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by cost range: 1.0 - 2.0
+2024-01-06 01:23:25.017 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by cost range: 5
+2024-01-06 01:29:48.620 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:29:48.620 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:29:48.625 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:29:57.659 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:29:57.659 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:29:57.662 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@6f209eeb
+2024-01-06 01:34:54.756 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:34:54.756 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:34:54.760 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:36:12.761 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:36:12.761 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:36:12.765 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:39:33.815 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:39:33.815 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:39:33.819 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:39:40.511 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:39:40.511 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:39:40.515 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:42:12.903 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:42:12.903 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:42:12.907 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:42:20.624 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:42:20.624 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:42:20.627 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@211d5c8f
+2024-01-06 01:42:40.242 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:42:40.242 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:42:40.244 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@3402c308
+2024-01-06 01:42:49.143 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circle
+2024-01-06 01:42:49.143 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circle
+2024-01-06 01:42:49.145 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 7
+2024-01-06 01:42:58.123 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:42:58.123 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:42:58.125 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@4a020464
+2024-01-06 01:43:40.778 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:43:40.778 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:43:40.782 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:43:51.663 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:43:51.664 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:43:51.665 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@7b7bf76c
+2024-01-06 01:44:04.755 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:44:04.755 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:44:04.758 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@340adcfa
+2024-01-06 01:49:21.714 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:49:21.714 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:49:21.717 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:49:29.626 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 01:49:29.626 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 01:49:29.628 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@69368d53
+2024-01-06 01:50:37.815 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 01:50:37.815 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 01:50:37.821 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 01:50:55.037 [RMI TCP Connection(607)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2024-01-06 01:50:55.054 [RMI TCP Connection(607)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-06 01:50:55.054 [RMI TCP Connection(607)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-06 01:50:55.055 [RMI TCP Connection(607)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-06 01:50:55.062 [RMI TCP Connection(607)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-06 01:50:55.063 [RMI TCP Connection(607)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-06 01:50:55.067 [RMI TCP Connection(607)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-06 01:50:55.070 [RMI TCP Connection(607)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2024-01-06 01:50:55.073 [RMI TCP Connection(607)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2024-01-06 19:30:47.604 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 8924 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-06 19:30:47.606 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-06 19:30:47.650 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-06 19:30:47.650 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-06 19:30:48.299 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-06 19:30:48.424 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 116 ms. Found 7 JPA repository interfaces.
+2024-01-06 19:30:49.080 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-06 19:30:49.092 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-06 19:30:49.095 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-06 19:30:49.095 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-06 19:30:49.155 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-06 19:30:49.156 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1505 ms
+2024-01-06 19:30:49.279 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-06 19:30:49.348 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+2024-01-06 19:30:49.350 [restartedMain] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2024-01-06 19:30:49.779 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-06 19:30:49.816 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-06 19:30:50.267 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6384758b
+2024-01-06 19:30:50.270 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-06 19:30:51.399 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-06 19:30:51.501 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-06 19:30:51.704 [restartedMain] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-01-06 19:30:52.358 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-06 19:30:52.702 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-06 19:30:52.719 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-06 19:30:52.744 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-06 19:30:52.754 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 5.658 seconds (process running for 6.433)
+2024-01-06 19:58:38.055 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-06 19:58:38.056 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-06 19:58:38.058 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-01-06 19:58:39.795 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 19:58:39.795 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 19:58:39.830 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 20:01:09.492 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 20:01:09.493 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 20:01:09.506 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 20:03:39.929 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 20:03:39.929 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 20:03:39.939 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 20:05:10.356 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2024-01-06 20:05:10.375 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:05:10.375 [Thread-5] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-06 20:05:10.376 [Thread-5] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-06 20:05:10.379 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:05:10.381 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:05:10.383 [Thread-5] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-06 20:05:10.387 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-06 20:05:10.393 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-06 20:05:10.485 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 8924 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-06 20:05:10.486 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-06 20:05:10.711 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-06 20:05:10.756 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 44 ms. Found 7 JPA repository interfaces.
+2024-01-06 20:05:10.964 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-06 20:05:10.964 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:05:10.964 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-06 20:05:10.965 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-06 20:05:11.000 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-06 20:05:11.000 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 511 ms
+2024-01-06 20:05:11.057 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-06 20:05:11.065 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-06 20:05:11.066 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2024-01-06 20:05:11.083 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37b324ab
+2024-01-06 20:05:11.083 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2024-01-06 20:05:11.245 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-06 20:05:11.287 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-06 20:05:11.506 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-06 20:05:11.603 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-06 20:05:11.610 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:05:11.614 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-06 20:05:11.618 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 1.166 seconds (process running for 2066.267)
+2024-01-06 20:05:11.620 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-06 20:20:08.297 [http-nio-8050-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-06 20:20:08.298 [http-nio-8050-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-06 20:20:08.300 [http-nio-8050-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-01-06 20:21:33.195 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-01-06 20:21:33.215 [Thread-7] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:21:33.215 [Thread-7] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-06 20:21:33.216 [Thread-7] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-06 20:21:33.218 [Thread-7] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:21:33.220 [Thread-7] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:21:33.222 [Thread-7] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-06 20:21:33.223 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2024-01-06 20:21:33.231 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2024-01-06 20:21:33.297 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 8924 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-06 20:21:33.297 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-06 20:21:33.428 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-06 20:21:33.450 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 21 ms. Found 7 JPA repository interfaces.
+2024-01-06 20:21:33.509 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-06 20:21:33.509 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:21:33.509 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-06 20:21:33.509 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-06 20:21:33.571 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-06 20:21:33.571 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 272 ms
+2024-01-06 20:21:33.603 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-06 20:21:33.610 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-06 20:21:33.611 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2024-01-06 20:21:33.625 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2f7f5ae9
+2024-01-06 20:21:33.625 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2024-01-06 20:21:33.720 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-06 20:21:33.760 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-06 20:21:34.023 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-06 20:21:34.103 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-06 20:21:34.112 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:21:34.116 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-06 20:21:34.120 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.844 seconds (process running for 3048.772)
+2024-01-06 20:21:34.121 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-06 20:21:56.044 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-06 20:21:56.044 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-06 20:21:56.045 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-06 20:24:02.032 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-01-06 20:24:02.042 [Thread-11] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:24:02.042 [Thread-11] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-06 20:24:02.042 [Thread-11] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-06 20:24:02.044 [Thread-11] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:24:02.045 [Thread-11] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:24:02.046 [Thread-11] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-06 20:24:02.047 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2024-01-06 20:24:02.050 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown completed.
+2024-01-06 20:24:02.113 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 8924 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-06 20:24:02.113 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-06 20:24:02.244 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-06 20:24:02.266 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 21 ms. Found 7 JPA repository interfaces.
+2024-01-06 20:24:02.334 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-06 20:24:02.334 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:24:02.334 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-06 20:24:02.335 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-06 20:24:02.352 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-06 20:24:02.352 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 236 ms
+2024-01-06 20:24:02.383 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-06 20:24:02.387 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-06 20:24:02.387 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Starting...
+2024-01-06 20:24:02.399 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@63b945b2
+2024-01-06 20:24:02.399 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Start completed.
+2024-01-06 20:24:02.470 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-06 20:24:02.497 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-06 20:24:02.709 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-06 20:24:02.833 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-06 20:24:02.839 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:24:02.843 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-06 20:24:02.846 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.757 seconds (process running for 3197.497)
+2024-01-06 20:24:02.846 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-06 20:24:24.185 [http-nio-8050-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-06 20:24:24.186 [http-nio-8050-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-06 20:24:24.187 [http-nio-8050-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-06 20:25:45.331 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-01-06 20:25:45.343 [Thread-15] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:25:45.343 [Thread-15] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-06 20:25:45.343 [Thread-15] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-06 20:25:45.344 [Thread-15] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:25:45.346 [Thread-15] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:25:45.347 [Thread-15] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-06 20:25:45.347 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown initiated...
+2024-01-06 20:25:45.350 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown completed.
+2024-01-06 20:25:45.415 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 8924 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-06 20:25:45.416 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-06 20:25:45.545 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-06 20:25:45.575 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 30 ms. Found 7 JPA repository interfaces.
+2024-01-06 20:25:45.630 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-06 20:25:45.630 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:25:45.631 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-06 20:25:45.631 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-06 20:25:45.644 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-06 20:25:45.644 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 227 ms
+2024-01-06 20:25:45.673 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-06 20:25:45.679 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-06 20:25:45.680 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Starting...
+2024-01-06 20:25:45.690 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1d54575f
+2024-01-06 20:25:45.691 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Start completed.
+2024-01-06 20:25:45.755 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-06 20:25:45.785 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-06 20:25:45.975 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-06 20:25:46.041 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-06 20:25:46.047 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:25:46.051 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-06 20:25:46.054 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.66 seconds (process running for 3300.705)
+2024-01-06 20:25:46.055 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-06 20:26:27.778 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-01-06 20:26:27.788 [Thread-19] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:26:27.788 [Thread-19] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-06 20:26:27.790 [Thread-19] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:26:27.791 [Thread-19] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:26:27.792 [Thread-19] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-06 20:26:27.792 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Shutdown initiated...
+2024-01-06 20:26:27.798 [Thread-19] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Shutdown completed.
+2024-01-06 20:26:27.862 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 8924 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-06 20:26:27.862 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-06 20:26:28.011 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-06 20:26:28.034 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 22 ms. Found 7 JPA repository interfaces.
+2024-01-06 20:26:28.116 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-06 20:26:28.116 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:26:28.116 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-06 20:26:28.116 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-06 20:26:28.166 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-06 20:26:28.166 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 302 ms
+2024-01-06 20:26:28.195 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-06 20:26:28.200 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-06 20:26:28.201 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Starting...
+2024-01-06 20:26:28.212 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6c0073d3
+2024-01-06 20:26:28.212 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Start completed.
+2024-01-06 20:26:28.283 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-06 20:26:28.312 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-06 20:26:28.510 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-06 20:26:28.579 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-06 20:26:28.587 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-06 20:26:28.592 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-06 20:26:28.595 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.75 seconds (process running for 3343.246)
+2024-01-06 20:26:28.596 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-06 20:26:50.095 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-06 20:26:50.096 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-06 20:26:50.097 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-06 20:26:50.110 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: invalid]
+2024-01-06 20:35:45.821 [HikariPool-6 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=1m17s363ms461µs600ns).
+2024-01-06 21:40:51.314 [HikariPool-6 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=1h2m59s919ms197µs500ns).
+2024-01-06 21:42:54.287 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: invalid]
+2024-01-06 21:47:48.683 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 21:47:48.683 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 21:47:48.692 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 21:48:09.337 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-06 21:48:09.338 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-06 21:48:09.345 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@346d62d3
+2024-01-06 21:48:17.357 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-06 21:48:17.357 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-06 21:48:17.361 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 6
+2024-01-06 21:48:52.667 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planters by cost range: 1.0 - 20.0
+2024-01-06 21:48:52.667 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by cost range: 1.0 - 20.0
+2024-01-06 21:48:52.672 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by cost range: 9
+2024-01-06 22:07:16.137 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: invalid]
+2024-01-06 22:33:12.465 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 22:33:12.465 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 22:33:12.470 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 22:39:30.031 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 22:39:30.031 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 22:39:30.036 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 22:42:58.803 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 22:42:58.803 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 22:42:58.808 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 22:45:47.836 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 22:45:47.836 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 22:45:47.840 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 22:47:56.407 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 22:47:56.407 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 22:47:56.413 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 22:50:15.729 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 22:50:15.729 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 22:50:15.734 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 22:51:43.966 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 22:51:43.966 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 22:51:43.971 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 22:55:10.960 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 22:55:10.960 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 22:55:10.964 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 22:57:25.835 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 22:57:25.835 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 22:57:25.838 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 22:58:20.923 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: undefined
+2024-01-06 22:58:20.924 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: undefined
+2024-01-06 22:58:20.929 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 0
+2024-01-06 22:58:26.451 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-06 22:58:26.451 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-06 22:58:26.454 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 6
+2024-01-06 23:00:28.551 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:00:28.551 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:00:28.556 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:02:12.100 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:02:12.101 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:02:12.107 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:05:11.699 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:05:11.700 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:05:11.703 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:09:29.493 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:09:29.494 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:09:29.497 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:17:18.278 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:17:18.278 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:17:18.282 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:18:37.441 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:18:37.442 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:18:37.445 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:20:27.237 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:20:27.238 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:20:27.241 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:24:22.156 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:24:22.156 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:24:22.159 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:25:21.746 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:25:21.747 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:25:21.753 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:27:12.583 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:27:12.583 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:27:12.586 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:28:44.049 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:28:44.049 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:28:44.053 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:34:06.030 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:34:06.030 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:34:06.034 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:34:46.597 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:34:46.597 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:34:46.602 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:38:16.378 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:38:16.379 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:38:16.383 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:39:14.611 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:39:14.611 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:39:14.615 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:40:23.390 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:40:23.390 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:40:23.394 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:41:50.940 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-06 23:41:56.365 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:41:56.365 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:41:56.371 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:42:49.711 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-06 23:42:49.711 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-06 23:42:49.715 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-06 23:43:20.511 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 172
+2024-01-06 23:43:20.530 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 172
+2024-01-06 23:43:20.551 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 172

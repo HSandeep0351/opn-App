@@ -1,0 +1,5 @@
+package com.practapp.Entity;
+
+public class Customer {
+
+}

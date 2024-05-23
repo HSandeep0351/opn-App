@@ -1,0 +1,45 @@
+package com.practapp.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.customer.Entity.Customer;
+import com.customer.dao.CustomerDao;
+@Service
+public class CustomerServiceImpl implements CustomerService {
+	
+	private final CustomerDao customerDao;
+		
+	@Autowired
+	public CustomerServiceImpl(CustomerDao customerDAO) {
+			this.customerDao = customerDAO;
+	}
+
+	@Override
+	public Customer addCustomer(Customer customer) {
+		return customerDao.addCustomer(customer);
+	}
+
+	@Override
+	public Customer updateCustomer(Customer customer) {
+		return customerDao.updateCustomer(customer);
+	}
+
+	@Override
+	public Customer deleteCustomer(Long customerId) {
+		return customerDao.deleteCustomer(customerId);
+	}
+
+	@Override
+	public Customer viewCustomer(Long customerId) {
+		return customerDao.viewCustomer(customerId);
+	}
+
+	@Override
+	public List<Customer> viewAllCustomers() {
+		return customerDao.viewAllCustomers();
+	}
+
+}

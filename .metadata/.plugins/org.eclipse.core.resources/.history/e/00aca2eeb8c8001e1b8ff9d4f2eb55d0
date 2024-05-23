@@ -1,0 +1,5 @@
+package com.practapp.service;
+
+public interface CustomerService {
+
+}

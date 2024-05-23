@@ -1,0 +1,977 @@
+2024-01-11 00:01:13.213 [http-nio-8050-exec-10] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:01:13.239 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 00:02:52.644 [http-nio-8050-exec-3] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:02:52.648 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 00:02:57.049 [http-nio-8050-exec-4] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 00:02:57.055 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 11
+2024-01-11 00:02:59.712 [http-nio-8050-exec-5] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:02:59.717 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 00:05:16.013 [http-nio-8050-exec-8] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:05:16.017 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 00:06:46.091 [http-nio-8050-exec-1] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:06:46.097 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 00:11:07.792 [http-nio-8050-exec-4] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:11:07.798 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 00:14:53.584 [http-nio-8050-exec-7] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:14:53.588 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 00:18:16.196 [http-nio-8050-exec-10] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:18:16.202 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 00:36:57.679 [http-nio-8050-exec-4] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 2
+2024-01-11 00:36:57.683 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 2
+2024-01-11 00:37:10.632 [http-nio-8050-exec-5] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 2
+2024-01-11 00:37:10.637 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 2
+2024-01-11 00:39:17.454 [http-nio-8050-exec-8] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:39:17.459 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 00:40:21.787 [http-nio-8050-exec-1] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:40:21.791 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 00:42:51.931 [http-nio-8050-exec-4] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:42:51.936 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 00:48:22.954 [http-nio-8050-exec-8] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:48:22.958 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 00:49:39.466 [http-nio-8050-exec-1] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:49:39.469 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 00:50:16.653 [http-nio-8050-exec-2] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 00:50:16.657 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 01:11:30.735 [http-nio-8050-exec-6] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 2
+2024-01-11 01:11:30.740 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 2
+2024-01-11 01:13:51.573 [http-nio-8050-exec-9] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 01:13:51.578 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 01:14:36.325 [http-nio-8050-exec-10] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 01:14:36.329 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 01:16:04.705 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 01:16:04.705 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 01:16:04.709 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 01:46:22.045 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 01:46:22.045 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 01:46:22.048 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 01:48:24.746 [http-nio-8050-exec-8] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 01:48:24.748 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 01:48:24.756 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: []
+2024-01-11 01:48:24.757 [http-nio-8050-exec-8] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: []
+2024-01-11 01:48:29.925 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 01:48:29.925 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 01:48:37.015 [http-nio-8050-exec-10] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 01:48:37.020 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 11
+2024-01-11 01:55:18.428 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-01-11 01:55:18.441 [Thread-54] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:18.441 [Thread-54] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-11 01:55:18.442 [Thread-54] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-11 01:55:18.447 [Thread-54] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:18.448 [Thread-54] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:18.451 [Thread-54] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 01:55:18.455 [Thread-54] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-13 - Shutdown initiated...
+2024-01-11 01:55:18.458 [Thread-54] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-13 - Shutdown completed.
+2024-01-11 01:55:18.582 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 22976 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-11 01:55:18.582 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-11 01:55:18.716 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-11 01:55:18.737 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20 ms. Found 7 JPA repository interfaces.
+2024-01-11 01:55:18.800 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-11 01:55:18.801 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:18.801 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-11 01:55:18.801 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-11 01:55:18.813 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-11 01:55:18.813 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 230 ms
+2024-01-11 01:55:18.838 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-11 01:55:18.842 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-11 01:55:18.843 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-14 - Starting...
+2024-01-11 01:55:18.852 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-14 - Added connection com.mysql.cj.jdbc.ConnectionImpl@27dc0a62
+2024-01-11 01:55:18.852 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-14 - Start completed.
+2024-01-11 01:55:18.916 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-11 01:55:19.246 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 01:55:19.411 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-11 01:55:19.479 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-11 01:55:19.484 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:19.489 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-11 01:55:19.491 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.929 seconds (process running for 38886.973)
+2024-01-11 01:55:19.492 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-11 01:55:27.056 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-01-11 01:55:27.065 [Thread-58] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:27.066 [Thread-58] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-11 01:55:27.067 [Thread-58] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:27.068 [Thread-58] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:27.068 [Thread-58] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 01:55:27.068 [Thread-58] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-14 - Shutdown initiated...
+2024-01-11 01:55:27.071 [Thread-58] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-14 - Shutdown completed.
+2024-01-11 01:55:27.130 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 22976 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-11 01:55:27.130 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-11 01:55:27.222 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-11 01:55:27.240 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 17 ms. Found 7 JPA repository interfaces.
+2024-01-11 01:55:27.282 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-11 01:55:27.282 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:27.282 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-11 01:55:27.283 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-11 01:55:27.292 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-11 01:55:27.293 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 161 ms
+2024-01-11 01:55:27.311 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-11 01:55:27.314 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-11 01:55:27.315 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-15 - Starting...
+2024-01-11 01:55:27.323 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-15 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2412fbfb
+2024-01-11 01:55:27.323 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-15 - Start completed.
+2024-01-11 01:55:27.368 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-11 01:55:27.394 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 01:55:27.540 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-11 01:55:27.596 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-11 01:55:27.603 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:27.607 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-11 01:55:27.609 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.491 seconds (process running for 38895.092)
+2024-01-11 01:55:27.610 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-11 01:55:32.100 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-01-11 01:55:32.111 [Thread-62] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:32.111 [Thread-62] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-11 01:55:32.112 [Thread-62] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:32.114 [Thread-62] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:32.115 [Thread-62] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 01:55:32.115 [Thread-62] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-15 - Shutdown initiated...
+2024-01-11 01:55:32.118 [Thread-62] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-15 - Shutdown completed.
+2024-01-11 01:55:32.176 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 22976 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-11 01:55:32.177 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-11 01:55:32.270 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-11 01:55:32.290 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19 ms. Found 7 JPA repository interfaces.
+2024-01-11 01:55:32.331 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-11 01:55:32.332 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:32.332 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-11 01:55:32.332 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-11 01:55:32.341 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-11 01:55:32.341 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 163 ms
+2024-01-11 01:55:32.360 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-11 01:55:32.364 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-11 01:55:32.364 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-16 - Starting...
+2024-01-11 01:55:32.372 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-16 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6b112598
+2024-01-11 01:55:32.372 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-16 - Start completed.
+2024-01-11 01:55:32.415 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-11 01:55:32.436 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 01:55:32.581 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-11 01:55:32.645 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-11 01:55:32.650 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-11 01:55:32.654 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-11 01:55:32.657 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.496 seconds (process running for 38900.139)
+2024-01-11 01:55:32.657 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-11 01:55:46.812 [http-nio-8050-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-11 01:55:46.812 [http-nio-8050-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-11 01:55:46.813 [http-nio-8050-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-11 01:55:46.814 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@316be36f
+2024-01-11 01:55:46.815 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@316be36f
+2024-01-11 01:55:46.824 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@316be36f
+2024-01-11 01:55:47.742 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5bfb9106
+2024-01-11 01:55:47.742 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@5bfb9106
+2024-01-11 01:55:47.747 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@5bfb9106
+2024-01-11 01:55:48.403 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@36258632
+2024-01-11 01:55:48.403 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@36258632
+2024-01-11 01:55:48.409 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@36258632
+2024-01-11 01:55:49.102 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@2361df41
+2024-01-11 01:55:49.102 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@2361df41
+2024-01-11 01:55:49.105 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@2361df41
+2024-01-11 01:55:49.736 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@61f82143
+2024-01-11 01:55:49.736 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@61f82143
+2024-01-11 01:55:49.739 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@61f82143
+2024-01-11 01:55:50.381 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@46487d56
+2024-01-11 01:55:50.381 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@46487d56
+2024-01-11 01:55:50.385 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@46487d56
+2024-01-11 01:55:51.021 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@10fdd7d7
+2024-01-11 01:55:51.021 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@10fdd7d7
+2024-01-11 01:55:51.026 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@10fdd7d7
+2024-01-11 01:55:51.663 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@28214220
+2024-01-11 01:55:51.663 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@28214220
+2024-01-11 01:55:51.667 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@28214220
+2024-01-11 01:55:52.333 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@6cf6d87f
+2024-01-11 01:55:52.333 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@6cf6d87f
+2024-01-11 01:55:52.336 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@6cf6d87f
+2024-01-11 01:55:53.024 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@670c180d
+2024-01-11 01:55:53.024 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@670c180d
+2024-01-11 01:55:53.029 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@670c180d
+2024-01-11 01:55:59.929 [http-nio-8050-exec-2] INFO  c.o.services.CustomerServiceImpl - Adding customer...
+2024-01-11 01:55:59.935 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.CustomerDAOImpl - Customer added successfully: com.opnapp.models.Customer@48cb5dcd
+2024-01-11 01:56:03.967 [http-nio-8050-exec-3] INFO  c.o.services.CustomerServiceImpl - Adding customer...
+2024-01-11 01:56:03.970 [http-nio-8050-exec-3] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 1062, SQLState: 23000
+2024-01-11 01:56:03.970 [http-nio-8050-exec-3] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Duplicate entry 'Bat07@gmail.com' for key 'customers.UK_rfbvkrffamfql7cjmen8v976v'
+2024-01-11 01:56:03.977 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.dao.DataIntegrityViolationException: could not execute statement [Duplicate entry 'Bat07@gmail.com' for key 'customers.UK_rfbvkrffamfql7cjmen8v976v'] [insert into customers (address_id,email,is_deleted,name,password,username) values (?,?,?,?,?,?)]; SQL [insert into customers (address_id,email,is_deleted,name,password,username) values (?,?,?,?,?,?)]; constraint [customers.UK_rfbvkrffamfql7cjmen8v976v]]
+2024-01-11 01:56:32.511 [http-nio-8050-exec-5] INFO  c.o.services.CustomerServiceImpl - Adding customer...
+2024-01-11 01:56:32.516 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.CustomerDAOImpl - Customer added successfully: com.opnapp.models.Customer@6c9b3f66
+2024-01-11 01:56:49.794 [http-nio-8050-exec-6] INFO  c.opnapp.services.OrderServiceImpl - Adding order: com.opnapp.models.Order@2e02d937
+2024-01-11 01:56:49.801 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.OrderDAOImpl - Order added successfully: com.opnapp.models.Order@2e02d937
+2024-01-11 01:57:13.480 [http-nio-8050-exec-7] INFO  c.o.s.AdministratorServiceImpl - Adding new Administrator
+2024-01-11 01:57:13.486 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.AdministratorDAOImpl - New administrator added !
+2024-01-11 01:57:34.659 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 01:57:34.660 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@21ba16db
+2024-01-11 01:57:34.674 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@21ba16db
+2024-01-11 01:57:35.742 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 01:57:35.742 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@6d4e002c
+2024-01-11 01:57:35.748 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@6d4e002c
+2024-01-11 01:57:36.392 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 01:57:36.392 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@1265719a
+2024-01-11 01:57:36.399 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@1265719a
+2024-01-11 01:57:37.090 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 01:57:37.091 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@28f6e0a7
+2024-01-11 01:57:37.097 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@28f6e0a7
+2024-01-11 01:57:37.717 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 01:57:37.718 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@4030b7ef
+2024-01-11 01:57:37.726 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@4030b7ef
+2024-01-11 01:57:38.337 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 01:57:38.337 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@6d581301
+2024-01-11 01:57:38.344 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@6d581301
+2024-01-11 01:57:38.927 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 01:57:38.927 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@79df74bd
+2024-01-11 01:57:38.933 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@79df74bd
+2024-01-11 01:57:39.479 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 01:57:39.479 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@2061c7d0
+2024-01-11 01:57:39.485 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@2061c7d0
+2024-01-11 01:57:40.075 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 01:57:40.075 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@6f91976c
+2024-01-11 01:57:40.081 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@6f91976c
+2024-01-11 01:57:40.664 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 01:57:40.664 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@6dd363b7
+2024-01-11 01:57:40.673 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@6dd363b7
+2024-01-11 01:58:03.941 [http-nio-8050-exec-8] INFO  com.opnapp.services.SeedServiceImpl - Adding seed: com.opnapp.models.Seed@40214434
+2024-01-11 01:58:03.941 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.SeedDaoImpl - Adding seed: com.opnapp.models.Seed@40214434
+2024-01-11 01:58:03.942 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [java.lang.NullPointerException: Cannot invoke "com.opnapp.models.Planter.getPlanterId()" because the return value of "com.opnapp.models.Seed.getPlanter()" is null]
+2024-01-11 01:59:13.087 [http-nio-8050-exec-10] INFO  com.opnapp.services.SeedServiceImpl - Adding seed: com.opnapp.models.Seed@130bdc24
+2024-01-11 01:59:13.088 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.SeedDaoImpl - Adding seed: com.opnapp.models.Seed@130bdc24
+2024-01-11 01:59:13.101 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.SeedDaoImpl - Seed added successfully: com.opnapp.models.Seed@130bdc24
+2024-01-11 01:59:13.101 [http-nio-8050-exec-10] INFO  com.opnapp.services.SeedServiceImpl - Seed added successfully: com.opnapp.models.Seed@130bdc24
+2024-01-11 01:59:19.430 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - Adding seed: com.opnapp.models.Seed@45e0e0b
+2024-01-11 01:59:19.430 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - Adding seed: com.opnapp.models.Seed@45e0e0b
+2024-01-11 01:59:19.453 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - Seed added successfully: com.opnapp.models.Seed@45e0e0b
+2024-01-11 01:59:19.453 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - Seed added successfully: com.opnapp.models.Seed@45e0e0b
+2024-01-11 01:59:23.321 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - Adding seed: com.opnapp.models.Seed@6617c3e6
+2024-01-11 01:59:23.321 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - Adding seed: com.opnapp.models.Seed@6617c3e6
+2024-01-11 01:59:23.327 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - Seed added successfully: com.opnapp.models.Seed@6617c3e6
+2024-01-11 01:59:23.327 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - Seed added successfully: com.opnapp.models.Seed@6617c3e6
+2024-01-11 01:59:28.055 [http-nio-8050-exec-3] INFO  com.opnapp.services.SeedServiceImpl - Adding seed: com.opnapp.models.Seed@1df58d82
+2024-01-11 01:59:28.055 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.SeedDaoImpl - Adding seed: com.opnapp.models.Seed@1df58d82
+2024-01-11 01:59:28.063 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.SeedDaoImpl - Seed added successfully: com.opnapp.models.Seed@1df58d82
+2024-01-11 01:59:28.064 [http-nio-8050-exec-3] INFO  com.opnapp.services.SeedServiceImpl - Seed added successfully: com.opnapp.models.Seed@1df58d82
+2024-01-11 01:59:32.600 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - Adding seed: com.opnapp.models.Seed@3b17fd8a
+2024-01-11 01:59:32.601 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - Adding seed: com.opnapp.models.Seed@3b17fd8a
+2024-01-11 01:59:32.606 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - Seed added successfully: com.opnapp.models.Seed@3b17fd8a
+2024-01-11 01:59:32.607 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - Seed added successfully: com.opnapp.models.Seed@3b17fd8a
+2024-01-11 01:59:36.552 [http-nio-8050-exec-5] INFO  com.opnapp.services.SeedServiceImpl - Adding seed: com.opnapp.models.Seed@663a6d4b
+2024-01-11 01:59:36.552 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.SeedDaoImpl - Adding seed: com.opnapp.models.Seed@663a6d4b
+2024-01-11 01:59:36.559 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.SeedDaoImpl - Seed added successfully: com.opnapp.models.Seed@663a6d4b
+2024-01-11 01:59:36.559 [http-nio-8050-exec-5] INFO  com.opnapp.services.SeedServiceImpl - Seed added successfully: com.opnapp.models.Seed@663a6d4b
+2024-01-11 01:59:41.176 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - Adding seed: com.opnapp.models.Seed@424df056
+2024-01-11 01:59:41.176 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - Adding seed: com.opnapp.models.Seed@424df056
+2024-01-11 01:59:41.183 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - Seed added successfully: com.opnapp.models.Seed@424df056
+2024-01-11 01:59:41.183 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - Seed added successfully: com.opnapp.models.Seed@424df056
+2024-01-11 01:59:45.899 [http-nio-8050-exec-7] INFO  com.opnapp.services.SeedServiceImpl - Adding seed: com.opnapp.models.Seed@6bb77ddd
+2024-01-11 01:59:45.899 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.SeedDaoImpl - Adding seed: com.opnapp.models.Seed@6bb77ddd
+2024-01-11 01:59:45.906 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.SeedDaoImpl - Seed added successfully: com.opnapp.models.Seed@6bb77ddd
+2024-01-11 01:59:45.906 [http-nio-8050-exec-7] INFO  com.opnapp.services.SeedServiceImpl - Seed added successfully: com.opnapp.models.Seed@6bb77ddd
+2024-01-11 01:59:50.791 [http-nio-8050-exec-8] INFO  com.opnapp.services.SeedServiceImpl - Adding seed: com.opnapp.models.Seed@7435afb4
+2024-01-11 01:59:50.791 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.SeedDaoImpl - Adding seed: com.opnapp.models.Seed@7435afb4
+2024-01-11 01:59:50.798 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.SeedDaoImpl - Seed added successfully: com.opnapp.models.Seed@7435afb4
+2024-01-11 01:59:50.798 [http-nio-8050-exec-8] INFO  com.opnapp.services.SeedServiceImpl - Seed added successfully: com.opnapp.models.Seed@7435afb4
+2024-01-11 01:59:54.858 [http-nio-8050-exec-9] INFO  com.opnapp.services.SeedServiceImpl - Adding seed: com.opnapp.models.Seed@3407003d
+2024-01-11 01:59:54.858 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.SeedDaoImpl - Adding seed: com.opnapp.models.Seed@3407003d
+2024-01-11 01:59:54.866 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.SeedDaoImpl - Seed added successfully: com.opnapp.models.Seed@3407003d
+2024-01-11 01:59:54.867 [http-nio-8050-exec-9] INFO  com.opnapp.services.SeedServiceImpl - Seed added successfully: com.opnapp.models.Seed@3407003d
+2024-01-11 02:00:49.540 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 02:00:49.540 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 02:00:49.556 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@5ef1a55, com.opnapp.models.Seed@6ddccdd9, com.opnapp.models.Seed@fd64593, com.opnapp.models.Seed@6be55131, com.opnapp.models.Seed@2f20db1, com.opnapp.models.Seed@441ac4e2, com.opnapp.models.Seed@44dad8b, com.opnapp.models.Seed@7bb62c90, com.opnapp.models.Seed@448d7e3c, com.opnapp.models.Seed@5aa55a1]
+2024-01-11 02:00:49.556 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@5ef1a55, com.opnapp.models.Seed@6ddccdd9, com.opnapp.models.Seed@fd64593, com.opnapp.models.Seed@6be55131, com.opnapp.models.Seed@2f20db1, com.opnapp.models.Seed@441ac4e2, com.opnapp.models.Seed@44dad8b, com.opnapp.models.Seed@7bb62c90, com.opnapp.models.Seed@448d7e3c, com.opnapp.models.Seed@5aa55a1]
+2024-01-11 02:15:34.016 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 02:15:34.016 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 02:15:34.019 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 02:15:47.137 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 02:15:47.137 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 02:15:47.154 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@185f437b, com.opnapp.models.Seed@5502640, com.opnapp.models.Seed@27eb1a15, com.opnapp.models.Seed@74d0f5c6, com.opnapp.models.Seed@40f3d309, com.opnapp.models.Seed@2e909ef8, com.opnapp.models.Seed@33f8df0b, com.opnapp.models.Seed@62bb10e8, com.opnapp.models.Seed@5c6a2482, com.opnapp.models.Seed@13e1db65]
+2024-01-11 02:15:47.155 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@185f437b, com.opnapp.models.Seed@5502640, com.opnapp.models.Seed@27eb1a15, com.opnapp.models.Seed@74d0f5c6, com.opnapp.models.Seed@40f3d309, com.opnapp.models.Seed@2e909ef8, com.opnapp.models.Seed@33f8df0b, com.opnapp.models.Seed@62bb10e8, com.opnapp.models.Seed@5c6a2482, com.opnapp.models.Seed@13e1db65]
+2024-01-11 02:15:59.521 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 02:15:59.521 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 02:16:08.765 [http-nio-8050-exec-8] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 02:16:08.768 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 1
+2024-01-11 02:20:18.442 [http-nio-8050-exec-2] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 02:20:18.444 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 1
+2024-01-11 02:20:21.361 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 02:20:21.361 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 02:20:21.363 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 02:20:31.196 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 02:20:31.196 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 02:20:31.212 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@56db8a75, com.opnapp.models.Seed@7b23ebd7, com.opnapp.models.Seed@23174c84, com.opnapp.models.Seed@457856d9, com.opnapp.models.Seed@6c6ecb82, com.opnapp.models.Seed@405e44cb, com.opnapp.models.Seed@1fa7ffe4, com.opnapp.models.Seed@56991c40, com.opnapp.models.Seed@5b4d0e44, com.opnapp.models.Seed@72d8b47b]
+2024-01-11 02:20:31.212 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@56db8a75, com.opnapp.models.Seed@7b23ebd7, com.opnapp.models.Seed@23174c84, com.opnapp.models.Seed@457856d9, com.opnapp.models.Seed@6c6ecb82, com.opnapp.models.Seed@405e44cb, com.opnapp.models.Seed@1fa7ffe4, com.opnapp.models.Seed@56991c40, com.opnapp.models.Seed@5b4d0e44, com.opnapp.models.Seed@72d8b47b]
+2024-01-11 02:20:40.695 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 02:20:40.696 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 02:20:52.780 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 02:20:52.780 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 02:20:52.800 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@6375691f, com.opnapp.models.Seed@5f137029, com.opnapp.models.Seed@6770f6c8, com.opnapp.models.Seed@280adf4f, com.opnapp.models.Seed@62050aea, com.opnapp.models.Seed@3d68bb5b, com.opnapp.models.Seed@7a4a9641, com.opnapp.models.Seed@2ca11dae, com.opnapp.models.Seed@23eb29b2, com.opnapp.models.Seed@17dfdd13]
+2024-01-11 02:20:52.801 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@6375691f, com.opnapp.models.Seed@5f137029, com.opnapp.models.Seed@6770f6c8, com.opnapp.models.Seed@280adf4f, com.opnapp.models.Seed@62050aea, com.opnapp.models.Seed@3d68bb5b, com.opnapp.models.Seed@7a4a9641, com.opnapp.models.Seed@2ca11dae, com.opnapp.models.Seed@23eb29b2, com.opnapp.models.Seed@17dfdd13]
+2024-01-11 02:20:56.357 [http-nio-8050-exec-7] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 02:20:56.360 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 1
+2024-01-11 02:21:04.978 [http-nio-8050-exec-9] INFO  c.opnapp.services.OrderServiceImpl - Adding order: com.opnapp.models.Order@2230c868
+2024-01-11 02:21:04.980 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.opnapp.models.Order.getPlanterCost()" is null]
+2024-01-11 02:21:54.886 [RMI TCP Connection(479)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2024-01-11 02:21:54.893 [RMI TCP Connection(479)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-11 02:21:54.894 [RMI TCP Connection(479)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-11 02:21:54.894 [RMI TCP Connection(479)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-11 02:21:54.895 [RMI TCP Connection(479)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-11 02:21:54.896 [RMI TCP Connection(479)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-11 02:21:54.897 [RMI TCP Connection(479)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 02:21:54.897 [RMI TCP Connection(479)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-16 - Shutdown initiated...
+2024-01-11 02:21:54.900 [RMI TCP Connection(479)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-16 - Shutdown completed.
+2024-01-11 10:32:37.364 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 18504 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-11 10:32:37.366 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-11 10:32:37.413 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-11 10:32:37.413 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-11 10:32:38.118 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-11 10:32:38.226 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 100 ms. Found 7 JPA repository interfaces.
+2024-01-11 10:32:38.885 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-11 10:32:38.896 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-11 10:32:38.898 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-11 10:32:38.899 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-11 10:32:38.968 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-11 10:32:38.968 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1555 ms
+2024-01-11 10:32:39.153 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-11 10:32:39.256 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+2024-01-11 10:32:39.260 [restartedMain] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2024-01-11 10:32:39.681 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-11 10:32:39.720 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-11 10:32:40.094 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@70e7299
+2024-01-11 10:32:40.096 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-11 10:32:41.374 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-11 10:32:41.458 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 10:32:41.699 [restartedMain] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-01-11 10:32:42.426 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-11 10:32:42.871 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-11 10:32:42.891 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-11 10:32:42.920 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-11 10:32:42.928 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 6.081 seconds (process running for 6.912)
+2024-01-11 10:33:02.888 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-11 10:33:02.889 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-11 10:33:02.890 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-11 10:33:06.714 [http-nio-8050-exec-5] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 10:33:06.725 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 1
+2024-01-11 10:33:12.140 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 10:33:12.141 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 10:33:12.179 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 10:33:20.318 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 10:33:20.318 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 10:33:20.359 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@6032a3fe, com.opnapp.models.Seed@4892b42a, com.opnapp.models.Seed@6513b7ff, com.opnapp.models.Seed@1d1347fd, com.opnapp.models.Seed@210bb148, com.opnapp.models.Seed@16bd7146, com.opnapp.models.Seed@666f5fc, com.opnapp.models.Seed@33bdc540, com.opnapp.models.Seed@73d356d6, com.opnapp.models.Seed@ad5897e]
+2024-01-11 10:33:20.359 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@6032a3fe, com.opnapp.models.Seed@4892b42a, com.opnapp.models.Seed@6513b7ff, com.opnapp.models.Seed@1d1347fd, com.opnapp.models.Seed@210bb148, com.opnapp.models.Seed@16bd7146, com.opnapp.models.Seed@666f5fc, com.opnapp.models.Seed@33bdc540, com.opnapp.models.Seed@73d356d6, com.opnapp.models.Seed@ad5897e]
+2024-01-11 10:33:28.128 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 10:33:28.129 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 10:33:41.055 [http-nio-8050-exec-3] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 10:33:41.058 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 1
+2024-01-11 10:33:58.196 [http-nio-8050-exec-9] INFO  c.opnapp.services.OrderServiceImpl - Adding order: com.opnapp.models.Order@204ba68f
+2024-01-11 10:33:58.241 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.opnapp.models.Order.getPlanterCost()" is null]
+2024-01-11 10:34:18.917 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 10:34:18.917 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 10:35:46.622 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 10:35:46.623 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 10:35:46.656 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@76b00cf4, com.opnapp.models.Seed@59cccc6, com.opnapp.models.Seed@563c1ef1, com.opnapp.models.Seed@4a5aefc3, com.opnapp.models.Seed@3e1e78c0, com.opnapp.models.Seed@71b664a3, com.opnapp.models.Seed@2df73e6e, com.opnapp.models.Seed@1779f168, com.opnapp.models.Seed@3d36f97d, com.opnapp.models.Seed@12cdaede]
+2024-01-11 10:35:46.657 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@76b00cf4, com.opnapp.models.Seed@59cccc6, com.opnapp.models.Seed@563c1ef1, com.opnapp.models.Seed@4a5aefc3, com.opnapp.models.Seed@3e1e78c0, com.opnapp.models.Seed@71b664a3, com.opnapp.models.Seed@2df73e6e, com.opnapp.models.Seed@1779f168, com.opnapp.models.Seed@3d36f97d, com.opnapp.models.Seed@12cdaede]
+2024-01-11 10:35:48.237 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 10:35:48.237 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 10:37:13.430 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 10:37:13.431 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@37a948f5
+2024-01-11 10:37:13.498 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@37a948f5
+2024-01-11 10:37:17.714 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 10:37:17.714 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@22710cb3
+2024-01-11 10:37:17.764 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@22710cb3
+2024-01-11 10:37:24.317 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 10:37:24.317 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@9c9c0f8
+2024-01-11 10:37:24.370 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@9c9c0f8
+2024-01-11 10:37:29.163 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 10:37:29.164 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@5015d4f5
+2024-01-11 10:37:29.221 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@5015d4f5
+2024-01-11 10:37:33.736 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 10:37:33.736 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@10321bc1
+2024-01-11 10:37:33.787 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@10321bc1
+2024-01-11 10:37:37.681 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 10:37:37.681 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlantDaoImpl - Adding plant: com.opnapp.models.Plant@4dd6765c
+2024-01-11 10:37:37.695 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlantDaoImpl - Plant added successfully: com.opnapp.models.Plant@4dd6765c
+2024-01-11 10:37:46.792 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 10:37:46.792 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 10:37:46.823 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@450bb9b5, com.opnapp.models.Seed@49e201f, com.opnapp.models.Seed@70f4f04d, com.opnapp.models.Seed@3d72507e, com.opnapp.models.Seed@63b97936, com.opnapp.models.Seed@17cd89a5, com.opnapp.models.Seed@3515a941, com.opnapp.models.Seed@3a49c0f6, com.opnapp.models.Seed@5cbd8ed0, com.opnapp.models.Seed@7fe55b61]
+2024-01-11 10:37:46.823 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@450bb9b5, com.opnapp.models.Seed@49e201f, com.opnapp.models.Seed@70f4f04d, com.opnapp.models.Seed@3d72507e, com.opnapp.models.Seed@63b97936, com.opnapp.models.Seed@17cd89a5, com.opnapp.models.Seed@3515a941, com.opnapp.models.Seed@3a49c0f6, com.opnapp.models.Seed@5cbd8ed0, com.opnapp.models.Seed@7fe55b61]
+2024-01-11 10:37:48.272 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 10:37:48.272 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 10:46:08.140 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 10:46:08.140 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 10:47:14.575 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 10:47:14.575 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 10:49:40.883 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 10:49:40.883 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:00:34.232 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:00:34.232 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:01:24.731 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 11:01:38.187 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 11:03:44.573 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:03:44.574 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:03:50.152 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 11:04:34.677 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:04:34.677 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:04:40.600 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlantServiceImpl - Viewing plant by ID
+2024-01-11 11:04:40.600 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing plant with ID: 11
+2024-01-11 11:06:19.646 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:06:19.646 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:06:36.145 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlantServiceImpl - Viewing plants by common name
+2024-01-11 11:06:36.146 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing plants by common name: r
+2024-01-11 11:06:43.582 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlantServiceImpl - Viewing plants by common name
+2024-01-11 11:06:43.583 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing plants by common name: Red Rose
+2024-01-11 11:07:11.180 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 11:07:11.180 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 11:07:11.209 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@159df3c7, com.opnapp.models.Seed@731fc795, com.opnapp.models.Seed@7bd96490, com.opnapp.models.Seed@683e6e19, com.opnapp.models.Seed@4504d4a0, com.opnapp.models.Seed@1ebe022a, com.opnapp.models.Seed@6e544866, com.opnapp.models.Seed@58947c8e, com.opnapp.models.Seed@72830d4d, com.opnapp.models.Seed@3e6443a0]
+2024-01-11 11:07:11.209 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@159df3c7, com.opnapp.models.Seed@731fc795, com.opnapp.models.Seed@7bd96490, com.opnapp.models.Seed@683e6e19, com.opnapp.models.Seed@4504d4a0, com.opnapp.models.Seed@1ebe022a, com.opnapp.models.Seed@6e544866, com.opnapp.models.Seed@58947c8e, com.opnapp.models.Seed@72830d4d, com.opnapp.models.Seed@3e6443a0]
+2024-01-11 11:07:12.202 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:07:12.202 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:07:25.845 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants by type
+2024-01-11 11:07:25.845 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants by type: Lily
+2024-01-11 11:08:45.438 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:08:45.438 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:08:51.571 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 11:08:51.572 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 11:08:51.579 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 11:15:40.323 [http-nio-8050-exec-4] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 11:15:40.329 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 1
+2024-01-11 11:16:24.628 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 11:16:24.629 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 11:16:24.634 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 11:16:26.358 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 11:16:26.359 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 11:16:26.393 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@210b7894, com.opnapp.models.Seed@6ecca941, com.opnapp.models.Seed@3ad11a08, com.opnapp.models.Seed@239e6046, com.opnapp.models.Seed@562ac6fa, com.opnapp.models.Seed@49e424ce, com.opnapp.models.Seed@1e8af155, com.opnapp.models.Seed@1a03983e, com.opnapp.models.Seed@5b6cb4ac, com.opnapp.models.Seed@4222d42]
+2024-01-11 11:16:26.394 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@210b7894, com.opnapp.models.Seed@6ecca941, com.opnapp.models.Seed@3ad11a08, com.opnapp.models.Seed@239e6046, com.opnapp.models.Seed@562ac6fa, com.opnapp.models.Seed@49e424ce, com.opnapp.models.Seed@1e8af155, com.opnapp.models.Seed@1a03983e, com.opnapp.models.Seed@5b6cb4ac, com.opnapp.models.Seed@4222d42]
+2024-01-11 11:16:30.036 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 11:16:30.036 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 11:16:30.044 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 11:16:34.805 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:16:34.805 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:16:39.175 [http-nio-8050-exec-3] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 11:16:39.183 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 1
+2024-01-11 11:17:22.603 [http-nio-8050-exec-9] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 11:17:22.607 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 1
+2024-01-11 11:17:25.224 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 11:17:25.224 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 11:17:25.229 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 11:17:34.052 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:17:34.052 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:17:37.948 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 11:17:37.949 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 11:17:37.953 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 11:17:39.079 [http-nio-8050-exec-5] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 11:17:39.083 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 1
+2024-01-11 11:17:40.727 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 11:17:40.727 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 11:17:40.731 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 11:17:41.747 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 11:17:41.747 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 11:17:41.769 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@26014cba, com.opnapp.models.Seed@42616d25, com.opnapp.models.Seed@1d9d57d5, com.opnapp.models.Seed@73e50453, com.opnapp.models.Seed@482f9ee3, com.opnapp.models.Seed@49ad7a4, com.opnapp.models.Seed@224c5cf, com.opnapp.models.Seed@3a8d22e5, com.opnapp.models.Seed@277f8417, com.opnapp.models.Seed@75eb046c]
+2024-01-11 11:17:41.769 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@26014cba, com.opnapp.models.Seed@42616d25, com.opnapp.models.Seed@1d9d57d5, com.opnapp.models.Seed@73e50453, com.opnapp.models.Seed@482f9ee3, com.opnapp.models.Seed@49ad7a4, com.opnapp.models.Seed@224c5cf, com.opnapp.models.Seed@3a8d22e5, com.opnapp.models.Seed@277f8417, com.opnapp.models.Seed@75eb046c]
+2024-01-11 11:17:54.891 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 11:17:54.891 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 11:17:54.895 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 11:17:58.813 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:17:58.814 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:18:02.273 [http-nio-8050-exec-8] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 11:18:02.281 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 1
+2024-01-11 11:28:46.707 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 4 class path changes (0 additions, 0 deletions, 4 modifications)
+2024-01-11 11:28:46.733 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:28:46.733 [Thread-5] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-11 11:28:46.735 [Thread-5] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-11 11:28:46.745 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:28:46.747 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:28:46.753 [Thread-5] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 11:28:46.764 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-11 11:28:46.774 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-11 11:28:46.903 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 18504 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-11 11:28:46.904 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-11 11:28:47.056 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-11 11:28:47.082 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25 ms. Found 7 JPA repository interfaces.
+2024-01-11 11:28:47.159 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-11 11:28:47.160 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:28:47.160 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-11 11:28:47.160 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-11 11:28:47.171 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-11 11:28:47.173 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 268 ms
+2024-01-11 11:28:47.207 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-11 11:28:47.212 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-11 11:28:47.213 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2024-01-11 11:28:47.232 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@65520c7e
+2024-01-11 11:28:47.232 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2024-01-11 11:28:47.325 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-11 11:28:47.548 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 11:28:47.819 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-11 11:28:47.929 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-11 11:28:47.938 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:28:47.942 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-11 11:28:47.945 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 1.068 seconds (process running for 3371.945)
+2024-01-11 11:28:47.948 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-11 11:29:56.839 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 4 class path changes (0 additions, 0 deletions, 4 modifications)
+2024-01-11 11:29:56.847 [Thread-7] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:29:56.847 [Thread-7] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-11 11:29:56.849 [Thread-7] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:29:56.850 [Thread-7] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:29:56.852 [Thread-7] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 11:29:56.852 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2024-01-11 11:29:56.856 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2024-01-11 11:29:56.924 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 18504 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-11 11:29:56.924 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-11 11:29:57.028 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-11 11:29:57.047 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19 ms. Found 7 JPA repository interfaces.
+2024-01-11 11:29:57.094 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-11 11:29:57.095 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:29:57.095 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-11 11:29:57.095 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-11 11:29:57.107 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-11 11:29:57.107 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 181 ms
+2024-01-11 11:29:57.132 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-11 11:29:57.137 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-11 11:29:57.138 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2024-01-11 11:29:57.147 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@407b2bdd
+2024-01-11 11:29:57.147 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2024-01-11 11:29:57.209 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-11 11:29:57.233 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 11:29:57.402 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-11 11:29:57.473 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-11 11:29:57.480 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:29:57.484 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-11 11:29:57.487 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.585 seconds (process running for 3441.487)
+2024-01-11 11:29:57.488 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-11 11:31:27.380 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-01-11 11:31:27.389 [Thread-11] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:31:27.389 [Thread-11] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-11 11:31:27.391 [Thread-11] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:31:27.391 [Thread-11] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:31:27.392 [Thread-11] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 11:31:27.392 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2024-01-11 11:31:27.396 [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Shutdown completed.
+2024-01-11 11:31:27.463 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 18504 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-11 11:31:27.463 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-11 11:31:27.586 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-11 11:31:27.609 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 22 ms. Found 7 JPA repository interfaces.
+2024-01-11 11:31:27.665 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-11 11:31:27.665 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:31:27.665 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-11 11:31:27.665 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-11 11:31:27.677 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-11 11:31:27.678 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 213 ms
+2024-01-11 11:31:27.704 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-11 11:31:27.708 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-11 11:31:27.709 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Starting...
+2024-01-11 11:31:27.721 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4868b8e8
+2024-01-11 11:31:27.721 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Start completed.
+2024-01-11 11:31:27.787 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-11 11:31:27.812 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 11:31:27.974 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-11 11:31:28.033 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-11 11:31:28.039 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:31:28.043 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-11 11:31:28.045 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.609 seconds (process running for 3532.045)
+2024-01-11 11:31:28.046 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-11 11:32:07.215 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-01-11 11:32:07.221 [Thread-15] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:32:07.221 [Thread-15] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-11 11:32:07.223 [Thread-15] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:32:07.224 [Thread-15] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:32:07.225 [Thread-15] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 11:32:07.225 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown initiated...
+2024-01-11 11:32:07.228 [Thread-15] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Shutdown completed.
+2024-01-11 11:32:07.286 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 18504 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-11 11:32:07.287 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-11 11:32:07.402 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-11 11:32:07.426 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 23 ms. Found 7 JPA repository interfaces.
+2024-01-11 11:32:07.474 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-11 11:32:07.475 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:32:07.476 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-11 11:32:07.476 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-11 11:32:07.485 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-11 11:32:07.485 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 197 ms
+2024-01-11 11:32:07.504 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-11 11:32:07.507 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-11 11:32:07.507 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Starting...
+2024-01-11 11:32:07.516 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2732e658
+2024-01-11 11:32:07.516 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Start completed.
+2024-01-11 11:32:07.565 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-11 11:32:07.587 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 11:32:07.738 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-11 11:32:07.803 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-11 11:32:07.809 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-11 11:32:07.815 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-11 11:32:07.818 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.55 seconds (process running for 3571.818)
+2024-01-11 11:32:07.820 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-11 11:34:49.821 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-11 11:34:49.822 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-11 11:34:49.823 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-11 11:34:51.718 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:34:51.718 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:34:57.538 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 11:34:57.538 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 11:34:57.563 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@72022851, com.opnapp.models.Seed@14a7ee37, com.opnapp.models.Seed@13f69bef, com.opnapp.models.Seed@23451ce2, com.opnapp.models.Seed@32f11c5c, com.opnapp.models.Seed@1088c476, com.opnapp.models.Seed@f45b5a, com.opnapp.models.Seed@73d2839f, com.opnapp.models.Seed@208fc6c0, com.opnapp.models.Seed@d8edd17]
+2024-01-11 11:34:57.563 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@72022851, com.opnapp.models.Seed@14a7ee37, com.opnapp.models.Seed@13f69bef, com.opnapp.models.Seed@23451ce2, com.opnapp.models.Seed@32f11c5c, com.opnapp.models.Seed@1088c476, com.opnapp.models.Seed@f45b5a, com.opnapp.models.Seed@73d2839f, com.opnapp.models.Seed@208fc6c0, com.opnapp.models.Seed@d8edd17]
+2024-01-11 11:35:01.224 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 11:35:01.224 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 11:35:01.228 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 11:35:14.583 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 11:35:14.584 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 11:35:14.609 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@37944d89, com.opnapp.models.Seed@347a19f, com.opnapp.models.Seed@713854b4, com.opnapp.models.Seed@237453b9, com.opnapp.models.Seed@7d1d301b, com.opnapp.models.Seed@53a39526, com.opnapp.models.Seed@17d05dcc, com.opnapp.models.Seed@59f8a9c7, com.opnapp.models.Seed@1401d6e1, com.opnapp.models.Seed@12fcdf33]
+2024-01-11 11:35:14.609 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@37944d89, com.opnapp.models.Seed@347a19f, com.opnapp.models.Seed@713854b4, com.opnapp.models.Seed@237453b9, com.opnapp.models.Seed@7d1d301b, com.opnapp.models.Seed@53a39526, com.opnapp.models.Seed@17d05dcc, com.opnapp.models.Seed@59f8a9c7, com.opnapp.models.Seed@1401d6e1, com.opnapp.models.Seed@12fcdf33]
+2024-01-11 11:35:21.925 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:35:21.926 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:35:27.656 [http-nio-8050-exec-8] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 11:35:27.661 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 1
+2024-01-11 11:35:41.995 [http-nio-8050-exec-10] INFO  c.opnapp.services.OrderServiceImpl - Adding order: com.opnapp.models.Order@276d6780
+2024-01-11 11:35:41.998 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [java.lang.NullPointerException: Cannot invoke "java.lang.Double.doubleValue()" because the return value of "com.opnapp.models.Order.getPlanterCost()" is null]
+2024-01-11 11:38:42.385 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 11:38:42.385 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 11:38:42.391 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 11:38:53.827 [http-nio-8050-exec-3] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 11:38:53.829 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 1
+2024-01-11 11:38:56.235 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 11:38:56.235 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 11:38:56.238 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 11:39:02.782 [http-nio-8050-exec-5] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 11:39:02.782 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 11:39:02.800 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@6547f82e, com.opnapp.models.Seed@68892e2, com.opnapp.models.Seed@39c13be6, com.opnapp.models.Seed@7004dd2b, com.opnapp.models.Seed@47988bc1, com.opnapp.models.Seed@747c2b71, com.opnapp.models.Seed@1706f22a, com.opnapp.models.Seed@b8f44b2, com.opnapp.models.Seed@668c5746, com.opnapp.models.Seed@23d5f65c]
+2024-01-11 11:39:02.801 [http-nio-8050-exec-5] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@6547f82e, com.opnapp.models.Seed@68892e2, com.opnapp.models.Seed@39c13be6, com.opnapp.models.Seed@7004dd2b, com.opnapp.models.Seed@47988bc1, com.opnapp.models.Seed@747c2b71, com.opnapp.models.Seed@1706f22a, com.opnapp.models.Seed@b8f44b2, com.opnapp.models.Seed@668c5746, com.opnapp.models.Seed@23d5f65c]
+2024-01-11 11:39:10.396 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:39:10.396 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:39:19.682 [http-nio-8050-exec-7] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 11:39:19.687 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 1
+2024-01-11 11:39:25.110 [http-nio-8050-exec-8] INFO  c.opnapp.services.OrderServiceImpl - Adding order: com.opnapp.models.Order@2d199e7f
+2024-01-11 11:39:25.119 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.OrderDAOImpl - Order added successfully: com.opnapp.models.Order@2d199e7f
+2024-01-11 11:40:09.529 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:40:09.530 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:40:14.308 [http-nio-8050-exec-10] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 11:40:14.310 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 2
+2024-01-11 11:40:21.737 [http-nio-8050-exec-1] INFO  c.opnapp.services.OrderServiceImpl - Adding order: com.opnapp.models.Order@52edee3a
+2024-01-11 11:40:21.755 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.OrderDAOImpl - Order added successfully: com.opnapp.models.Order@52edee3a
+2024-01-11 11:40:30.397 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 11:40:33.391 [http-nio-8050-exec-3] INFO  c.opnapp.services.OrderServiceImpl - Viewing order with ID: 3
+2024-01-11 11:40:33.396 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.OrderDAOImpl - Order found successfully: com.opnapp.models.Order@3ecc3b0d
+2024-01-11 11:40:36.729 [http-nio-8050-exec-5] INFO  c.opnapp.services.OrderServiceImpl - Cancelling Order
+2024-01-11 11:40:36.758 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.OrderDAOImpl - Order cancelled successfully
+2024-01-11 11:40:36.758 [http-nio-8050-exec-5] INFO  c.opnapp.services.OrderServiceImpl - Viewing order with ID: 3
+2024-01-11 11:40:36.759 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.OrderDAOImpl - Order found successfully: com.opnapp.models.Order@365c1cd6
+2024-01-11 11:40:53.708 [http-nio-8050-exec-7] INFO  c.opnapp.services.OrderServiceImpl - Updating order: com.opnapp.models.Order@20088bfe
+2024-01-11 11:40:53.708 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.OrderDAOImpl - Updating order: com.opnapp.models.Order@20088bfe
+2024-01-11 11:40:53.713 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.OrderDAOImpl - Order updated successfully: com.opnapp.models.Order@1c6b984d
+2024-01-11 11:40:55.261 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:40:55.261 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:40:58.136 [http-nio-8050-exec-9] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 11:40:58.138 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 3
+2024-01-11 11:41:04.691 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 11:41:07.518 [http-nio-8050-exec-1] INFO  c.opnapp.services.OrderServiceImpl - Viewing order with ID: 3
+2024-01-11 11:41:07.520 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.OrderDAOImpl - Order found successfully: com.opnapp.models.Order@4e7c2aa4
+2024-01-11 11:41:14.574 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:41:14.574 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:41:17.643 [http-nio-8050-exec-3] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 11:41:17.644 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 11:41:17.663 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@7efc575c, com.opnapp.models.Seed@1b5eebb, com.opnapp.models.Seed@16f3185a, com.opnapp.models.Seed@4b70ddcc, com.opnapp.models.Seed@cd472be, com.opnapp.models.Seed@73ec23b, com.opnapp.models.Seed@3680fc35, com.opnapp.models.Seed@1a035a25, com.opnapp.models.Seed@97e8718, com.opnapp.models.Seed@315626b0]
+2024-01-11 11:41:17.663 [http-nio-8050-exec-3] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@7efc575c, com.opnapp.models.Seed@1b5eebb, com.opnapp.models.Seed@16f3185a, com.opnapp.models.Seed@4b70ddcc, com.opnapp.models.Seed@cd472be, com.opnapp.models.Seed@73ec23b, com.opnapp.models.Seed@3680fc35, com.opnapp.models.Seed@1a035a25, com.opnapp.models.Seed@97e8718, com.opnapp.models.Seed@315626b0]
+2024-01-11 11:41:18.595 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 11:41:18.595 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 11:41:18.598 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 11:41:33.000 [http-nio-8050-exec-6] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 11:41:33.004 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 3
+2024-01-11 11:41:39.593 [http-nio-8050-exec-8] INFO  c.opnapp.services.OrderServiceImpl - Deleting order: 3
+2024-01-11 11:41:39.596 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.OrderDAOImpl - Deleting order with ID: 3
+2024-01-11 11:41:39.619 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.OrderDAOImpl - Order deleted successfully with ID: 3
+2024-01-11 11:41:50.745 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 11:41:53.921 [http-nio-8050-exec-10] INFO  c.opnapp.services.OrderServiceImpl - Viewing order with ID: 3
+2024-01-11 11:41:53.923 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.OrderDAOImpl - Order not found with ID: 3
+2024-01-11 11:41:53.927 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Order not found with ID 3]
+2024-01-11 11:41:58.081 [http-nio-8050-exec-1] INFO  c.opnapp.services.OrderServiceImpl - Viewing order with ID: 2
+2024-01-11 11:41:58.084 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.OrderDAOImpl - Order found successfully: com.opnapp.models.Order@465806c3
+2024-01-11 11:42:03.216 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:42:03.216 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:42:44.427 [http-nio-8050-exec-3] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 11:42:44.427 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 11:42:44.446 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@255ae01f, com.opnapp.models.Seed@7809bc7, com.opnapp.models.Seed@5d8aece3, com.opnapp.models.Seed@64b983d8, com.opnapp.models.Seed@4743c468, com.opnapp.models.Seed@3ee2ec68, com.opnapp.models.Seed@608c85b4, com.opnapp.models.Seed@458de616, com.opnapp.models.Seed@a712a25, com.opnapp.models.Seed@27896951]
+2024-01-11 11:42:44.446 [http-nio-8050-exec-3] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@255ae01f, com.opnapp.models.Seed@7809bc7, com.opnapp.models.Seed@5d8aece3, com.opnapp.models.Seed@64b983d8, com.opnapp.models.Seed@4743c468, com.opnapp.models.Seed@3ee2ec68, com.opnapp.models.Seed@608c85b4, com.opnapp.models.Seed@458de616, com.opnapp.models.Seed@a712a25, com.opnapp.models.Seed@27896951]
+2024-01-11 11:42:45.401 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 11:42:45.401 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 11:43:06.484 [http-nio-8050-exec-5] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 11:43:06.484 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 11:43:06.507 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@33e4c4d9, com.opnapp.models.Seed@3b70d221, com.opnapp.models.Seed@40a4d34e, com.opnapp.models.Seed@4124d272, com.opnapp.models.Seed@26ab4328, com.opnapp.models.Seed@54520799, com.opnapp.models.Seed@5339cdf3, com.opnapp.models.Seed@7fbb9d52, com.opnapp.models.Seed@469186dc, com.opnapp.models.Seed@413333f]
+2024-01-11 11:43:06.508 [http-nio-8050-exec-5] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@33e4c4d9, com.opnapp.models.Seed@3b70d221, com.opnapp.models.Seed@40a4d34e, com.opnapp.models.Seed@4124d272, com.opnapp.models.Seed@26ab4328, com.opnapp.models.Seed@54520799, com.opnapp.models.Seed@5339cdf3, com.opnapp.models.Seed@7fbb9d52, com.opnapp.models.Seed@469186dc, com.opnapp.models.Seed@413333f]
+2024-01-11 12:36:39.528 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 12:36:39.528 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 12:37:55.619 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 12:37:55.621 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Plant stock should be a positive integer]
+2024-01-11 12:39:10.643 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 12:39:10.644 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Plant stock should be a positive integer]
+2024-01-11 12:39:12.513 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 12:39:12.515 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Plant stock should be a positive integer]
+2024-01-11 12:39:21.381 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlantServiceImpl - Adding a new plant
+2024-01-11 12:39:21.382 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Plant stock should be a positive integer]
+2024-01-11 12:43:28.876 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlantServiceImpl - Viewing all plants
+2024-01-11 12:43:28.876 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlantDaoImpl - Viewing all plants
+2024-01-11 13:13:03.691 [http-nio-8050-exec-10] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 13:13:03.702 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 13:13:17.342 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 13:13:19.297 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 13:13:46.019 [http-nio-8050-exec-3] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 13:13:46.026 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 2
+2024-01-11 13:13:47.046 [http-nio-8050-exec-4] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 13:13:47.052 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 13:14:09.929 [http-nio-8050-exec-6] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 3
+2024-01-11 13:14:09.937 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 3
+2024-01-11 13:14:55.127 [http-nio-8050-exec-8] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 13:14:55.135 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 13:15:04.973 [http-nio-8050-exec-9] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 13:15:04.978 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 13:15:10.602 [http-nio-8050-exec-10] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 3
+2024-01-11 13:15:10.610 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 3
+2024-01-11 14:38:21.882 [HikariPool-5 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=49m15s791ms636µs300ns).
+2024-01-11 14:40:48.015 [http-nio-8050-exec-2] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 3
+2024-01-11 14:40:48.024 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 3
+2024-01-11 14:41:11.136 [http-nio-8050-exec-5] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 14:41:11.145 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 14:43:48.150 [http-nio-8050-exec-8] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 14:43:48.157 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 14:47:25.489 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 11412 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-11 14:47:25.491 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-11 14:47:25.531 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-11 14:47:25.531 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-11 14:47:26.011 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-11 14:47:26.080 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 63 ms. Found 7 JPA repository interfaces.
+2024-01-11 14:47:26.516 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-11 14:47:26.526 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-11 14:47:26.528 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-11 14:47:26.528 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-11 14:47:26.588 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-11 14:47:26.588 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1057 ms
+2024-01-11 14:47:26.712 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-11 14:47:26.778 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+2024-01-11 14:47:26.780 [restartedMain] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2024-01-11 14:47:27.049 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-11 14:47:27.090 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-11 14:47:27.356 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4058e094
+2024-01-11 14:47:27.357 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-11 14:47:28.292 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-11 14:47:28.405 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 14:47:28.605 [restartedMain] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-01-11 14:47:29.176 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-11 14:47:29.441 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-11 14:47:29.458 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-11 14:47:29.481 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-11 14:47:29.488 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 4.361 seconds (process running for 4.993)
+2024-01-11 15:01:40.090 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-11 15:01:40.090 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-11 15:01:40.092 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-01-11 15:01:45.089 [http-nio-8050-exec-3] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 15:01:45.114 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 15:05:14.152 [http-nio-8050-exec-6] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 15:05:14.162 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 15:06:47.649 [http-nio-8050-exec-8] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 15:06:47.663 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 15:06:55.462 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 15:09:02.380 [http-nio-8050-exec-1] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 15:09:02.391 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 15:09:05.418 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 15:09:44.486 [http-nio-8050-exec-4] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 15:09:44.500 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 15:09:46.436 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 15:11:00.062 [http-nio-8050-exec-7] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 15:11:00.078 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 15:11:03.294 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 15:11:07.667 [http-nio-8050-exec-9] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 15:11:07.678 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 15:13:05.356 [http-nio-8050-exec-2] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 15:13:05.371 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 15:13:18.030 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 15:13:27.178 [http-nio-8050-exec-4] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 15:13:27.186 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 15:17:30.691 [http-nio-8050-exec-7] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 15:17:30.699 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 15:17:33.243 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 15:17:37.086 [http-nio-8050-exec-9] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 15:17:37.094 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 15:17:42.389 [http-nio-8050-exec-10] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 15:17:42.401 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 15:17:46.157 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 15:17:49.693 [http-nio-8050-exec-2] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 15:17:49.701 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 15:18:05.589 [http-nio-8050-exec-4] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 15:18:05.594 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 15:18:23.125 [http-nio-8050-exec-5] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 15:18:23.129 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 15:19:35.385 [http-nio-8050-exec-7] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 15:19:35.390 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 15:19:46.312 [http-nio-8050-exec-8] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 15:19:46.316 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 15:34:33.636 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 16492 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-11 15:34:33.639 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-11 15:34:33.699 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-11 15:34:33.699 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-11 15:34:34.511 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-11 15:34:34.630 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 108 ms. Found 7 JPA repository interfaces.
+2024-01-11 15:34:35.399 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-11 15:34:35.409 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-11 15:34:35.412 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-11 15:34:35.412 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-11 15:34:35.501 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-11 15:34:35.501 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1798 ms
+2024-01-11 15:34:35.698 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-11 15:34:35.801 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+2024-01-11 15:34:35.804 [restartedMain] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+2024-01-11 15:34:36.170 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-11 15:34:36.198 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-01-11 15:34:36.550 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1200aae7
+2024-01-11 15:34:36.552 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-01-11 15:34:37.960 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-11 15:34:38.067 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 15:34:38.333 [restartedMain] INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-01-11 15:34:38.988 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-11 15:34:39.341 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-11 15:34:39.359 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-11 15:34:39.383 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-11 15:34:39.391 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 6.301 seconds (process running for 7.176)
+2024-01-11 15:35:06.993 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-11 15:35:06.993 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-11 15:35:06.994 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-11 15:35:09.796 [http-nio-8050-exec-4] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 15:35:09.824 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 15:35:37.754 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 15:35:51.950 [http-nio-8050-exec-5] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 15:35:51.962 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 15:35:59.576 [http-nio-8050-exec-8] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 15:35:59.582 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 15:51:43.060 [http-nio-8050-exec-10] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 15:51:43.071 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 15:51:45.403 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "undefined"]
+2024-01-11 15:51:49.161 [http-nio-8050-exec-2] INFO  c.o.services.CustomerServiceImpl - Viewing customer by ID: 1
+2024-01-11 15:51:49.169 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed customer with ID: 1
+2024-01-11 15:51:55.250 [http-nio-8050-exec-4] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 15:51:55.257 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 15:51:55.686 [http-nio-8050-exec-3] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 15:51:55.691 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 15:51:59.399 [http-nio-8050-exec-5] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 15:51:59.404 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 15:52:06.103 [http-nio-8050-exec-6] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 15:52:06.107 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 16:01:14.776 [http-nio-8050-exec-9] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 16:01:14.784 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 16:01:22.451 [http-nio-8050-exec-10] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 16:01:22.457 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 16:04:09.827 [http-nio-8050-exec-4] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 16:04:09.839 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 16:04:22.808 [http-nio-8050-exec-3] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 16:04:22.815 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 16:05:29.570 [http-nio-8050-exec-6] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 16:05:29.579 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 16:08:32.208 [http-nio-8050-exec-9] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 16:08:32.213 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 16:11:16.937 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 4 class path changes (0 additions, 0 deletions, 4 modifications)
+2024-01-11 16:11:16.963 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-11 16:11:16.963 [Thread-5] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-11 16:11:16.965 [Thread-5] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-11 16:11:17.012 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-11 16:11:17.017 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-11 16:11:17.023 [Thread-5] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 16:11:17.029 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-01-11 16:11:17.034 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-01-11 16:11:17.143 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 16492 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-11 16:11:17.144 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-11 16:11:17.268 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-11 16:11:17.295 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25 ms. Found 7 JPA repository interfaces.
+2024-01-11 16:11:17.402 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-11 16:11:17.403 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-11 16:11:17.403 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-11 16:11:17.404 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-11 16:11:17.425 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-11 16:11:17.425 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 279 ms
+2024-01-11 16:11:17.463 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-11 16:11:17.469 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-11 16:11:17.471 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2024-01-11 16:11:17.490 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1c691728
+2024-01-11 16:11:17.491 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2024-01-11 16:11:17.590 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-11 16:11:17.645 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 16:11:17.930 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-11 16:11:18.038 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-11 16:11:18.058 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-11 16:11:18.064 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-11 16:11:18.068 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.946 seconds (process running for 2205.728)
+2024-01-11 16:11:18.069 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-11 16:11:20.462 [http-nio-8050-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-11 16:11:20.462 [http-nio-8050-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-11 16:11:20.463 [http-nio-8050-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-01-11 16:11:20.467 [http-nio-8050-exec-2] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 16:11:20.473 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 16:11:31.941 [http-nio-8050-exec-4] INFO  c.o.services.CustomerServiceImpl - Updating customer...
+2024-01-11 16:11:31.947 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.CustomerDAOImpl - Updated Successfully
+2024-01-11 16:11:45.923 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 16:11:45.923 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 16:11:45.945 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 16:11:54.636 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 16:11:54.637 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 16:11:54.695 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@73f00a66, com.opnapp.models.Seed@71e2e2f4, com.opnapp.models.Seed@1f82b201, com.opnapp.models.Seed@6cca0da1, com.opnapp.models.Seed@4722337a, com.opnapp.models.Seed@138b711a, com.opnapp.models.Seed@12c7f5ab, com.opnapp.models.Seed@5ef9fdbf, com.opnapp.models.Seed@6714a839, com.opnapp.models.Seed@3bf21200]
+2024-01-11 16:11:54.696 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@73f00a66, com.opnapp.models.Seed@71e2e2f4, com.opnapp.models.Seed@1f82b201, com.opnapp.models.Seed@6cca0da1, com.opnapp.models.Seed@4722337a, com.opnapp.models.Seed@138b711a, com.opnapp.models.Seed@12c7f5ab, com.opnapp.models.Seed@5ef9fdbf, com.opnapp.models.Seed@6714a839, com.opnapp.models.Seed@3bf21200]
+2024-01-11 16:17:27.556 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 16:17:27.557 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 16:17:27.585 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@3bf6449a, com.opnapp.models.Seed@62567f49, com.opnapp.models.Seed@7188d664, com.opnapp.models.Seed@5f316010, com.opnapp.models.Seed@3a7dfd54, com.opnapp.models.Seed@5d7398d7, com.opnapp.models.Seed@3c17b0c1, com.opnapp.models.Seed@212dbf49, com.opnapp.models.Seed@53535d46, com.opnapp.models.Seed@576e1733]
+2024-01-11 16:17:27.585 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@3bf6449a, com.opnapp.models.Seed@62567f49, com.opnapp.models.Seed@7188d664, com.opnapp.models.Seed@5f316010, com.opnapp.models.Seed@3a7dfd54, com.opnapp.models.Seed@5d7398d7, com.opnapp.models.Seed@3c17b0c1, com.opnapp.models.Seed@212dbf49, com.opnapp.models.Seed@53535d46, com.opnapp.models.Seed@576e1733]
+2024-01-11 16:35:42.816 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 16:35:42.816 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 16:35:42.848 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@4ef3b0b9, com.opnapp.models.Seed@212fb668, com.opnapp.models.Seed@a33fdb3, com.opnapp.models.Seed@4f9ec968, com.opnapp.models.Seed@46f1b584, com.opnapp.models.Seed@32660181, com.opnapp.models.Seed@541c644, com.opnapp.models.Seed@6b4c04a3, com.opnapp.models.Seed@2fb5cd7, com.opnapp.models.Seed@71395a8e]
+2024-01-11 16:35:42.848 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@4ef3b0b9, com.opnapp.models.Seed@212fb668, com.opnapp.models.Seed@a33fdb3, com.opnapp.models.Seed@4f9ec968, com.opnapp.models.Seed@46f1b584, com.opnapp.models.Seed@32660181, com.opnapp.models.Seed@541c644, com.opnapp.models.Seed@6b4c04a3, com.opnapp.models.Seed@2fb5cd7, com.opnapp.models.Seed@71395a8e]
+2024-01-11 16:36:25.595 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 16:36:25.595 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 16:36:25.635 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@2e7b53fc, com.opnapp.models.Seed@e8bfca, com.opnapp.models.Seed@31cb2d0d, com.opnapp.models.Seed@c4f6abf, com.opnapp.models.Seed@2360c373, com.opnapp.models.Seed@5295fa63, com.opnapp.models.Seed@de598bc, com.opnapp.models.Seed@76a79c31, com.opnapp.models.Seed@11e6886b, com.opnapp.models.Seed@596c58df]
+2024-01-11 16:36:25.635 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@2e7b53fc, com.opnapp.models.Seed@e8bfca, com.opnapp.models.Seed@31cb2d0d, com.opnapp.models.Seed@c4f6abf, com.opnapp.models.Seed@2360c373, com.opnapp.models.Seed@5295fa63, com.opnapp.models.Seed@de598bc, com.opnapp.models.Seed@76a79c31, com.opnapp.models.Seed@11e6886b, com.opnapp.models.Seed@596c58df]
+2024-01-11 16:45:15.596 [http-nio-8050-exec-9] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 16:45:15.596 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 16:45:15.623 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@6eb5b5a3, com.opnapp.models.Seed@69e48cdd, com.opnapp.models.Seed@172e1ab3, com.opnapp.models.Seed@23656cc9, com.opnapp.models.Seed@c239986, com.opnapp.models.Seed@7bd8a9ac, com.opnapp.models.Seed@6faa5a35, com.opnapp.models.Seed@823a509, com.opnapp.models.Seed@5f9cd1c1, com.opnapp.models.Seed@1a9d488e]
+2024-01-11 16:45:15.623 [http-nio-8050-exec-9] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@6eb5b5a3, com.opnapp.models.Seed@69e48cdd, com.opnapp.models.Seed@172e1ab3, com.opnapp.models.Seed@23656cc9, com.opnapp.models.Seed@c239986, com.opnapp.models.Seed@7bd8a9ac, com.opnapp.models.Seed@6faa5a35, com.opnapp.models.Seed@823a509, com.opnapp.models.Seed@5f9cd1c1, com.opnapp.models.Seed@1a9d488e]
+2024-01-11 16:49:03.621 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 16:49:03.622 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 16:49:03.649 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@2d10ffc, com.opnapp.models.Seed@59755f0f, com.opnapp.models.Seed@393c2fa1, com.opnapp.models.Seed@49f40bcd, com.opnapp.models.Seed@6caa7b04, com.opnapp.models.Seed@7f4ddc87, com.opnapp.models.Seed@a8fcdf5, com.opnapp.models.Seed@5a50cb50, com.opnapp.models.Seed@6a37722d, com.opnapp.models.Seed@24ae0630]
+2024-01-11 16:49:03.650 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@2d10ffc, com.opnapp.models.Seed@59755f0f, com.opnapp.models.Seed@393c2fa1, com.opnapp.models.Seed@49f40bcd, com.opnapp.models.Seed@6caa7b04, com.opnapp.models.Seed@7f4ddc87, com.opnapp.models.Seed@a8fcdf5, com.opnapp.models.Seed@5a50cb50, com.opnapp.models.Seed@6a37722d, com.opnapp.models.Seed@24ae0630]
+2024-01-11 16:49:23.350 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 16:49:23.350 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 16:49:23.372 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@32e12672, com.opnapp.models.Seed@1d36f77, com.opnapp.models.Seed@14aef51f, com.opnapp.models.Seed@12065b94, com.opnapp.models.Seed@3eb4dcdd, com.opnapp.models.Seed@552bbab2, com.opnapp.models.Seed@7d22cff4, com.opnapp.models.Seed@88cb3d8, com.opnapp.models.Seed@9259b25, com.opnapp.models.Seed@21752a93]
+2024-01-11 16:49:23.372 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@32e12672, com.opnapp.models.Seed@1d36f77, com.opnapp.models.Seed@14aef51f, com.opnapp.models.Seed@12065b94, com.opnapp.models.Seed@3eb4dcdd, com.opnapp.models.Seed@552bbab2, com.opnapp.models.Seed@7d22cff4, com.opnapp.models.Seed@88cb3d8, com.opnapp.models.Seed@9259b25, com.opnapp.models.Seed@21752a93]
+2024-01-11 17:04:32.307 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 17:04:32.308 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 17:04:32.332 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@48a9d56, com.opnapp.models.Seed@1637e7ab, com.opnapp.models.Seed@64081124, com.opnapp.models.Seed@17bf523c, com.opnapp.models.Seed@3324a21a, com.opnapp.models.Seed@755b5a58, com.opnapp.models.Seed@3790c615, com.opnapp.models.Seed@74dcb7ca, com.opnapp.models.Seed@696a2723, com.opnapp.models.Seed@324e2b10]
+2024-01-11 17:04:32.332 [http-nio-8050-exec-6] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@48a9d56, com.opnapp.models.Seed@1637e7ab, com.opnapp.models.Seed@64081124, com.opnapp.models.Seed@17bf523c, com.opnapp.models.Seed@3324a21a, com.opnapp.models.Seed@755b5a58, com.opnapp.models.Seed@3790c615, com.opnapp.models.Seed@74dcb7ca, com.opnapp.models.Seed@696a2723, com.opnapp.models.Seed@324e2b10]
+2024-01-11 17:07:32.427 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 17:07:32.428 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 17:07:32.432 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 17:09:07.043 [http-nio-8050-exec-10] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 17:09:07.043 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 17:09:07.063 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@496e2f48, com.opnapp.models.Seed@59566a75, com.opnapp.models.Seed@70cc3e3b, com.opnapp.models.Seed@439b5b04, com.opnapp.models.Seed@6483f89a, com.opnapp.models.Seed@1b97f87d, com.opnapp.models.Seed@617edd18, com.opnapp.models.Seed@54a2b03a, com.opnapp.models.Seed@7a7a6919, com.opnapp.models.Seed@56e96cea]
+2024-01-11 17:09:07.065 [http-nio-8050-exec-10] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@496e2f48, com.opnapp.models.Seed@59566a75, com.opnapp.models.Seed@70cc3e3b, com.opnapp.models.Seed@439b5b04, com.opnapp.models.Seed@6483f89a, com.opnapp.models.Seed@1b97f87d, com.opnapp.models.Seed@617edd18, com.opnapp.models.Seed@54a2b03a, com.opnapp.models.Seed@7a7a6919, com.opnapp.models.Seed@56e96cea]
+2024-01-11 17:10:02.242 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 17:10:02.242 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 17:10:02.268 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@1c2b60cf, com.opnapp.models.Seed@5242b69a, com.opnapp.models.Seed@798c3398, com.opnapp.models.Seed@5cb6361b, com.opnapp.models.Seed@508a9d11, com.opnapp.models.Seed@5a6d7155, com.opnapp.models.Seed@3f431b6a, com.opnapp.models.Seed@472b8911, com.opnapp.models.Seed@fe7165, com.opnapp.models.Seed@2e1a64a9]
+2024-01-11 17:10:02.268 [http-nio-8050-exec-2] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@1c2b60cf, com.opnapp.models.Seed@5242b69a, com.opnapp.models.Seed@798c3398, com.opnapp.models.Seed@5cb6361b, com.opnapp.models.Seed@508a9d11, com.opnapp.models.Seed@5a6d7155, com.opnapp.models.Seed@3f431b6a, com.opnapp.models.Seed@472b8911, com.opnapp.models.Seed@fe7165, com.opnapp.models.Seed@2e1a64a9]
+2024-01-11 17:16:02.248 [http-nio-8050-exec-5] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 17:16:02.248 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 17:16:02.272 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@7c0eb77c, com.opnapp.models.Seed@121cc527, com.opnapp.models.Seed@70455fe, com.opnapp.models.Seed@b4a2bea, com.opnapp.models.Seed@456351a6, com.opnapp.models.Seed@750df42f, com.opnapp.models.Seed@3631697d, com.opnapp.models.Seed@711a5245, com.opnapp.models.Seed@17983687, com.opnapp.models.Seed@614f5733]
+2024-01-11 17:16:02.272 [http-nio-8050-exec-5] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@7c0eb77c, com.opnapp.models.Seed@121cc527, com.opnapp.models.Seed@70455fe, com.opnapp.models.Seed@b4a2bea, com.opnapp.models.Seed@456351a6, com.opnapp.models.Seed@750df42f, com.opnapp.models.Seed@3631697d, com.opnapp.models.Seed@711a5245, com.opnapp.models.Seed@17983687, com.opnapp.models.Seed@614f5733]
+2024-01-11 17:19:51.879 [http-nio-8050-exec-8] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 17:19:51.879 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 17:19:51.900 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@2c837c50, com.opnapp.models.Seed@2492e321, com.opnapp.models.Seed@ce649c7, com.opnapp.models.Seed@420a3215, com.opnapp.models.Seed@35227fbd, com.opnapp.models.Seed@4c98e2f2, com.opnapp.models.Seed@48958f69, com.opnapp.models.Seed@2ab7b9e, com.opnapp.models.Seed@20e604c3, com.opnapp.models.Seed@2ca673ed]
+2024-01-11 17:19:51.900 [http-nio-8050-exec-8] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@2c837c50, com.opnapp.models.Seed@2492e321, com.opnapp.models.Seed@ce649c7, com.opnapp.models.Seed@420a3215, com.opnapp.models.Seed@35227fbd, com.opnapp.models.Seed@4c98e2f2, com.opnapp.models.Seed@48958f69, com.opnapp.models.Seed@2ab7b9e, com.opnapp.models.Seed@20e604c3, com.opnapp.models.Seed@2ca673ed]
+2024-01-11 17:24:56.918 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 17:24:56.918 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 17:24:56.937 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@edc58c7, com.opnapp.models.Seed@2dfaecb7, com.opnapp.models.Seed@717941c6, com.opnapp.models.Seed@60c0b05b, com.opnapp.models.Seed@2a696a7a, com.opnapp.models.Seed@7420690e, com.opnapp.models.Seed@3c74ca70, com.opnapp.models.Seed@48864919, com.opnapp.models.Seed@ca405f2, com.opnapp.models.Seed@2a736859]
+2024-01-11 17:24:56.937 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@edc58c7, com.opnapp.models.Seed@2dfaecb7, com.opnapp.models.Seed@717941c6, com.opnapp.models.Seed@60c0b05b, com.opnapp.models.Seed@2a696a7a, com.opnapp.models.Seed@7420690e, com.opnapp.models.Seed@3c74ca70, com.opnapp.models.Seed@48864919, com.opnapp.models.Seed@ca405f2, com.opnapp.models.Seed@2a736859]
+2024-01-11 17:26:20.042 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 17:26:20.042 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 17:26:20.067 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@6460c450, com.opnapp.models.Seed@639ae83, com.opnapp.models.Seed@47f86a31, com.opnapp.models.Seed@40245002, com.opnapp.models.Seed@bc14153, com.opnapp.models.Seed@18f16560, com.opnapp.models.Seed@749261e4, com.opnapp.models.Seed@48477720, com.opnapp.models.Seed@4d0f106f, com.opnapp.models.Seed@196e485c]
+2024-01-11 17:26:20.067 [http-nio-8050-exec-4] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@6460c450, com.opnapp.models.Seed@639ae83, com.opnapp.models.Seed@47f86a31, com.opnapp.models.Seed@40245002, com.opnapp.models.Seed@bc14153, com.opnapp.models.Seed@18f16560, com.opnapp.models.Seed@749261e4, com.opnapp.models.Seed@48477720, com.opnapp.models.Seed@4d0f106f, com.opnapp.models.Seed@196e485c]
+2024-01-11 17:37:07.782 [http-nio-8050-exec-8] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 17:37:07.783 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 17:37:07.810 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@560be3be, com.opnapp.models.Seed@5ef1508a, com.opnapp.models.Seed@4a5c928b, com.opnapp.models.Seed@1f8896ec, com.opnapp.models.Seed@813ec11, com.opnapp.models.Seed@1a7683b9, com.opnapp.models.Seed@3f8f4534, com.opnapp.models.Seed@476ccdb9, com.opnapp.models.Seed@7e34dca4, com.opnapp.models.Seed@6b33d41]
+2024-01-11 17:37:07.811 [http-nio-8050-exec-8] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@560be3be, com.opnapp.models.Seed@5ef1508a, com.opnapp.models.Seed@4a5c928b, com.opnapp.models.Seed@1f8896ec, com.opnapp.models.Seed@813ec11, com.opnapp.models.Seed@1a7683b9, com.opnapp.models.Seed@3f8f4534, com.opnapp.models.Seed@476ccdb9, com.opnapp.models.Seed@7e34dca4, com.opnapp.models.Seed@6b33d41]
+2024-01-11 17:45:41.515 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - Viewing all seeds
+2024-01-11 17:45:41.516 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - Viewing all seeds
+2024-01-11 17:45:41.545 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.SeedDaoImpl - All seeds found: [com.opnapp.models.Seed@3e1ca3e, com.opnapp.models.Seed@1440bcc0, com.opnapp.models.Seed@46fec05e, com.opnapp.models.Seed@6b98ceb1, com.opnapp.models.Seed@78a186a0, com.opnapp.models.Seed@3b77e129, com.opnapp.models.Seed@c91f805, com.opnapp.models.Seed@5b3e1636, com.opnapp.models.Seed@1e9cebc0, com.opnapp.models.Seed@61ee2a7f]
+2024-01-11 17:45:41.546 [http-nio-8050-exec-1] INFO  com.opnapp.services.SeedServiceImpl - All seeds found: [com.opnapp.models.Seed@3e1ca3e, com.opnapp.models.Seed@1440bcc0, com.opnapp.models.Seed@46fec05e, com.opnapp.models.Seed@6b98ceb1, com.opnapp.models.Seed@78a186a0, com.opnapp.models.Seed@3b77e129, com.opnapp.models.Seed@c91f805, com.opnapp.models.Seed@5b3e1636, com.opnapp.models.Seed@1e9cebc0, com.opnapp.models.Seed@61ee2a7f]
+2024-01-11 17:46:31.481 [http-nio-8050-exec-2] INFO  c.o.services.CustomerServiceImpl - Viewing all customers...
+2024-01-11 17:46:31.496 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.CustomerDAOImpl - Viewed all active customers
+2024-01-11 17:47:37.593 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-11 17:47:37.593 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-11 17:47:37.598 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 10
+2024-01-11 17:47:44.973 [http-nio-8050-exec-5] INFO  c.opnapp.services.OrderServiceImpl - Viewing all orders
+2024-01-11 17:47:45.000 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.OrderDAOImpl - Retrieved all orders successfully. Total orders: 2
+2024-01-11 17:52:17.102 [RMI TCP Connection(148)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2024-01-11 17:52:17.128 [RMI TCP Connection(148)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-11 17:52:17.128 [RMI TCP Connection(148)-127.0.0.1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-11 17:52:17.129 [RMI TCP Connection(148)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-11 17:52:17.135 [RMI TCP Connection(148)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-11 17:52:17.136 [RMI TCP Connection(148)-127.0.0.1] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-11 17:52:17.142 [RMI TCP Connection(148)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-11 17:52:17.148 [RMI TCP Connection(148)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2024-01-11 17:52:17.156 [RMI TCP Connection(148)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.

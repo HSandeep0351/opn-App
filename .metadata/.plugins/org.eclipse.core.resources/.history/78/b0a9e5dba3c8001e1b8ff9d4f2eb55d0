@@ -1,0 +1,5 @@
+package com.practapp.controller;
+
+public class CustomerController {
+
+}

@@ -1,0 +1,950 @@
+2024-01-08 09:34:30.210 [HikariPool-6 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=1d9h50m11s103ms259µs899ns).
+2024-01-08 09:59:28.321 [HikariPool-6 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=9m57s891ms733µs300ns).
+2024-01-08 10:02:46.564 [HikariPool-6 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=3m22s153ms32µs700ns).
+2024-01-08 11:54:30.070 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 173
+2024-01-08 11:54:30.071 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 173
+2024-01-08 11:54:30.093 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@3f8cbc87
+2024-01-08 12:01:08.009 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 12:01:08.009 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 12:01:08.014 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 12:50:59.804 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 12:50:59.805 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 12:50:59.811 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 12:52:37.224 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 12:52:37.224 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 12:52:37.231 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 12:52:44.066 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 12:52:44.066 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 12:52:44.071 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 12:52:46.314 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 12:52:46.314 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 12:52:46.318 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 12:53:55.224 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 12:53:55.225 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 12:53:55.230 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 13:22:12.539 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 173
+2024-01-08 13:22:12.539 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 173
+2024-01-08 13:22:12.549 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@5e1e2d7a
+2024-01-08 13:22:17.913 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 173
+2024-01-08 13:22:17.913 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 173
+2024-01-08 13:22:17.916 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@6c58fdd1
+2024-01-08 13:22:18.628 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 173
+2024-01-08 13:22:18.629 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 173
+2024-01-08 13:22:18.633 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@2ef8343f
+2024-01-08 13:22:19.522 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 173
+2024-01-08 13:22:19.523 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 173
+2024-01-08 13:22:19.527 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@489a6570
+2024-01-08 13:25:57.191 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 173
+2024-01-08 13:25:57.191 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 173
+2024-01-08 13:25:57.194 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@446d53ae
+2024-01-08 13:25:58.498 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 173
+2024-01-08 13:25:58.498 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 173
+2024-01-08 13:25:58.503 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@318ec445
+2024-01-08 13:26:44.812 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 13:26:44.812 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 13:26:44.817 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 13:26:47.063 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 13:26:47.063 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 13:26:47.071 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 13:28:32.137 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-08 13:28:32.137 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-08 13:28:32.143 [http-nio-8050-exec-1] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 172 not found
+2024-01-08 13:28:32.156 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID172not found]
+2024-01-08 13:32:04.704 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 13:32:04.704 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 13:32:04.709 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 13:32:11.420 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 167
+2024-01-08 13:32:11.420 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 167
+2024-01-08 13:32:11.426 [http-nio-8050-exec-5] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 167 not found
+2024-01-08 13:32:11.427 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID167not found]
+2024-01-08 13:51:51.405 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 13:51:51.406 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 13:51:51.413 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 13:51:57.788 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 167
+2024-01-08 13:51:57.789 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 167
+2024-01-08 13:51:57.795 [http-nio-8050-exec-8] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 167 not found
+2024-01-08 13:51:57.797 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID167not found]
+2024-01-08 13:52:00.609 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 167
+2024-01-08 13:52:00.609 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 167
+2024-01-08 13:52:00.614 [http-nio-8050-exec-9] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 167 not found
+2024-01-08 13:52:00.616 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID167not found]
+2024-01-08 13:54:28.122 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 13:54:28.122 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 13:54:28.127 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 13:56:06.450 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 13:56:06.450 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 13:56:06.455 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 13:56:33.296 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 13:56:33.296 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 13:56:33.301 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 13:56:41.551 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 13:56:41.552 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 13:56:41.556 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 14:59:06.562 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 14:59:06.562 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 14:59:06.566 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 15:00:05.364 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 15:00:05.364 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 15:00:05.370 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 15:02:12.177 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 15:02:12.177 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 15:02:12.183 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 15:03:49.908 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 15:03:49.908 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 15:03:49.914 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 15:04:04.889 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 167
+2024-01-08 15:04:04.889 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 167
+2024-01-08 15:04:04.892 [http-nio-8050-exec-9] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 167 not found
+2024-01-08 15:04:04.892 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID167not found]
+2024-01-08 15:05:46.838 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 15:05:46.838 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 15:05:46.841 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 15:05:55.745 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 167
+2024-01-08 15:05:55.745 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 167
+2024-01-08 15:05:55.748 [http-nio-8050-exec-2] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 167 not found
+2024-01-08 15:05:55.748 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID167not found]
+2024-01-08 15:06:18.688 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circle
+2024-01-08 15:06:18.689 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circle
+2024-01-08 15:06:18.692 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 7
+2024-01-08 15:06:24.121 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circlew
+2024-01-08 15:06:24.121 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circlew
+2024-01-08 15:06:24.124 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 0
+2024-01-08 15:11:46.978 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-01-08 15:11:46.997 [Thread-23] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:11:46.998 [Thread-23] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-08 15:11:46.999 [Thread-23] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-08 15:11:47.009 [Thread-23] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:11:47.011 [Thread-23] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:11:47.015 [Thread-23] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-08 15:11:47.019 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Shutdown initiated...
+2024-01-08 15:11:47.024 [Thread-23] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Shutdown completed.
+2024-01-08 15:11:47.195 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 8924 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-08 15:11:47.195 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-08 15:11:47.336 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-08 15:11:47.357 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20 ms. Found 7 JPA repository interfaces.
+2024-01-08 15:11:47.410 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-08 15:11:47.411 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:11:47.411 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-08 15:11:47.411 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-08 15:11:47.421 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-08 15:11:47.422 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 225 ms
+2024-01-08 15:11:47.445 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-08 15:11:47.448 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-08 15:11:47.449 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Starting...
+2024-01-08 15:11:47.458 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-7 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1a7af7a1
+2024-01-08 15:11:47.459 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Start completed.
+2024-01-08 15:11:47.538 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-08 15:11:47.569 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-08 15:11:47.769 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-08 15:11:47.842 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-08 15:11:47.848 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:11:47.865 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-08 15:11:47.867 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.709 seconds (process running for 157271.519)
+2024-01-08 15:11:47.868 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-08 15:11:57.000 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-08 15:11:57.000 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-08 15:11:57.001 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-08 15:11:57.004 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circle
+2024-01-08 15:11:57.004 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circle
+2024-01-08 15:11:57.007 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 7
+2024-01-08 15:12:01.487 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circlew
+2024-01-08 15:12:01.488 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circlew
+2024-01-08 15:12:01.490 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 0
+2024-01-08 15:13:58.422 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-01-08 15:13:58.429 [Thread-27] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:13:58.429 [Thread-27] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-08 15:13:58.430 [Thread-27] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-08 15:13:58.431 [Thread-27] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:13:58.432 [Thread-27] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:13:58.432 [Thread-27] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-08 15:13:58.433 [Thread-27] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Shutdown initiated...
+2024-01-08 15:13:58.435 [Thread-27] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Shutdown completed.
+2024-01-08 15:13:58.498 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 8924 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-08 15:13:58.499 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-08 15:13:58.638 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-08 15:13:58.658 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20 ms. Found 7 JPA repository interfaces.
+2024-01-08 15:13:58.716 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-08 15:13:58.717 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:13:58.717 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-08 15:13:58.717 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-08 15:13:58.727 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-08 15:13:58.727 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 227 ms
+2024-01-08 15:13:58.749 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-08 15:13:58.752 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-08 15:13:58.752 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Starting...
+2024-01-08 15:13:58.761 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-8 - Added connection com.mysql.cj.jdbc.ConnectionImpl@68bf7a2c
+2024-01-08 15:13:58.761 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Start completed.
+2024-01-08 15:13:58.813 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-08 15:13:58.836 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-08 15:13:58.986 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-08 15:13:59.053 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-08 15:13:59.060 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:13:59.063 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-08 15:13:59.066 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.585 seconds (process running for 157402.72)
+2024-01-08 15:13:59.067 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-08 15:14:09.217 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-08 15:14:09.217 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-08 15:14:09.218 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-01-08 15:14:09.220 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circle
+2024-01-08 15:14:09.221 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circle
+2024-01-08 15:14:09.223 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 7
+2024-01-08 15:14:12.886 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circled
+2024-01-08 15:14:12.886 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circled
+2024-01-08 15:14:12.889 [http-nio-8050-exec-2] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with Shape circled not found
+2024-01-08 15:14:12.892 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with Shape circled not found]
+2024-01-08 15:14:37.112 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planters by cost range: 1.0 - 2.0
+2024-01-08 15:14:37.112 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by cost range: 1.0 - 2.0
+2024-01-08 15:14:37.115 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by cost range: 5
+2024-01-08 15:14:47.742 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planters by cost range: 0.0 - 1.0
+2024-01-08 15:14:47.743 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter minCost and minCost should not be empty and should contain only numbers minCost must less than maxCost]
+2024-01-08 15:15:17.274 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planters by cost range: 1.0 - 2.0
+2024-01-08 15:15:17.274 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by cost range: 1.0 - 2.0
+2024-01-08 15:15:17.276 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by cost range: 5
+2024-01-08 15:59:50.980 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-01-08 15:59:50.987 [Thread-31] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:59:50.987 [Thread-31] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-01-08 15:59:50.987 [Thread-31] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-01-08 15:59:50.988 [Thread-31] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:59:50.990 [Thread-31] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:59:50.990 [Thread-31] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-08 15:59:50.991 [Thread-31] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Shutdown initiated...
+2024-01-08 15:59:50.995 [Thread-31] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Shutdown completed.
+2024-01-08 15:59:51.062 [restartedMain] INFO  com.opnapp.OpnappApplication - Starting OpnappApplication using Java 17.0.8 with PID 8924 (C:\Users\GPRITHAM\Desktop\FinalProject\opnapp\target\classes started by gpritham in C:\Users\GPRITHAM\Desktop\FinalProject\opnapp)
+2024-01-08 15:59:51.062 [restartedMain] INFO  com.opnapp.OpnappApplication - No active profile set, falling back to 1 default profile: "default"
+2024-01-08 15:59:51.178 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-08 15:59:51.197 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19 ms. Found 7 JPA repository interfaces.
+2024-01-08 15:59:51.248 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8050 (http)
+2024-01-08 15:59:51.248 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:59:51.248 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-01-08 15:59:51.248 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-08 15:59:51.258 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-01-08 15:59:51.258 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 195 ms
+2024-01-08 15:59:51.280 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-08 15:59:51.283 [restartedMain] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-08 15:59:51.284 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-9 - Starting...
+2024-01-08 15:59:51.293 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-9 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1c0bf4e1
+2024-01-08 15:59:51.293 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-9 - Start completed.
+2024-01-08 15:59:51.338 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-08 15:59:51.360 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-08 15:59:51.519 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-08 15:59:51.603 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-01-08 15:59:51.608 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8050"]
+2024-01-08 15:59:51.613 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8050 (http) with context path ''
+2024-01-08 15:59:51.617 [restartedMain] INFO  com.opnapp.OpnappApplication - Started OpnappApplication in 0.574 seconds (process running for 160155.292)
+2024-01-08 15:59:51.618 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-01-08 16:00:15.524 [http-nio-8050-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-08 16:00:15.525 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-01-08 16:00:15.525 [http-nio-8050-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-01-08 16:00:15.528 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planters by cost range: 1.0 - 2.0
+2024-01-08 16:00:15.528 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by cost range: 1.0 - 2.0
+2024-01-08 16:00:15.531 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by cost range: 5
+2024-01-08 16:07:47.256 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planters by cost range: 1.0 - 2.0
+2024-01-08 16:07:47.256 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by cost range: 1.0 - 2.0
+2024-01-08 16:07:47.258 [http-nio-8050-exec-3] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with mincost 1.0 and maxcost 2.0 not found
+2024-01-08 16:07:47.261 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with cost 1.0 and 2.0 not found]
+2024-01-08 16:13:25.088 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 16:13:25.088 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 16:13:25.095 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 16:13:34.150 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 167
+2024-01-08 16:13:34.150 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 167
+2024-01-08 16:13:34.153 [http-nio-8050-exec-7] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 167 not found
+2024-01-08 16:13:34.154 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID 167 not found]
+2024-01-08 16:15:06.844 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 16:15:06.844 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 16:15:06.847 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 16:15:19.274 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 173
+2024-01-08 16:15:19.274 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 173
+2024-01-08 16:15:19.276 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@4445bb25
+2024-01-08 16:15:21.751 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 173
+2024-01-08 16:15:21.751 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 173
+2024-01-08 16:15:21.753 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@12bb6133
+2024-01-08 16:15:43.037 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 167
+2024-01-08 16:15:43.037 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 167
+2024-01-08 16:15:43.039 [http-nio-8050-exec-1] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 167 not found
+2024-01-08 16:15:43.039 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID 167 not found]
+2024-01-08 16:18:24.878 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 16:18:24.878 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 16:18:24.882 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 16:18:31.576 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 167
+2024-01-08 16:18:31.576 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 167
+2024-01-08 16:18:31.578 [http-nio-8050-exec-4] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 167 not found
+2024-01-08 16:18:31.579 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID 167 not found]
+2024-01-08 16:19:38.674 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circles
+2024-01-08 16:19:38.674 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circles
+2024-01-08 16:19:38.677 [http-nio-8050-exec-5] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with Shape circles not found
+2024-01-08 16:19:38.677 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with Shape circles not found]
+2024-01-08 16:21:14.237 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 167
+2024-01-08 16:21:14.237 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 167
+2024-01-08 16:21:14.239 [http-nio-8050-exec-6] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 167 not found
+2024-01-08 16:21:14.240 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID 167 not found]
+2024-01-08 16:21:20.519 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 173
+2024-01-08 16:21:20.519 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 173
+2024-01-08 16:21:20.521 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@61c07092
+2024-01-08 16:21:30.507 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circleh
+2024-01-08 16:21:30.507 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circleh
+2024-01-08 16:21:30.509 [http-nio-8050-exec-8] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with Shape circleh not found
+2024-01-08 16:21:30.509 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with Shape circleh not found]
+2024-01-08 16:21:35.638 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circle
+2024-01-08 16:21:35.638 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circle
+2024-01-08 16:21:35.640 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 7
+2024-01-08 16:21:49.898 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planters by cost range: 1.0 - 25.0
+2024-01-08 16:21:49.898 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by cost range: 1.0 - 25.0
+2024-01-08 16:21:49.900 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by cost range: 47
+2024-01-08 16:21:56.183 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planters by cost range: 1.0 - 2.0
+2024-01-08 16:21:56.183 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by cost range: 1.0 - 2.0
+2024-01-08 16:21:56.185 [http-nio-8050-exec-1] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with mincost 1.0 and maxcost 2.0 not found
+2024-01-08 16:21:56.186 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with cost 1.0 and 2.0 not found]
+2024-01-08 16:24:55.828 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 16:24:55.828 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 16:24:55.834 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 16:25:33.514 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: dds
+2024-01-08 16:25:33.514 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: dds
+2024-01-08 16:25:33.517 [http-nio-8050-exec-4] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with Shape dds not found
+2024-01-08 16:25:33.517 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with Shape dds not found]
+2024-01-08 16:37:14.554 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 16:37:14.555 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 16:37:14.559 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 16:43:44.781 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 16:43:44.781 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 16:43:44.785 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 16:44:29.692 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 167
+2024-01-08 16:44:29.692 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 167
+2024-01-08 16:44:29.696 [http-nio-8050-exec-1] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 167 not found
+2024-01-08 16:44:29.697 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID 167 not found]
+2024-01-08 16:45:08.389 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circle
+2024-01-08 16:45:08.390 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circle
+2024-01-08 16:45:08.391 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 7
+2024-01-08 16:45:25.579 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 174
+2024-01-08 16:45:25.579 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 174
+2024-01-08 16:45:25.581 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@6419bb80
+2024-01-08 16:46:51.268 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 16:46:51.268 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 16:46:51.272 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 16:52:40.341 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 16:52:40.342 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 16:52:40.347 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 17:06:52.096 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:06:52.096 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:06:52.101 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 17:07:17.377 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:07:17.377 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:07:17.380 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 17:08:32.251 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@593bad8c
+2024-01-08 17:08:32.251 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@593bad8c
+2024-01-08 17:08:32.304 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@53c1a7e5
+2024-01-08 17:12:01.612 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@642c2033
+2024-01-08 17:12:01.613 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@642c2033
+2024-01-08 17:12:01.617 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@345de2df
+2024-01-08 17:12:05.776 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:12:05.776 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:12:05.781 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 17:12:16.519 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:12:16.520 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:12:16.526 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 17:12:17.861 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 173
+2024-01-08 17:12:17.865 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 173
+2024-01-08 17:12:17.872 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 173
+2024-01-08 17:14:35.270 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:14:35.270 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:14:35.274 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 53
+2024-01-08 17:14:37.273 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@20c2dce1
+2024-01-08 17:14:37.275 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 17:17:56.816 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:17:56.816 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:17:56.819 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 53
+2024-01-08 17:18:19.587 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@21b046d1
+2024-01-08 17:18:19.588 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 17:22:33.420 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:22:33.420 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:22:33.426 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 53
+2024-01-08 17:22:51.787 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@6a70a428
+2024-01-08 17:22:51.787 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@6a70a428
+2024-01-08 17:22:51.834 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3386206
+2024-01-08 17:23:01.009 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5f381cab
+2024-01-08 17:23:01.009 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@5f381cab
+2024-01-08 17:23:01.013 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3d509d0d
+2024-01-08 17:23:02.347 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3ba60516
+2024-01-08 17:23:02.347 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3ba60516
+2024-01-08 17:23:02.350 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@7829187d
+2024-01-08 17:23:07.533 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5369b1ba
+2024-01-08 17:23:07.534 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@5369b1ba
+2024-01-08 17:23:07.538 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@6267aaa3
+2024-01-08 17:23:10.603 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@51734286
+2024-01-08 17:23:10.604 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@51734286
+2024-01-08 17:23:10.607 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@1f359441
+2024-01-08 17:23:11.991 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@70c2f838
+2024-01-08 17:23:11.991 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@70c2f838
+2024-01-08 17:23:11.994 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@51beed42
+2024-01-08 17:23:22.209 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@108fded5
+2024-01-08 17:23:22.209 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@108fded5
+2024-01-08 17:23:22.214 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@1acb8a63
+2024-01-08 17:23:23.211 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@4b4b5b6a
+2024-01-08 17:23:23.211 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@4b4b5b6a
+2024-01-08 17:23:23.215 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@785fe024
+2024-01-08 17:23:32.790 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@b214c29
+2024-01-08 17:23:32.791 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@b214c29
+2024-01-08 17:23:32.795 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@24de289b
+2024-01-08 17:23:40.734 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@1baf89df
+2024-01-08 17:23:40.734 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@1baf89df
+2024-01-08 17:23:40.738 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@69f510d5
+2024-01-08 17:23:43.126 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@22ea57c
+2024-01-08 17:23:43.127 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@22ea57c
+2024-01-08 17:23:43.131 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@300a0e06
+2024-01-08 17:23:43.687 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@2dbda5a1
+2024-01-08 17:23:43.688 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@2dbda5a1
+2024-01-08 17:23:43.692 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@262a2e68
+2024-01-08 17:23:43.869 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@2df1dcb2
+2024-01-08 17:23:43.869 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@2df1dcb2
+2024-01-08 17:23:43.875 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@1047d301
+2024-01-08 17:23:44.033 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@146e926f
+2024-01-08 17:23:44.033 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@146e926f
+2024-01-08 17:23:44.038 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@4c9b213a
+2024-01-08 17:23:44.260 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5205423d
+2024-01-08 17:23:44.260 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@5205423d
+2024-01-08 17:23:44.263 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@1df6ecee
+2024-01-08 17:23:46.016 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@7fe52423
+2024-01-08 17:23:46.016 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@7fe52423
+2024-01-08 17:23:46.021 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@27442db6
+2024-01-08 17:23:49.584 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@20102b28
+2024-01-08 17:23:49.584 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@20102b28
+2024-01-08 17:23:49.588 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@2737048d
+2024-01-08 17:23:50.896 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@7888b6d7
+2024-01-08 17:23:50.896 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@7888b6d7
+2024-01-08 17:23:50.900 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@667ff29d
+2024-01-08 17:23:52.035 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5fc5e23a
+2024-01-08 17:23:52.035 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@5fc5e23a
+2024-01-08 17:23:52.040 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@510dcb94
+2024-01-08 17:24:09.988 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:24:09.988 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:24:09.992 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 53
+2024-01-08 17:24:12.924 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:24:12.925 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:24:12.929 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 53
+2024-01-08 17:24:26.870 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@2ce7135f
+2024-01-08 17:24:26.871 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@2ce7135f
+2024-01-08 17:24:26.874 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@5b4c781b
+2024-01-08 17:25:21.635 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3675b860
+2024-01-08 17:25:21.635 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3675b860
+2024-01-08 17:25:21.639 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@1c7d5f20
+2024-01-08 17:26:15.900 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:26:15.900 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:26:15.904 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 53
+2024-01-08 17:27:45.060 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@418cfc84
+2024-01-08 17:27:45.061 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 17:30:04.375 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:30:04.375 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:30:04.379 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 53
+2024-01-08 17:32:56.460 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:32:56.460 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:32:56.463 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 53
+2024-01-08 17:32:58.363 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@1219d3be
+2024-01-08 17:32:58.363 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 17:33:11.563 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@62147961
+2024-01-08 17:33:11.564 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 17:33:32.428 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@58ef57df
+2024-01-08 17:33:32.428 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@58ef57df
+2024-01-08 17:33:32.461 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@58ef57df
+2024-01-08 17:33:36.245 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@62c2500f
+2024-01-08 17:33:36.245 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@62c2500f
+2024-01-08 17:33:36.261 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@62c2500f
+2024-01-08 17:33:58.337 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circle
+2024-01-08 17:33:58.337 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circle
+2024-01-08 17:33:58.340 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 7
+2024-01-08 17:36:08.346 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:36:08.346 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:36:08.349 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 17:36:56.508 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@6f054e88
+2024-01-08 17:36:56.508 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@6f054e88
+2024-01-08 17:36:56.513 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@cc3756
+2024-01-08 17:37:06.101 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circle
+2024-01-08 17:37:06.101 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circle
+2024-01-08 17:37:06.103 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 7
+2024-01-08 17:41:15.348 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circle
+2024-01-08 17:41:15.349 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circle
+2024-01-08 17:41:15.351 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 7
+2024-01-08 17:41:18.246 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@4f1913a9
+2024-01-08 17:41:18.246 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@4f1913a9
+2024-01-08 17:41:18.251 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@448c6781
+2024-01-08 17:41:19.066 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@8646ae0
+2024-01-08 17:41:19.067 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@8646ae0
+2024-01-08 17:41:19.071 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3dddba84
+2024-01-08 17:41:19.377 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3b683358
+2024-01-08 17:41:19.377 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3b683358
+2024-01-08 17:41:19.381 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@ae2b817
+2024-01-08 17:41:19.672 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5847ca04
+2024-01-08 17:41:19.673 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@5847ca04
+2024-01-08 17:41:19.676 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3e24e613
+2024-01-08 17:41:30.825 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:41:30.826 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:41:30.829 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 17:41:33.616 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@4e79c279
+2024-01-08 17:41:33.618 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 17:43:54.563 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 17:43:54.564 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 17:43:54.568 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 17:44:24.509 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 174
+2024-01-08 17:44:24.509 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 174
+2024-01-08 17:44:24.512 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@1f77397e
+2024-01-08 19:07:45.875 [HikariPool-9 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-9 - Thread starvation or clock leap detected (housekeeper delta=1h21m47s726ms744µs400ns).
+2024-01-08 19:11:49.047 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 19:11:49.047 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 19:11:49.051 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 19:11:51.646 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@51fcb0f4
+2024-01-08 19:11:51.648 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 19:15:02.882 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 19:15:02.882 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 19:15:02.886 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 19:15:05.808 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@71c4dc92
+2024-01-08 19:15:05.810 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 19:15:14.000 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 174
+2024-01-08 19:15:14.000 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 174
+2024-01-08 19:15:14.003 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@4ef33943
+2024-01-08 19:15:57.844 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 174
+2024-01-08 19:15:57.844 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 174
+2024-01-08 19:15:57.847 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@550b1a4e
+2024-01-08 19:16:07.657 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Deleting planter: 174
+2024-01-08 19:16:07.662 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Deleting planter with ID: 174
+2024-01-08 19:16:07.709 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter deleted successfully with ID: 174
+2024-01-08 19:16:14.659 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 19:16:14.659 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 19:16:14.661 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@2967f3a1
+2024-01-08 19:17:50.234 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 19:17:50.234 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 19:17:50.237 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 19:18:10.078 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 185
+2024-01-08 19:18:10.078 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 185
+2024-01-08 19:18:10.081 [http-nio-8050-exec-1] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 185 not found
+2024-01-08 19:18:10.082 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID 185 not found]
+2024-01-08 19:18:16.428 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 155
+2024-01-08 19:18:16.428 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 155
+2024-01-08 19:18:16.432 [http-nio-8050-exec-2] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 155 not found
+2024-01-08 19:18:16.432 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID 155 not found]
+2024-01-08 19:18:20.319 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 19:18:20.320 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 19:18:20.323 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@39c8e86d
+2024-01-08 19:18:26.205 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5a0ffe4c
+2024-01-08 19:18:26.206 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@5a0ffe4c
+2024-01-08 19:18:26.214 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@555c8da5
+2024-01-08 19:18:32.635 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 23343
+2024-01-08 19:18:32.635 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 23343
+2024-01-08 19:18:32.638 [http-nio-8050-exec-5] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 23343 not found
+2024-01-08 19:18:32.639 [http-nio-8050-exec-5] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID 23343 not found]
+2024-01-08 19:18:43.608 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 19:18:43.608 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 19:18:43.610 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@26d5e84e
+2024-01-08 19:19:00.575 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@8d8ce94
+2024-01-08 19:19:00.575 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@8d8ce94
+2024-01-08 19:19:00.579 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@4f17992e
+2024-01-08 19:20:06.604 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circle
+2024-01-08 19:20:06.604 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circle
+2024-01-08 19:20:06.608 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 6
+2024-01-08 19:20:37.289 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3b2452b
+2024-01-08 19:20:37.289 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3b2452b
+2024-01-08 19:20:37.298 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3d0ef880
+2024-01-08 19:21:49.650 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 19:21:49.651 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 19:21:49.654 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 54
+2024-01-08 19:21:56.140 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@229f5ed6
+2024-01-08 19:21:56.141 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 19:22:10.302 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 19:22:10.302 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 19:22:10.305 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@286e2997
+2024-01-08 19:22:23.276 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@60b9575d
+2024-01-08 19:22:23.276 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@60b9575d
+2024-01-08 19:22:23.286 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@337edf28
+2024-01-08 19:22:31.589 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circle
+2024-01-08 19:22:31.589 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circle
+2024-01-08 19:22:31.592 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 7
+2024-01-08 19:24:41.176 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@58b205cd
+2024-01-08 19:24:41.176 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@58b205cd
+2024-01-08 19:24:41.225 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@a2a5dcd
+2024-01-08 19:25:07.786 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@20b67e2d
+2024-01-08 19:25:07.786 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@20b67e2d
+2024-01-08 19:25:07.795 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@171f893a
+2024-01-08 19:26:56.133 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3db28d0d
+2024-01-08 19:26:56.133 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3db28d0d
+2024-01-08 19:26:56.139 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@777fff09
+2024-01-08 19:28:45.927 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 19:28:45.927 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 19:28:45.930 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 19:28:49.196 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@495ce325
+2024-01-08 19:28:49.197 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 19:28:57.690 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@13392308
+2024-01-08 19:28:57.690 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@13392308
+2024-01-08 19:28:57.697 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@225aa979
+2024-01-08 19:29:44.391 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 19:29:44.393 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 19:29:44.396 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 19:29:52.966 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@708f14df
+2024-01-08 19:29:52.966 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@708f14df
+2024-01-08 19:29:52.974 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@6f1d8f5b
+2024-01-08 19:30:26.435 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 19:30:26.436 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 19:30:26.440 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@55835bb0
+2024-01-08 19:30:39.573 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@26584a6a
+2024-01-08 19:30:39.573 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@26584a6a
+2024-01-08 19:30:39.580 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@2316a2d4
+2024-01-08 19:30:56.508 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: circle
+2024-01-08 19:30:56.508 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: circle
+2024-01-08 19:30:56.512 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 7
+2024-01-08 19:31:05.471 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@23100cce
+2024-01-08 19:31:05.471 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@23100cce
+2024-01-08 19:31:05.477 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@16f8d570
+2024-01-08 19:32:14.912 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 179
+2024-01-08 19:32:14.912 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 179
+2024-01-08 19:32:14.915 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@6af866f
+2024-01-08 19:32:26.404 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 179
+2024-01-08 19:32:26.404 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 179
+2024-01-08 19:32:26.407 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@49095051
+2024-01-08 19:32:28.641 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@756f8e65
+2024-01-08 19:32:28.641 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@756f8e65
+2024-01-08 19:32:28.647 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@5334bff1
+2024-01-08 19:38:38.988 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 19:38:38.988 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 19:38:38.991 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 19:38:52.595 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 19:38:52.595 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 19:38:52.597 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@27acb2a6
+2024-01-08 19:38:57.355 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3e92fd14
+2024-01-08 19:38:57.356 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3e92fd14
+2024-01-08 19:38:57.363 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@158c8a76
+2024-01-08 19:39:06.750 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 19:39:06.750 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 19:39:06.756 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 19:39:07.829 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@e8b2d9f
+2024-01-08 19:39:07.830 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 19:40:12.838 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 19:40:12.838 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 19:40:12.841 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 19:40:22.268 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 19:40:22.269 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 19:40:22.272 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@3c288f67
+2024-01-08 19:40:30.651 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3336b202
+2024-01-08 19:40:30.652 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 19:40:42.033 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@2b1a7f7d
+2024-01-08 19:40:42.035 [http-nio-8050-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 19:40:46.869 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 19:40:46.870 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 19:40:46.874 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 19:40:48.160 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@41eaf732
+2024-01-08 19:40:48.161 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 19:40:59.772 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@21807015
+2024-01-08 19:40:59.772 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@21807015
+2024-01-08 19:40:59.779 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@2fed9af
+2024-01-08 20:10:58.244 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:10:58.245 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:10:58.249 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 20:11:14.162 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@17bdc34
+2024-01-08 20:11:14.162 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@17bdc34
+2024-01-08 20:11:14.211 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@6b0ec7e5
+2024-01-08 20:13:34.240 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:13:34.241 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:13:34.246 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 20:13:39.336 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@6ccdf6ae
+2024-01-08 20:13:39.336 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@6ccdf6ae
+2024-01-08 20:13:39.344 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@105cf1ef
+2024-01-08 20:14:00.723 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 167
+2024-01-08 20:14:00.723 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 167
+2024-01-08 20:14:00.726 [http-nio-8050-exec-2] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 167 not found
+2024-01-08 20:14:00.730 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID 167 not found]
+2024-01-08 20:14:05.051 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@64009053
+2024-01-08 20:14:05.052 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:14:07.318 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@6035edb9
+2024-01-08 20:14:07.319 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:16:00.440 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:16:00.441 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:16:00.444 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 20:16:07.267 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@26a375cf
+2024-01-08 20:16:07.267 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@26a375cf
+2024-01-08 20:16:07.274 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@36321266
+2024-01-08 20:16:22.152 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:16:22.152 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:16:22.155 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 20:16:26.566 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@1e3af494
+2024-01-08 20:16:26.567 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@1e3af494
+2024-01-08 20:16:26.573 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@4b59bb98
+2024-01-08 20:16:32.523 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@6bfd5c52
+2024-01-08 20:16:32.524 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:17:08.828 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5837aa37
+2024-01-08 20:17:08.829 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:17:30.058 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 20:17:30.058 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 20:17:30.061 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@72122b8e
+2024-01-08 20:17:33.618 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@14a1d8ff
+2024-01-08 20:17:33.619 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:17:57.635 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 20:17:57.636 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 20:17:57.640 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@29b27d65
+2024-01-08 20:18:01.301 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@47d294c4
+2024-01-08 20:18:01.302 [http-nio-8050-exec-6] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:18:06.433 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@20b2fa16
+2024-01-08 20:18:06.435 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:18:49.739 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@15b817e0
+2024-01-08 20:18:49.739 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@15b817e0
+2024-01-08 20:18:49.747 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@311d336b
+2024-01-08 20:24:50.425 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:24:50.425 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:24:50.429 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 20:25:01.534 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@5093dc5c
+2024-01-08 20:25:01.534 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@5093dc5c
+2024-01-08 20:25:01.539 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@6570d6e1
+2024-01-08 20:25:06.318 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@4c62e84a
+2024-01-08 20:25:06.319 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:27:40.786 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:27:40.786 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:27:40.793 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 55
+2024-01-08 20:27:46.926 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@7599597a
+2024-01-08 20:27:46.926 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@7599597a
+2024-01-08 20:27:46.930 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@17b34308
+2024-01-08 20:27:49.858 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@13949acc
+2024-01-08 20:27:49.860 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:28:27.721 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3de8fdd2
+2024-01-08 20:28:27.721 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3de8fdd2
+2024-01-08 20:28:27.754 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3de8fdd2
+2024-01-08 20:30:47.017 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:30:47.017 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:30:47.022 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 56
+2024-01-08 20:30:58.798 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@1b4aefdc
+2024-01-08 20:30:58.798 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@1b4aefdc
+2024-01-08 20:30:58.802 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@3a356e56
+2024-01-08 20:31:03.929 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@17e54d5c
+2024-01-08 20:31:03.930 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:31:27.309 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@4200bbe5
+2024-01-08 20:31:27.309 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@4200bbe5
+2024-01-08 20:31:27.316 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@4200bbe5
+2024-01-08 20:32:36.786 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:32:36.786 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:32:36.791 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 57
+2024-01-08 20:33:18.899 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:33:18.899 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:33:18.903 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 57
+2024-01-08 20:33:36.332 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@2cd38dff
+2024-01-08 20:33:36.332 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@2cd38dff
+2024-01-08 20:33:36.336 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@71804f37
+2024-01-08 20:34:21.840 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:34:21.840 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:34:21.844 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 57
+2024-01-08 20:34:29.184 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@74c85a75
+2024-01-08 20:34:29.185 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@74c85a75
+2024-01-08 20:34:29.190 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@7c2eb133
+2024-01-08 20:34:44.677 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3063b896
+2024-01-08 20:34:44.678 [http-nio-8050-exec-4] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:34:52.564 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:34:52.564 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:34:52.570 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 57
+2024-01-08 20:39:28.450 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:39:28.450 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:39:28.455 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 57
+2024-01-08 20:39:39.140 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@4b297a1
+2024-01-08 20:39:39.142 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@4b297a1
+2024-01-08 20:39:39.145 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@70fe6345
+2024-01-08 20:39:42.894 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3e0a8b8c
+2024-01-08 20:39:42.895 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:43:23.665 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:43:23.665 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:43:23.669 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 57
+2024-01-08 20:43:46.724 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:43:46.724 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:43:46.729 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 57
+2024-01-08 20:45:34.080 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:45:34.081 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:45:34.087 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 57
+2024-01-08 20:45:43.474 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@34aebe75
+2024-01-08 20:45:43.475 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@34aebe75
+2024-01-08 20:45:43.481 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@4995a99a
+2024-01-08 20:45:49.305 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3a75918c
+2024-01-08 20:45:49.306 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:46:06.022 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3aff6fda
+2024-01-08 20:46:06.022 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3aff6fda
+2024-01-08 20:46:06.057 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3aff6fda
+2024-01-08 20:47:45.670 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:47:45.670 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:47:45.675 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 58
+2024-01-08 20:47:57.856 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@3df688f4
+2024-01-08 20:47:57.856 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@3df688f4
+2024-01-08 20:47:57.860 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@1d575344
+2024-01-08 20:48:06.300 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5093d700
+2024-01-08 20:48:06.301 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:48:24.000 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@76dc1375
+2024-01-08 20:48:24.000 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@76dc1375
+2024-01-08 20:48:24.006 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@76dc1375
+2024-01-08 20:50:18.675 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 20:50:18.675 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 20:50:18.678 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 59
+2024-01-08 20:50:24.506 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@4641c737
+2024-01-08 20:50:24.506 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@4641c737
+2024-01-08 20:50:24.510 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@33ccba39
+2024-01-08 20:50:29.301 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@142fb94d
+2024-01-08 20:50:29.302 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 20:50:46.779 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3ed69822
+2024-01-08 20:50:46.779 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3ed69822
+2024-01-08 20:50:46.787 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3ed69822
+2024-01-08 21:15:12.124 [HikariPool-9 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-9 - Thread starvation or clock leap detected (housekeeper delta=24m24s739ms875µs600ns).
+2024-01-08 21:16:32.038 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 21:16:32.038 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 21:16:32.042 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 60
+2024-01-08 21:16:40.773 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@566e46e9
+2024-01-08 21:16:40.773 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@566e46e9
+2024-01-08 21:16:40.779 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@7cc04349
+2024-01-08 21:16:44.079 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3b299986
+2024-01-08 21:16:44.079 [http-nio-8050-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 21:34:11.721 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5c8e854b
+2024-01-08 21:34:11.721 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@5c8e854b
+2024-01-08 21:34:11.727 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@5c8e854b
+2024-01-08 21:34:33.862 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@34b5d5e7
+2024-01-08 21:34:33.863 [http-nio-8050-exec-3] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 21:35:09.100 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-08 21:35:09.100 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-08 21:35:09.103 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 4
+2024-01-08 21:35:24.708 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 21:35:24.708 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 21:35:24.710 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@46ed47dd
+2024-01-08 21:45:13.505 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 21:45:13.506 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 21:45:13.509 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 61
+2024-01-08 21:45:25.510 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 21:45:25.510 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 21:45:25.512 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@5ad4b5cf
+2024-01-08 21:45:31.272 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@6937dba2
+2024-01-08 21:45:31.272 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@6937dba2
+2024-01-08 21:45:31.279 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@3a7011a
+2024-01-08 22:28:37.299 [HikariPool-9 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-9 - Thread starvation or clock leap detected (housekeeper delta=42m54s780ms136µs900ns).
+2024-01-08 22:30:00.813 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 22:30:00.813 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 22:30:00.818 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 61
+2024-01-08 22:30:23.370 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 22:30:23.370 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 22:30:23.373 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@499912ab
+2024-01-08 22:30:33.265 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@1f00a225
+2024-01-08 22:30:33.266 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@1f00a225
+2024-01-08 22:30:33.270 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@40d5a5f6
+2024-01-08 22:30:41.724 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-08 22:30:41.724 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-08 22:30:41.727 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 4
+2024-01-08 22:31:01.992 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 22:31:01.992 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 22:31:01.994 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@17776cf1
+2024-01-08 22:31:18.743 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planters by cost range: 1.0 - 20.0
+2024-01-08 22:31:18.743 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by cost range: 1.0 - 20.0
+2024-01-08 22:31:18.748 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by cost range: 9
+2024-01-08 22:34:04.141 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 22:34:04.141 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 22:34:04.145 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 61
+2024-01-08 22:34:12.550 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 22:34:12.550 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 22:34:12.553 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@1461db46
+2024-01-08 22:34:17.391 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@3b3b4620
+2024-01-08 22:34:17.391 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@3b3b4620
+2024-01-08 22:34:17.395 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@5866aac7
+2024-01-08 22:34:45.749 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 22:34:45.749 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 22:34:45.753 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@71e8d72f
+2024-01-08 22:34:59.069 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@6f58be9e
+2024-01-08 22:34:59.069 [http-nio-8050-exec-9] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 22:35:37.874 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@544eba84
+2024-01-08 22:35:37.874 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@544eba84
+2024-01-08 22:35:37.905 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@544eba84
+2024-01-08 22:36:15.688 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-08 22:36:15.688 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-08 22:36:15.691 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 4
+2024-01-08 22:37:16.048 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@36ea0185
+2024-01-08 22:37:16.049 [http-nio-8050-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 22:38:12.304 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@5636f7e9
+2024-01-08 22:38:12.304 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@5636f7e9
+2024-01-08 22:38:12.353 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@b47eca7
+2024-01-08 22:38:29.650 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 22:38:29.650 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 22:38:29.655 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 62
+2024-01-08 22:38:42.922 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@36280c1d
+2024-01-08 22:38:42.922 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@36280c1d
+2024-01-08 22:38:42.927 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@4cc95adc
+2024-01-08 22:39:31.708 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 22:39:31.708 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 22:39:31.712 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 62
+2024-01-08 22:40:10.660 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@449d712a
+2024-01-08 22:40:10.661 [http-nio-8050-exec-7] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter height should be a positive integer]
+2024-01-08 22:40:55.488 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@1826ab16
+2024-01-08 22:40:55.489 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@1826ab16
+2024-01-08 22:40:55.535 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@19628951
+2024-01-08 22:45:21.620 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 22:45:21.621 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 22:45:21.625 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 62
+2024-01-08 22:45:38.386 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@7142bae7
+2024-01-08 22:45:38.386 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@7142bae7
+2024-01-08 22:45:38.392 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@5333a93a
+2024-01-08 22:46:01.625 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-08 22:46:01.625 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-08 22:46:01.628 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 4
+2024-01-08 22:47:05.620 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 22:47:05.620 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 22:47:05.623 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 62
+2024-01-08 22:47:13.965 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@605d940d
+2024-01-08 22:47:13.966 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@605d940d
+2024-01-08 22:47:13.969 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@65db9e54
+2024-01-08 22:47:24.305 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-08 22:47:24.305 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-08 22:47:24.307 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 4
+2024-01-08 22:48:48.694 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@e887a7
+2024-01-08 22:48:48.694 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@e887a7
+2024-01-08 22:48:48.726 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@e887a7
+2024-01-08 22:50:42.436 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 22:50:42.436 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 22:50:42.440 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 63
+2024-01-08 22:51:09.405 [http-nio-8050-exec-4] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3ad9920c
+2024-01-08 22:51:09.405 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3ad9920c
+2024-01-08 22:51:09.439 [http-nio-8050-exec-4] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3ad9920c
+2024-01-08 22:51:56.946 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@42de5da
+2024-01-08 22:51:56.947 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@42de5da
+2024-01-08 22:51:56.959 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@42de5da
+2024-01-08 22:52:05.831 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-08 22:52:05.832 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-08 22:52:05.835 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 5
+2024-01-08 22:52:26.525 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 402
+2024-01-08 22:52:26.525 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 402
+2024-01-08 22:52:26.529 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@6102c23f
+2024-01-08 22:53:00.045 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-08 22:53:00.045 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-08 22:53:00.047 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 5
+2024-01-08 22:53:20.169 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 22:53:20.169 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 22:53:20.173 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 65
+2024-01-08 22:54:53.341 [http-nio-8050-exec-2] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 22:54:53.341 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 22:54:53.345 [http-nio-8050-exec-2] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 65
+2024-01-08 22:55:02.762 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-08 22:55:02.762 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-08 22:55:02.765 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 5
+2024-01-08 22:56:09.299 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3ecdd268
+2024-01-08 22:56:09.299 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3ecdd268
+2024-01-08 22:56:09.335 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3ecdd268
+2024-01-08 22:56:21.366 [http-nio-8050-exec-6] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@77584afb
+2024-01-08 22:56:21.366 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@77584afb
+2024-01-08 22:56:21.400 [http-nio-8050-exec-6] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@7bc3827d
+2024-01-08 22:57:36.749 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 22:57:36.749 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 22:57:36.752 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@217ab873
+2024-01-08 23:53:35.268 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 172
+2024-01-08 23:53:35.268 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 172
+2024-01-08 23:53:35.272 [http-nio-8050-exec-10] WARN  com.opnapp.DAO.PlanterDAOImpl - Planter with ID 172 not found
+2024-01-08 23:53:35.275 [http-nio-8050-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.opnapp.exception.InvalidEntityException: Planter with ID 172 not found]
+2024-01-08 23:53:41.367 [http-nio-8050-exec-1] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by ID: 175
+2024-01-08 23:53:41.367 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planter by ID: 175
+2024-01-08 23:53:41.369 [http-nio-8050-exec-1] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter viewed successfully: com.opnapp.models.Planter@4879653c
+2024-01-08 23:54:21.349 [http-nio-8050-exec-3] INFO  c.opnapp.services.PlanterServiceImpl - Adding planter: com.opnapp.models.Planter@3766b78a
+2024-01-08 23:54:21.349 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Adding planter: com.opnapp.models.Planter@3766b78a
+2024-01-08 23:54:21.385 [http-nio-8050-exec-3] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter added successfully: com.opnapp.models.Planter@3766b78a
+2024-01-08 23:54:38.026 [http-nio-8050-exec-5] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@556deb9e
+2024-01-08 23:54:38.026 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@556deb9e
+2024-01-08 23:54:38.030 [http-nio-8050-exec-5] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@646c03cc
+2024-01-08 23:56:45.471 [http-nio-8050-exec-7] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 23:56:45.471 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 23:56:45.476 [http-nio-8050-exec-7] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 67
+2024-01-08 23:57:17.181 [http-nio-8050-exec-8] INFO  c.opnapp.services.PlanterServiceImpl - Updating planter: com.opnapp.models.Planter@5fc77209
+2024-01-08 23:57:17.181 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Updating planter: com.opnapp.models.Planter@5fc77209
+2024-01-08 23:57:17.185 [http-nio-8050-exec-8] INFO  com.opnapp.DAO.PlanterDAOImpl - Planter updated successfully: com.opnapp.models.Planter@4336ad22
+2024-01-08 23:57:46.904 [http-nio-8050-exec-9] INFO  c.opnapp.services.PlanterServiceImpl - Viewing planter by shape: Cirlce
+2024-01-08 23:57:46.905 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing planters by shape: Cirlce
+2024-01-08 23:57:46.910 [http-nio-8050-exec-9] INFO  com.opnapp.DAO.PlanterDAOImpl - Planters viewed successfully by shape: 6
+2024-01-08 23:58:29.917 [http-nio-8050-exec-10] INFO  c.opnapp.services.PlanterServiceImpl - Viewing all planters
+2024-01-08 23:58:29.917 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - Viewing all planters
+2024-01-08 23:58:29.921 [http-nio-8050-exec-10] INFO  com.opnapp.DAO.PlanterDAOImpl - All planters viewed successfully: 67

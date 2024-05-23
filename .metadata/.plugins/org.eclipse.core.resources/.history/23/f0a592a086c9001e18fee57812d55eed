@@ -1,0 +1,5 @@
+package com.test.gateway;
+
+public class GatewayConfig {
+
+}

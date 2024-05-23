@@ -1,0 +1,5 @@
+package com.practapp.dao;
+
+public class CustomerDaoImpl {
+
+}
